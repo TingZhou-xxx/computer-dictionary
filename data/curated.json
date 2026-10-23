@@ -1,0 +1,3600 @@
+[
+  {
+    "names": [
+      "commit"
+    ],
+    "meaning": "提交",
+    "explanation": "把暂存区的改动记录为 Git 历史中的一个版本。保存文件只改工作区，提交会生成版本记录。",
+    "example": "git commit -m \"修复登录问题\"",
+    "related": "提交不是上传；上传通常使用 push。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "repository",
+      "repo"
+    ],
+    "meaning": "仓库",
+    "explanation": "保存项目文件和版本历史的地方。",
+    "example": "在 GitHub 创建 repository 来管理项目。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "branch"
+    ],
+    "meaning": "分支",
+    "explanation": "从某个版本延伸出来的开发线路，便于分别开发功能。",
+    "example": "git switch -c login",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "merge"
+    ],
+    "meaning": "合并",
+    "explanation": "把另一条分支的改动整合到当前分支。",
+    "example": "git merge feature",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "push"
+    ],
+    "meaning": "推送",
+    "explanation": "把本地提交发送到远程仓库。",
+    "example": "git push origin main",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "pull"
+    ],
+    "meaning": "拉取并整合",
+    "explanation": "从远程获取改动，并整合到当前分支。",
+    "example": "git pull",
+    "related": "整合策略可为 merge 或 rebase，取决于配置与参数。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "fetch"
+    ],
+    "meaning": "获取",
+    "explanation": "下载远程引用和对象，不直接合并到当前分支。",
+    "example": "git fetch origin",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "clone"
+    ],
+    "meaning": "克隆",
+    "explanation": "把已有仓库复制到本地，包含版本历史。",
+    "example": "git clone 仓库地址",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "fork"
+    ],
+    "meaning": "派生仓库",
+    "explanation": "在 GitHub 上创建一个与原仓库关联的个人副本。",
+    "example": "先 fork 项目，再提交改动。",
+    "source": "GitHub 官方词汇表",
+    "sourceUrl": "https://docs.github.com/en/get-started/learning-about-github/github-glossary",
+    "domain": "github",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "checkout"
+    ],
+    "meaning": "检出",
+    "explanation": "Git 中用于切换分支或恢复文件等操作的命令。",
+    "example": "git checkout main",
+    "related": "现代 Git 常用 switch 切换分支、restore 恢复文件。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "rebase"
+    ],
+    "meaning": "变基",
+    "explanation": "将一系列提交重新应用到另一个基点，形成新的提交历史。",
+    "example": "git rebase main",
+    "related": "对已经共享的提交变基需谨慎协调。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "conflict"
+    ],
+    "meaning": "冲突",
+    "explanation": "多个改动无法自动整合，需要人决定保留内容。",
+    "example": "合并分支时处理 merge conflict。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "remote"
+    ],
+    "meaning": "远程仓库／远程连接",
+    "explanation": "Git 中指向其他仓库的命名连接。",
+    "example": "git remote -v",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "readme"
+    ],
+    "meaning": "项目说明文件",
+    "explanation": "通常介绍项目用途、安装和使用方法。",
+    "example": "README.md",
+    "source": "GitHub 官方词汇表",
+    "sourceUrl": "https://docs.github.com/en/get-started/learning-about-github/github-glossary",
+    "domain": "github",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "release"
+    ],
+    "meaning": "发布版本",
+    "explanation": "供用户使用的正式版本或发布记录。",
+    "example": "下载项目的 release 包。",
+    "source": "GitHub 官方词汇表",
+    "sourceUrl": "https://docs.github.com/en/get-started/learning-about-github/github-glossary",
+    "domain": "github",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "tag"
+    ],
+    "meaning": "标签",
+    "explanation": "给某个提交设置便于识别的名称，常用于版本标记。",
+    "example": "git tag v1.0.0",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "class"
+    ],
+    "meaning": "类",
+    "explanation": "面向对象编程中描述对象数据和行为的类型。",
+    "example": "Java：class User {}",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "object"
+    ],
+    "meaning": "对象",
+    "explanation": "通常指某个类的实例，持有状态并提供行为。",
+    "example": "Java：User u = new User();",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "interface"
+    ],
+    "meaning": "接口",
+    "explanation": "在 Java 中可声明类型应提供的行为；也泛指组件交互的约定。",
+    "example": "interface Runnable { void run(); }",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "inheritance"
+    ],
+    "meaning": "继承",
+    "explanation": "让一个类基于另一个类扩展或复用行为的机制。",
+    "example": "Java：class Dog extends Animal {}",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "polymorphism"
+    ],
+    "meaning": "多态",
+    "explanation": "通过统一类型使用不同实现，调用时表现出不同的行为。",
+    "example": "Animal a = new Dog(); a.speak();",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "encapsulation"
+    ],
+    "meaning": "封装",
+    "explanation": "将状态与操作组织在一起，并控制外部访问。",
+    "example": "把字段设为 private，通过方法访问。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "constructor"
+    ],
+    "meaning": "构造函数／构造器",
+    "explanation": "创建对象时用于初始化的特殊成员。",
+    "example": "Java：User(String name) { this.name = name; }",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "exception"
+    ],
+    "meaning": "异常",
+    "explanation": "程序运行中用来表示错误或特殊情况的机制。",
+    "example": "try { read(); } catch (IOException e) { ... }",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "static"
+    ],
+    "meaning": "静态的",
+    "explanation": "Java 中常表示成员属于类；C++ 中含义随声明位置变化。",
+    "example": "Java：static int count;",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "final"
+    ],
+    "meaning": "不可重新赋值／不可扩展",
+    "explanation": "Java 修饰符：变量不可再赋值，方法不可重写，类不可继承。",
+    "example": "final int MAX = 10;",
+    "related": "final 引用不代表其指向的对象内容不可变化。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "pointer"
+    ],
+    "meaning": "指针",
+    "explanation": "保存内存地址的值，常见于 C 和 C++。",
+    "example": "int* p = &value;",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "template"
+    ],
+    "meaning": "模板",
+    "explanation": "C++ 中按类型或编译期参数生成代码的机制。",
+    "example": "template <typename T> T add(T a, T b) { return a + b; }",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "const"
+    ],
+    "meaning": "常量限定符",
+    "explanation": "C++ 中限制通过特定变量或访问路径修改值。",
+    "example": "const int limit = 10;",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "array"
+    ],
+    "meaning": "数组",
+    "explanation": "按索引访问的一组元素，通常连续存储。",
+    "example": "int a[3] = {1, 2, 3};",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "linked list"
+    ],
+    "meaning": "链表",
+    "explanation": "由节点通过链接组成的数据结构。",
+    "example": "每个节点保存 value 和 next。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "stack"
+    ],
+    "meaning": "栈",
+    "explanation": "后进先出的数据结构；也可指函数调用使用的调用栈。",
+    "example": "最后 push 的元素先 pop。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "queue"
+    ],
+    "meaning": "队列",
+    "explanation": "通常指先进先出的数据结构。",
+    "example": "排队任务按进入顺序处理。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "heap"
+    ],
+    "meaning": "堆",
+    "explanation": "可指满足堆序性质的树形结构，也可指动态分配内存的区域。",
+    "example": "优先队列常用二叉堆实现。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "tree"
+    ],
+    "meaning": "树",
+    "explanation": "由节点和边组成的层次结构。",
+    "example": "二叉树每个节点最多有两个子节点。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "graph"
+    ],
+    "meaning": "图",
+    "explanation": "由顶点和边构成，用于表示关联关系。",
+    "example": "用图表示城市与道路。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "recursion"
+    ],
+    "meaning": "递归",
+    "explanation": "函数直接或间接调用自身来解决更小的同类问题。",
+    "example": "阶乘：f(n) = n * f(n - 1)，并设终止条件。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "algorithm"
+    ],
+    "meaning": "算法",
+    "explanation": "为解决问题定义的一组明确步骤。",
+    "example": "二分查找是一种算法。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "complexity"
+    ],
+    "meaning": "复杂度",
+    "explanation": "描述资源消耗随输入规模增长的趋势。",
+    "example": "二分查找的时间复杂度为 O(log n)。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "binary search"
+    ],
+    "meaning": "二分查找",
+    "explanation": "在有序范围中反复将搜索范围减半。",
+    "example": "在有序数组中寻找目标值。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "sort"
+    ],
+    "meaning": "排序",
+    "explanation": "按指定规则重新排列元素。",
+    "example": "把数字按从小到大排序。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "shuffle"
+    ],
+    "meaning": "随机打乱",
+    "explanation": "随机调整元素的排列顺序。",
+    "example": "打乱一副牌的顺序。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "variable"
+    ],
+    "meaning": "变量",
+    "explanation": "用于保存或引用数据的命名实体。",
+    "example": "int count = 0;",
+    "source": "Python 官方术语表",
+    "sourceUrl": "https://docs.python.org/3/glossary.html",
+    "domain": "python",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "return"
+    ],
+    "meaning": "返回",
+    "explanation": "结束当前函数调用，并可把结果交还调用处。",
+    "example": "return count;",
+    "source": "Python 官方术语表",
+    "sourceUrl": "https://docs.python.org/3/glossary.html",
+    "domain": "python",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "boolean",
+      "bool"
+    ],
+    "meaning": "布尔类型",
+    "explanation": "表示真或假的类型。",
+    "example": "bool ready = true;",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "string"
+    ],
+    "meaning": "字符串",
+    "explanation": "由字符组成的文本数据。",
+    "example": "Java：String name = \"小明\";",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "bug"
+    ],
+    "meaning": "程序缺陷",
+    "explanation": "导致程序行为与预期不符的问题。",
+    "example": "数组越界导致崩溃。",
+    "source": "Python 官方术语表",
+    "sourceUrl": "https://docs.python.org/3/glossary.html",
+    "domain": "python",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "debug"
+    ],
+    "meaning": "调试",
+    "explanation": "定位并分析程序问题的过程。",
+    "example": "设置断点查看变量值。",
+    "source": "GCC 编译步骤文档",
+    "sourceUrl": "https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html",
+    "domain": "compile",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "compile"
+    ],
+    "meaning": "编译",
+    "explanation": "把源代码转换为目标代码或其他形式的过程。",
+    "example": "javac Main.java",
+    "source": "GCC 编译步骤文档",
+    "sourceUrl": "https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html",
+    "domain": "compile",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "runtime"
+    ],
+    "meaning": "运行时",
+    "explanation": "程序实际执行的阶段，或支持执行的环境。",
+    "example": "空指针异常发生在运行时。",
+    "source": "Python 官方术语表",
+    "sourceUrl": "https://docs.python.org/3/glossary.html",
+    "domain": "python",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "dependency"
+    ],
+    "meaning": "依赖",
+    "explanation": "项目需要使用的其他库、模块或工具。",
+    "example": "项目依赖一个 JSON 解析库。",
+    "source": "Python 官方术语表",
+    "sourceUrl": "https://docs.python.org/3/glossary.html",
+    "domain": "python",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "cache"
+    ],
+    "meaning": "缓存",
+    "explanation": "保存可复用结果，以减少重复计算或读取。",
+    "example": "缓存已查询的词义。",
+    "source": "MDN 缓存术语",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Glossary/Cache",
+    "domain": "cache",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "snake case",
+      "snake_case"
+    ],
+    "meaning": "蛇形命名法",
+    "explanation": "用下划线连接多个单词的命名方式。",
+    "example": "user_name、max_size",
+    "source": "Python PEP 8 命名风格",
+    "sourceUrl": "https://peps.python.org/pep-0008/#descriptive-naming-styles",
+    "domain": "naming",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "camel case",
+      "camelCase"
+    ],
+    "meaning": "小驼峰命名法",
+    "explanation": "首词小写，后续单词首字母大写。",
+    "example": "getUserName",
+    "source": "Python PEP 8 命名风格",
+    "sourceUrl": "https://peps.python.org/pep-0008/#descriptive-naming-styles",
+    "domain": "naming",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "pascal case",
+      "PascalCase"
+    ],
+    "meaning": "大驼峰命名法",
+    "explanation": "各单词首字母大写，常用于类型名称。",
+    "example": "ShuffleArray、UserAccount",
+    "source": "Python PEP 8 命名风格",
+    "sourceUrl": "https://peps.python.org/pep-0008/#descriptive-naming-styles",
+    "domain": "naming",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "API",
+      "application programming interface"
+    ],
+    "meaning": "应用程序编程接口",
+    "explanation": "软件向其他代码提供的功能、数据格式和调用约定。",
+    "source": "MDN API 术语",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Glossary/API",
+    "domain": "api",
+    "editorial": true,
+    "abbreviations": [
+      "API"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "working directory",
+      "working tree",
+      "worktree"
+    ],
+    "meaning": "工作目录／工作树",
+    "explanation": "检出到磁盘、供你编辑的文件；它和暂存区、提交历史不同。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "Git"
+    ],
+    "meaning": "Git 版本控制系统",
+    "explanation": "记录文件版本、支持分支与合并的分布式版本控制工具。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "staging area",
+      "stage"
+    ],
+    "meaning": "暂存区／暂存",
+    "explanation": "准备放入下一次提交的改动；stage 也常作动词表示把改动加入暂存区。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "index"
+    ],
+    "meaning": "索引；Git 暂存区",
+    "explanation": "Git 中 index 记录准备提交的文件状态；在数据库中 index 通常指加速查询的索引结构。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "HEAD"
+    ],
+    "meaning": "当前提交引用",
+    "explanation": "通常指向当前分支，分离 HEAD 时直接指向某个提交。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "detached HEAD"
+    ],
+    "meaning": "分离头指针状态",
+    "explanation": "HEAD 直接指向提交，而不是指向分支名称。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "cherry-pick",
+      "cherry picking"
+    ],
+    "meaning": "拣选提交",
+    "explanation": "把指定提交引入的改动应用到当前开发线路。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "fast-forward"
+    ],
+    "meaning": "快进合并",
+    "explanation": "目标分支没有分叉时，直接向前移动分支指针。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "bare repository"
+    ],
+    "meaning": "裸仓库",
+    "explanation": "只有仓库管理数据，没有检出的工作树。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "stash"
+    ],
+    "meaning": "暂存工作进度",
+    "explanation": "临时保存工作区和暂存区改动，稍后可恢复。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "revert"
+    ],
+    "meaning": "反向提交／撤销",
+    "explanation": "通过新增提交抵消已有提交的改动，不直接删除历史。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "reset"
+    ],
+    "meaning": "重置",
+    "explanation": "移动当前分支位置；参数不同，对暂存区和工作树的影响也不同。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "diff"
+    ],
+    "meaning": "差异",
+    "explanation": "比较文件或版本之间的不同。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "submodule"
+    ],
+    "meaning": "子模块",
+    "explanation": "在一个仓库中引用另一个独立仓库的特定提交。",
+    "source": "Git 官方词汇表",
+    "sourceUrl": "https://git-scm.com/docs/gitglossary",
+    "domain": "git",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "issue"
+    ],
+    "meaning": "议题／问题记录",
+    "explanation": "GitHub 中用于跟踪缺陷、任务或需求，不一定代表程序出错。",
+    "source": "GitHub 官方词汇表",
+    "sourceUrl": "https://docs.github.com/en/get-started/learning-about-github/github-glossary",
+    "domain": "github",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "pull request",
+      "PR"
+    ],
+    "meaning": "拉取请求／合并请求",
+    "explanation": "在 GitHub 提议合入改动，供讨论和审查。",
+    "source": "GitHub 官方词汇表",
+    "sourceUrl": "https://docs.github.com/en/get-started/learning-about-github/github-glossary",
+    "domain": "github",
+    "editorial": true,
+    "abbreviations": [
+      "PR"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "code review"
+    ],
+    "meaning": "代码审查",
+    "explanation": "检查改动是否正确、清楚，是否适合合入项目。",
+    "source": "GitHub 官方词汇表",
+    "sourceUrl": "https://docs.github.com/en/get-started/learning-about-github/github-glossary",
+    "domain": "github",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "access token",
+      "personal access token",
+      "PAT"
+    ],
+    "meaning": "访问令牌",
+    "explanation": "调用接口或执行受保护操作时使用的身份凭证。",
+    "source": "GitHub 官方词汇表",
+    "sourceUrl": "https://docs.github.com/en/get-started/learning-about-github/github-glossary",
+    "domain": "github",
+    "editorial": true,
+    "abbreviations": [
+      "PAT"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "assignee"
+    ],
+    "meaning": "负责人",
+    "explanation": "被指派处理某条议题或拉取请求的人。",
+    "source": "GitHub 官方词汇表",
+    "sourceUrl": "https://docs.github.com/en/get-started/learning-about-github/github-glossary",
+    "domain": "github",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "label"
+    ],
+    "meaning": "标签",
+    "explanation": "GitHub 中用于分类议题和拉取请求的标记。",
+    "source": "GitHub 官方词汇表",
+    "sourceUrl": "https://docs.github.com/en/get-started/learning-about-github/github-glossary",
+    "domain": "github",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "upstream"
+    ],
+    "meaning": "上游",
+    "explanation": "常指派生仓库所基于的原项目；Git 中也可指分支跟踪的远程分支。",
+    "source": "GitHub 官方词汇表",
+    "sourceUrl": "https://docs.github.com/en/get-started/learning-about-github/github-glossary",
+    "domain": "github",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "continuous integration",
+      "CI"
+    ],
+    "meaning": "持续集成",
+    "explanation": "自动构建和测试提交，尽早发现集成问题。",
+    "source": "GitHub Actions 文档",
+    "sourceUrl": "https://docs.github.com/en/actions/get-started/understand-github-actions",
+    "domain": "actions",
+    "editorial": true,
+    "abbreviations": [
+      "CI"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "workflow"
+    ],
+    "meaning": "工作流",
+    "explanation": "由事件触发、执行一个或多个任务的自动化流程。",
+    "source": "GitHub Actions 文档",
+    "sourceUrl": "https://docs.github.com/en/actions/get-started/understand-github-actions",
+    "domain": "actions",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "runner"
+    ],
+    "meaning": "运行器",
+    "explanation": "执行 GitHub Actions 工作流任务的机器。",
+    "source": "GitHub Actions 文档",
+    "sourceUrl": "https://docs.github.com/en/actions/get-started/understand-github-actions",
+    "domain": "actions",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "artifact"
+    ],
+    "meaning": "构建产物",
+    "explanation": "工作流生成并保存的文件，如安装包或测试报告。",
+    "source": "GitHub Actions 文档",
+    "sourceUrl": "https://docs.github.com/en/actions/get-started/understand-github-actions",
+    "domain": "actions",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "job"
+    ],
+    "meaning": "任务",
+    "explanation": "工作流内在同一个运行器上执行的一组步骤。",
+    "source": "GitHub Actions 文档",
+    "sourceUrl": "https://docs.github.com/en/actions/get-started/understand-github-actions",
+    "domain": "actions",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "build"
+    ],
+    "meaning": "构建",
+    "explanation": "把源代码及相关资源处理成可运行或可发布产物的过程。",
+    "source": "GitHub Actions 文档",
+    "sourceUrl": "https://docs.github.com/en/actions/get-started/understand-github-actions",
+    "domain": "actions",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "Java"
+    ],
+    "meaning": "Java 语言",
+    "explanation": "具有类和接口等机制、通常在 Java 虚拟机上运行的编程语言。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "JVM",
+      "Java Virtual Machine"
+    ],
+    "meaning": "Java 虚拟机",
+    "explanation": "执行 Java 字节码的抽象计算机及其实现。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [
+      "JVM"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "JDK",
+      "Java Development Kit"
+    ],
+    "meaning": "Java 开发工具包",
+    "explanation": "包含编译器等开发工具和运行 Java 程序所需组件。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [
+      "JDK"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "bytecode"
+    ],
+    "meaning": "字节码",
+    "explanation": "编译后的中间指令，Java 字节码由 JVM 执行。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "garbage collection",
+      "GC"
+    ],
+    "meaning": "垃圾回收",
+    "explanation": "自动回收不再可达或不再使用的对象占用的内存。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [
+      "GC"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "abstract class"
+    ],
+    "meaning": "抽象类",
+    "explanation": "不能直接实例化、可包含抽象方法的类。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "overload",
+      "overloading"
+    ],
+    "meaning": "重载",
+    "explanation": "在同一作用范围用不同参数列表声明同名方法。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "override",
+      "overriding"
+    ],
+    "meaning": "重写",
+    "explanation": "子类为继承来的实例方法提供自己的实现。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "package"
+    ],
+    "meaning": "包",
+    "explanation": "组织 Java 类型并形成命名空间的机制。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "synchronized"
+    ],
+    "meaning": "同步修饰／同步块",
+    "explanation": "Java 中通过对象监视器协调线程访问。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "generics",
+      "generic"
+    ],
+    "meaning": "泛型",
+    "explanation": "让类型或方法通过类型参数复用代码。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "annotation"
+    ],
+    "meaning": "注解",
+    "explanation": "附加在程序元素上的元数据，可供工具或程序读取。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "method"
+    ],
+    "meaning": "方法",
+    "explanation": "定义在类或接口中的可调用成员。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "parameter"
+    ],
+    "meaning": "形参",
+    "explanation": "在方法声明中命名的输入位置。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "argument"
+    ],
+    "meaning": "实参",
+    "explanation": "调用方法时实际传入的表达式或值。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "null"
+    ],
+    "meaning": "空引用值",
+    "explanation": "Java 中表示引用没有指向对象的特殊值，不是数字 0，也不是空字符串。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "C++",
+      "cpp"
+    ],
+    "meaning": "C++ 语言",
+    "explanation": "支持静态类型、类、模板和底层内存操作的编程语言。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "C"
+    ],
+    "meaning": "C 语言",
+    "explanation": "常用于系统开发的编程语言，提供指针和手动内存管理等机制。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "RAII",
+      "resource acquisition is initialization"
+    ],
+    "meaning": "资源获取即初始化",
+    "explanation": "把资源生命周期绑定到对象，析构时释放资源。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [
+      "RAII"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "destructor"
+    ],
+    "meaning": "析构函数",
+    "explanation": "对象生命周期结束时执行的特殊成员函数。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "undefined behavior",
+      "UB"
+    ],
+    "meaning": "未定义行为",
+    "explanation": "标准不对程序行为提出要求；不能依赖某次运行的结果。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [
+      "UB"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "move semantics"
+    ],
+    "meaning": "移动语义",
+    "explanation": "允许把资源从对象转移到另一对象，避免不必要的深拷贝。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "lvalue"
+    ],
+    "meaning": "左值",
+    "explanation": "一种表达式值类别，通常表示有身份、可定位的对象或函数。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "rvalue"
+    ],
+    "meaning": "右值",
+    "explanation": "包含纯右值和将亡值的表达式类别。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "smart pointer"
+    ],
+    "meaning": "智能指针",
+    "explanation": "通过对象封装指针，并按约定管理被指向资源的生命周期。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "unique_ptr"
+    ],
+    "meaning": "独占所有权智能指针",
+    "explanation": "一个所有者管理资源，可移动但不可复制所有权。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "shared_ptr"
+    ],
+    "meaning": "共享所有权智能指针",
+    "explanation": "通过引用计数共享资源所有权。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "STL",
+      "standard template library"
+    ],
+    "meaning": "标准模板库",
+    "explanation": "通常指 C++ 标准库中的容器、迭代器和算法等模板组件。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [
+      "STL"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "virtual function"
+    ],
+    "meaning": "虚函数",
+    "explanation": "可通过动态分派调用派生类重写实现的成员函数。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "nullptr"
+    ],
+    "meaning": "空指针字面量",
+    "explanation": "C++ 中专门用于表示空指针的字面量。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "volatile"
+    ],
+    "meaning": "易变限定符",
+    "explanation": "标记某些访问具有可观察副作用；它本身不保证线程同步。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "translation unit"
+    ],
+    "meaning": "翻译单元",
+    "explanation": "源文件经预处理后形成的编译输入单位。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "data structure"
+    ],
+    "meaning": "数据结构",
+    "explanation": "组织和存储数据以支持特定操作的方式。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "binary tree"
+    ],
+    "meaning": "二叉树",
+    "explanation": "每个节点至多有两个子节点的树。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "binary search tree",
+      "BST"
+    ],
+    "meaning": "二叉搜索树",
+    "explanation": "用键的大小关系组织左右子树，以支持查找。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [
+      "BST"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "balanced tree"
+    ],
+    "meaning": "平衡树",
+    "explanation": "通过限制树高等性质避免查找退化的一类树。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "priority queue"
+    ],
+    "meaning": "优先队列",
+    "explanation": "按优先级取出元素，而不是按进入先后取出。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "hash table"
+    ],
+    "meaning": "哈希表",
+    "explanation": "利用哈希函数将键映射到存储位置，提供键值查找。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "collision"
+    ],
+    "meaning": "碰撞／冲突",
+    "explanation": "不同键经哈希计算得到相同存储位置或哈希值。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "depth-first search",
+      "DFS"
+    ],
+    "meaning": "深度优先搜索",
+    "explanation": "先沿一条路径深入，再回溯探索其他路径。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [
+      "DFS"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "breadth-first search",
+      "BFS"
+    ],
+    "meaning": "广度优先搜索",
+    "explanation": "先访问当前层节点，再访问下一层。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [
+      "BFS"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "dynamic programming",
+      "DP"
+    ],
+    "meaning": "动态规划",
+    "explanation": "复用重叠子问题的解，逐步构造问题的解。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [
+      "DP"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "greedy algorithm"
+    ],
+    "meaning": "贪心算法",
+    "explanation": "每一步选取当前最优选择；并非对所有问题都能得到全局最优解。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "amortized analysis"
+    ],
+    "meaning": "摊还分析",
+    "explanation": "分析一系列操作的总成本，而不是只看单次最坏成本。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "time complexity"
+    ],
+    "meaning": "时间复杂度",
+    "explanation": "描述运行时间随输入规模增长的趋势。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "space complexity"
+    ],
+    "meaning": "空间复杂度",
+    "explanation": "描述所需存储空间随输入规模增长的趋势。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "big O",
+      "big-O",
+      "O notation"
+    ],
+    "meaning": "大 O 记号",
+    "explanation": "用于表达增长率的渐近上界。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "quicksort",
+      "quick sort"
+    ],
+    "meaning": "快速排序",
+    "explanation": "选择枢轴分割数据，再递归处理各部分。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "merge sort"
+    ],
+    "meaning": "归并排序",
+    "explanation": "分别排序子序列，再把有序子序列合并。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "directed acyclic graph",
+      "DAG"
+    ],
+    "meaning": "有向无环图",
+    "explanation": "含有方向边、且不存在有向环的图。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [
+      "DAG"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "virtual memory"
+    ],
+    "meaning": "虚拟内存",
+    "explanation": "为进程提供虚拟地址空间，并将其映射到实际存储。",
+    "source": "Linux 内核内存管理概念",
+    "sourceUrl": "https://docs.kernel.org/admin-guide/mm/concepts.html",
+    "domain": "os",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "page fault"
+    ],
+    "meaning": "缺页异常",
+    "explanation": "访问的虚拟页当前无法直接使用，触发系统处理。",
+    "source": "Linux 内核内存管理概念",
+    "sourceUrl": "https://docs.kernel.org/admin-guide/mm/concepts.html",
+    "domain": "os",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "page"
+    ],
+    "meaning": "内存页",
+    "explanation": "虚拟内存管理和映射所使用的固定大小单位。",
+    "source": "Linux 内核内存管理概念",
+    "sourceUrl": "https://docs.kernel.org/admin-guide/mm/concepts.html",
+    "domain": "os",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "swap"
+    ],
+    "meaning": "交换空间／换出",
+    "explanation": "把部分内存页移到交换存储，以缓解物理内存压力。",
+    "source": "Linux 内核内存管理概念",
+    "sourceUrl": "https://docs.kernel.org/admin-guide/mm/concepts.html",
+    "domain": "os",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "OOM",
+      "out of memory"
+    ],
+    "meaning": "内存不足",
+    "explanation": "系统或进程无法获得所需内存；不必然意味着同一种崩溃方式。",
+    "source": "Linux 内核 OOM 文档",
+    "sourceUrl": "https://docs.kernel.org/mm/oom.html",
+    "domain": "oom",
+    "editorial": true,
+    "abbreviations": [
+      "OOM"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "memory mapping",
+      "mmap"
+    ],
+    "meaning": "内存映射",
+    "explanation": "把文件或其他存储映射到虚拟地址空间。",
+    "source": "Linux 内核内存管理概念",
+    "sourceUrl": "https://docs.kernel.org/admin-guide/mm/concepts.html",
+    "domain": "os",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "process"
+    ],
+    "meaning": "进程",
+    "explanation": "拥有执行状态和系统资源的程序运行实例。",
+    "source": "Linux man-pages：POSIX 线程",
+    "sourceUrl": "https://man7.org/linux/man-pages/man7/pthreads.7.html",
+    "domain": "posix",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "thread"
+    ],
+    "meaning": "线程",
+    "explanation": "进程内的一条执行路径，可与同进程线程共享资源。",
+    "source": "Linux man-pages：POSIX 线程",
+    "sourceUrl": "https://man7.org/linux/man-pages/man7/pthreads.7.html",
+    "domain": "posix",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "mutex"
+    ],
+    "meaning": "互斥锁",
+    "explanation": "用于限制共享资源同时只能被一个执行者占用的同步对象。",
+    "source": "Linux 锁依赖与死锁检测",
+    "sourceUrl": "https://docs.kernel.org/locking/lockdep-design.html",
+    "domain": "posix",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "semaphore"
+    ],
+    "meaning": "信号量",
+    "explanation": "以计数方式协调访问资源或通知事件的同步机制。",
+    "source": "Linux man-pages：POSIX 线程",
+    "sourceUrl": "https://man7.org/linux/man-pages/man7/pthreads.7.html",
+    "domain": "posix",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "deadlock"
+    ],
+    "meaning": "死锁",
+    "explanation": "多个执行者互相等待对方释放资源，无法继续推进。",
+    "source": "Linux 锁依赖与死锁检测",
+    "sourceUrl": "https://docs.kernel.org/locking/lockdep-design.html",
+    "domain": "posix",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "race condition"
+    ],
+    "meaning": "竞态条件",
+    "explanation": "结果取决于并发操作的时序，可能引发错误。",
+    "source": "Linux 锁依赖与死锁检测",
+    "sourceUrl": "https://docs.kernel.org/locking/lockdep-design.html",
+    "domain": "posix",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "system call",
+      "syscall"
+    ],
+    "meaning": "系统调用",
+    "explanation": "用户程序请求操作系统服务的接口。",
+    "source": "Linux 内核系统调用文档",
+    "sourceUrl": "https://docs.kernel.org/process/adding-syscalls.html",
+    "domain": "posix",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "HTTP",
+      "Hypertext Transfer Protocol"
+    ],
+    "meaning": "超文本传输协议",
+    "explanation": "定义请求、响应及其语义的应用层协议。",
+    "source": "RFC 9110：HTTP 语义",
+    "sourceUrl": "https://www.rfc-editor.org/rfc/rfc9110.html",
+    "domain": "http",
+    "editorial": true,
+    "abbreviations": [
+      "HTTP"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "request"
+    ],
+    "meaning": "请求",
+    "explanation": "客户端向服务端发出的操作意图和相关数据。",
+    "source": "RFC 9110：HTTP 语义",
+    "sourceUrl": "https://www.rfc-editor.org/rfc/rfc9110.html",
+    "domain": "http",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "response"
+    ],
+    "meaning": "响应",
+    "explanation": "服务端对请求返回的状态、元数据和可选内容。",
+    "source": "RFC 9110：HTTP 语义",
+    "sourceUrl": "https://www.rfc-editor.org/rfc/rfc9110.html",
+    "domain": "http",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "status code"
+    ],
+    "meaning": "状态码",
+    "explanation": "HTTP 响应用三位数字描述处理结果。",
+    "source": "RFC 9110：HTTP 语义",
+    "sourceUrl": "https://www.rfc-editor.org/rfc/rfc9110.html",
+    "domain": "http",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "header"
+    ],
+    "meaning": "首部／头字段",
+    "explanation": "请求或响应中的元数据字段。",
+    "source": "RFC 9110：HTTP 语义",
+    "sourceUrl": "https://www.rfc-editor.org/rfc/rfc9110.html",
+    "domain": "http",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "idempotent",
+      "idempotency"
+    ],
+    "meaning": "幂等的／幂等性",
+    "explanation": "多次执行同一请求与执行一次，对服务端产生的预期效果相同。",
+    "source": "RFC 9110：HTTP 语义",
+    "sourceUrl": "https://www.rfc-editor.org/rfc/rfc9110.html",
+    "domain": "http",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "content negotiation"
+    ],
+    "meaning": "内容协商",
+    "explanation": "根据请求偏好选择资源的不同表示。",
+    "source": "RFC 9110：HTTP 语义",
+    "sourceUrl": "https://www.rfc-editor.org/rfc/rfc9110.html",
+    "domain": "http",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "TCP",
+      "Transmission Control Protocol"
+    ],
+    "meaning": "传输控制协议",
+    "explanation": "提供可靠、有序字节流的传输层协议。",
+    "source": "RFC 9293：TCP",
+    "sourceUrl": "https://www.rfc-editor.org/rfc/rfc9293.html",
+    "domain": "tcp",
+    "editorial": true,
+    "abbreviations": [
+      "TCP"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "UDP",
+      "User Datagram Protocol"
+    ],
+    "meaning": "用户数据报协议",
+    "explanation": "发送数据报的传输层协议，本身不保证交付或顺序。",
+    "source": "RFC 768：UDP",
+    "sourceUrl": "https://www.rfc-editor.org/rfc/rfc768.html",
+    "domain": "udp",
+    "editorial": true,
+    "abbreviations": [
+      "UDP"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "DNS",
+      "Domain Name System"
+    ],
+    "meaning": "域名系统",
+    "explanation": "以分布式命名系统查询域名相关记录。",
+    "source": "RFC 1034：DNS",
+    "sourceUrl": "https://www.rfc-editor.org/rfc/rfc1034.html",
+    "domain": "dns",
+    "editorial": true,
+    "abbreviations": [
+      "DNS"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "TLS",
+      "Transport Layer Security"
+    ],
+    "meaning": "传输层安全协议",
+    "explanation": "为通信提供机密性、完整性和身份认证机制。",
+    "source": "RFC 8446：TLS",
+    "sourceUrl": "https://www.rfc-editor.org/rfc/rfc8446.html",
+    "domain": "tls",
+    "editorial": true,
+    "abbreviations": [
+      "TLS"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "CORS",
+      "cross-origin resource sharing"
+    ],
+    "meaning": "跨源资源共享",
+    "explanation": "浏览器依据响应头，决定是否允许脚本读取跨源响应。",
+    "source": "MDN CORS 指南",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS",
+    "domain": "cors",
+    "editorial": true,
+    "abbreviations": [
+      "CORS"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "WebSocket"
+    ],
+    "meaning": "WebSocket 协议",
+    "explanation": "在连接建立后支持双向通信的协议。",
+    "source": "RFC 6455：WebSocket",
+    "sourceUrl": "https://www.rfc-editor.org/rfc/rfc6455.html",
+    "domain": "websocket",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "DOM",
+      "Document Object Model"
+    ],
+    "meaning": "文档对象模型",
+    "explanation": "把文档表示为可由程序访问和修改的对象树。",
+    "source": "MDN DOM 术语",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Glossary/DOM",
+    "domain": "dom",
+    "editorial": true,
+    "abbreviations": [
+      "DOM"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "CSS",
+      "Cascading Style Sheets"
+    ],
+    "meaning": "层叠样式表",
+    "explanation": "控制网页内容的布局和视觉呈现。",
+    "source": "MDN CSS 术语",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Glossary/CSS",
+    "domain": "css",
+    "editorial": true,
+    "abbreviations": [
+      "CSS"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "HTML",
+      "HyperText Markup Language"
+    ],
+    "meaning": "超文本标记语言",
+    "explanation": "描述网页内容结构与语义的标记语言。",
+    "source": "MDN HTML 术语",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Glossary/HTML",
+    "domain": "html",
+    "editorial": true,
+    "abbreviations": [
+      "HTML"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "JavaScript",
+      "JS"
+    ],
+    "meaning": "JavaScript 语言",
+    "explanation": "网页中广泛使用的脚本语言，也可在服务器环境运行。",
+    "source": "MDN JavaScript 指南",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "domain": "js",
+    "editorial": true,
+    "abbreviations": [
+      "JS"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "closure"
+    ],
+    "meaning": "闭包",
+    "explanation": "函数与其可访问的词法环境组合，使函数仍能访问外层绑定。",
+    "source": "MDN JavaScript 指南",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "domain": "js",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "promise"
+    ],
+    "meaning": "Promise 对象",
+    "explanation": "表示异步操作最终完成或失败及其结果。",
+    "source": "MDN JavaScript 指南",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "domain": "js",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "async",
+      "asynchronous"
+    ],
+    "meaning": "异步",
+    "explanation": "发起操作后，通过后续通知或结果机制处理完成状态。",
+    "source": "MDN JavaScript 指南",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "domain": "js",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "await"
+    ],
+    "meaning": "等待异步结果",
+    "explanation": "在允许的位置暂停当前执行流程，等待 Promise 结算。",
+    "source": "MDN JavaScript 指南",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "domain": "js",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "callback"
+    ],
+    "meaning": "回调",
+    "explanation": "交给其他代码，在指定时机调用的函数。",
+    "source": "MDN JavaScript 指南",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "domain": "js",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "event loop"
+    ],
+    "meaning": "事件循环",
+    "explanation": "协调任务执行及异步事件处理的运行机制。",
+    "source": "MDN JavaScript 指南",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "domain": "js",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "prototype"
+    ],
+    "meaning": "原型",
+    "explanation": "JavaScript 对象通过原型链查找继承的属性。",
+    "source": "MDN JavaScript 指南",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "domain": "js",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "module"
+    ],
+    "meaning": "模块",
+    "explanation": "组织代码、控制导入导出的独立代码单元。",
+    "source": "MDN JavaScript 指南",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "domain": "js",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "function"
+    ],
+    "meaning": "函数",
+    "explanation": "可调用的代码对象，可接收参数并返回结果。",
+    "source": "MDN JavaScript 指南",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "domain": "js",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "dependency injection",
+      "DI"
+    ],
+    "meaning": "依赖注入",
+    "explanation": "对象需要的依赖由外部提供，而非由对象内部自行创建。",
+    "source": "Spring 依赖注入文档",
+    "sourceUrl": "https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-collaborators.html",
+    "domain": "spring",
+    "editorial": true,
+    "abbreviations": [
+      "DI"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "inversion of control",
+      "IoC"
+    ],
+    "meaning": "控制反转",
+    "explanation": "把对象创建和协作等控制交给容器或框架。",
+    "source": "Spring 依赖注入文档",
+    "sourceUrl": "https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-collaborators.html",
+    "domain": "spring",
+    "editorial": true,
+    "abbreviations": [
+      "IoC"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "bean"
+    ],
+    "meaning": "受容器管理的对象",
+    "explanation": "Spring 中由 IoC 容器创建、组装和管理的对象。",
+    "source": "Spring 依赖注入文档",
+    "sourceUrl": "https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-collaborators.html",
+    "domain": "spring",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "REST",
+      "representational state transfer"
+    ],
+    "meaning": "表述性状态转移",
+    "explanation": "一组用于分布式超媒体系统的架构约束，不等同于任意 JSON 接口。",
+    "source": "REST 原始论文第五章",
+    "sourceUrl": "https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm",
+    "domain": "rest",
+    "editorial": true,
+    "abbreviations": [
+      "REST"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "JSON",
+      "JavaScript Object Notation"
+    ],
+    "meaning": "JSON 数据交换格式",
+    "explanation": "使用对象、数组、字符串、数字等结构表示数据的文本格式。",
+    "source": "RFC 8259：JSON",
+    "sourceUrl": "https://www.rfc-editor.org/rfc/rfc8259.html",
+    "domain": "json",
+    "editorial": true,
+    "abbreviations": [
+      "JSON"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "database"
+    ],
+    "meaning": "数据库",
+    "explanation": "组织和持久保存数据的集合，由数据库系统管理访问。",
+    "source": "PostgreSQL 官方术语表",
+    "sourceUrl": "https://www.postgresql.org/docs/current/glossary.html",
+    "domain": "db",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "transaction"
+    ],
+    "meaning": "事务",
+    "explanation": "把一组数据库操作作为一个整体提交或回滚。",
+    "source": "PostgreSQL 官方术语表",
+    "sourceUrl": "https://www.postgresql.org/docs/current/glossary.html",
+    "domain": "db",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "rollback"
+    ],
+    "meaning": "回滚",
+    "explanation": "撤销尚未提交的事务改动。",
+    "source": "PostgreSQL 官方术语表",
+    "sourceUrl": "https://www.postgresql.org/docs/current/glossary.html",
+    "domain": "db",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "primary key"
+    ],
+    "meaning": "主键",
+    "explanation": "唯一标识表中每一行的列或列组合，不能为 NULL。",
+    "source": "PostgreSQL 官方术语表",
+    "sourceUrl": "https://www.postgresql.org/docs/current/glossary.html",
+    "domain": "db",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "foreign key"
+    ],
+    "meaning": "外键",
+    "explanation": "要求列值引用另一组受唯一性约束的键，以维护引用完整性。",
+    "source": "PostgreSQL 官方术语表",
+    "sourceUrl": "https://www.postgresql.org/docs/current/glossary.html",
+    "domain": "db",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "constraint"
+    ],
+    "meaning": "约束",
+    "explanation": "限制数据允许取值或关系的规则。",
+    "source": "PostgreSQL 官方术语表",
+    "sourceUrl": "https://www.postgresql.org/docs/current/glossary.html",
+    "domain": "db",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "join"
+    ],
+    "meaning": "连接",
+    "explanation": "按条件将多个关系的数据组合起来。",
+    "source": "PostgreSQL 官方术语表",
+    "sourceUrl": "https://www.postgresql.org/docs/current/glossary.html",
+    "domain": "db",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "query"
+    ],
+    "meaning": "查询",
+    "explanation": "请求数据库检索或处理数据的操作或语句。",
+    "source": "PostgreSQL 官方术语表",
+    "sourceUrl": "https://www.postgresql.org/docs/current/glossary.html",
+    "domain": "db",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "MVCC",
+      "multiversion concurrency control"
+    ],
+    "meaning": "多版本并发控制",
+    "explanation": "通过保留数据版本协调并发访问。",
+    "source": "PostgreSQL 官方术语表",
+    "sourceUrl": "https://www.postgresql.org/docs/current/glossary.html",
+    "domain": "db",
+    "editorial": true,
+    "abbreviations": [
+      "MVCC"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "WAL",
+      "write-ahead log"
+    ],
+    "meaning": "预写日志",
+    "explanation": "先记录足够的日志，再将对应数据更改写入持久存储。",
+    "source": "PostgreSQL 官方术语表",
+    "sourceUrl": "https://www.postgresql.org/docs/current/glossary.html",
+    "domain": "db",
+    "editorial": true,
+    "abbreviations": [
+      "WAL"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "isolation level"
+    ],
+    "meaning": "隔离级别",
+    "explanation": "决定事务如何观察并发事务影响的一组规则。",
+    "source": "PostgreSQL 官方术语表",
+    "sourceUrl": "https://www.postgresql.org/docs/current/glossary.html",
+    "domain": "db",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "dead tuple"
+    ],
+    "meaning": "失效元组",
+    "explanation": "旧行版本不再对任何事务可见，可以被清理。",
+    "source": "PostgreSQL 官方术语表",
+    "sourceUrl": "https://www.postgresql.org/docs/current/glossary.html",
+    "domain": "db",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "vacuum"
+    ],
+    "meaning": "清理旧行版本",
+    "explanation": "PostgreSQL 中回收失效行版本空间并维护相关元数据的操作。",
+    "source": "PostgreSQL 官方术语表",
+    "sourceUrl": "https://www.postgresql.org/docs/current/glossary.html",
+    "domain": "db",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "SQL",
+      "Structured Query Language"
+    ],
+    "meaning": "结构化查询语言",
+    "explanation": "用于定义、查询和操作关系数据库数据的语言。",
+    "source": "PostgreSQL 官方术语表",
+    "sourceUrl": "https://www.postgresql.org/docs/current/glossary.html",
+    "domain": "db",
+    "editorial": true,
+    "abbreviations": [
+      "SQL"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "fixture"
+    ],
+    "meaning": "测试夹具",
+    "explanation": "为测试准备并清理所需状态或资源的可复用机制。",
+    "source": "pytest 测试文档",
+    "sourceUrl": "https://docs.pytest.org/en/stable/contents.html",
+    "domain": "test",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "assertion",
+      "assert"
+    ],
+    "meaning": "断言",
+    "explanation": "检查某个条件成立，不成立时报告测试失败。",
+    "source": "pytest 测试文档",
+    "sourceUrl": "https://docs.pytest.org/en/stable/contents.html",
+    "domain": "test",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "parametrize",
+      "parametrization"
+    ],
+    "meaning": "参数化测试",
+    "explanation": "对同一测试逻辑提供多组输入和预期结果。",
+    "source": "pytest 测试文档",
+    "sourceUrl": "https://docs.pytest.org/en/stable/contents.html",
+    "domain": "test",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "unit test",
+      "unit testing"
+    ],
+    "meaning": "单元测试",
+    "explanation": "检查一个较小代码单元行为的测试。",
+    "source": "Python unittest 文档",
+    "sourceUrl": "https://docs.python.org/3/library/unittest.html",
+    "domain": "unittest",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "test suite"
+    ],
+    "meaning": "测试套件",
+    "explanation": "组织成组、一起执行的测试集合。",
+    "source": "Python unittest 文档",
+    "sourceUrl": "https://docs.python.org/3/library/unittest.html",
+    "domain": "unittest",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "mock"
+    ],
+    "meaning": "模拟对象",
+    "explanation": "替代真实依赖，并可记录交互以供测试断言。",
+    "source": "Python mock 文档",
+    "sourceUrl": "https://docs.python.org/3/library/unittest.mock.html",
+    "domain": "mock",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "patch"
+    ],
+    "meaning": "替换／补丁",
+    "explanation": "测试中可指临时替换对象；版本管理中也可指描述改动的补丁。",
+    "source": "Python mock 文档",
+    "sourceUrl": "https://docs.python.org/3/library/unittest.mock.html",
+    "domain": "mock",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "container"
+    ],
+    "meaning": "容器",
+    "explanation": "将应用与依赖打包、在隔离的运行环境中执行的单位。",
+    "source": "Kubernetes 官方术语表",
+    "sourceUrl": "https://kubernetes.io/docs/reference/glossary/",
+    "domain": "k8s",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "pod"
+    ],
+    "meaning": "Pod",
+    "explanation": "Kubernetes 中最小的可部署单元，可包含共享部分资源的容器。",
+    "source": "Kubernetes 官方术语表",
+    "sourceUrl": "https://kubernetes.io/docs/reference/glossary/",
+    "domain": "k8s",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "deployment"
+    ],
+    "meaning": "部署控制器",
+    "explanation": "Kubernetes 中声明和管理一组 Pod 副本更新的资源。",
+    "source": "Kubernetes 官方术语表",
+    "sourceUrl": "https://kubernetes.io/docs/reference/glossary/",
+    "domain": "k8s",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "service"
+    ],
+    "meaning": "服务",
+    "explanation": "Kubernetes 中向一组后端端点提供稳定访问方式的资源。",
+    "source": "Kubernetes 官方术语表",
+    "sourceUrl": "https://kubernetes.io/docs/reference/glossary/",
+    "domain": "k8s",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "ingress"
+    ],
+    "meaning": "入口资源",
+    "explanation": "声明从集群外部到内部服务的 HTTP/HTTPS 路由规则。",
+    "source": "Kubernetes 官方术语表",
+    "sourceUrl": "https://kubernetes.io/docs/reference/glossary/",
+    "domain": "k8s",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "cluster"
+    ],
+    "meaning": "集群",
+    "explanation": "协作运行工作负载的一组节点。",
+    "source": "Kubernetes 官方术语表",
+    "sourceUrl": "https://kubernetes.io/docs/reference/glossary/",
+    "domain": "k8s",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "node"
+    ],
+    "meaning": "节点",
+    "explanation": "Kubernetes 中运行工作负载的工作机器。",
+    "source": "Kubernetes 官方术语表",
+    "sourceUrl": "https://kubernetes.io/docs/reference/glossary/",
+    "domain": "k8s",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "namespace"
+    ],
+    "meaning": "命名空间",
+    "explanation": "Kubernetes 中划分名称与资源管理范围；C++ 中也用于组织标识符。",
+    "source": "Kubernetes 官方术语表",
+    "sourceUrl": "https://kubernetes.io/docs/reference/glossary/",
+    "domain": "k8s",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "configmap"
+    ],
+    "meaning": "配置映射",
+    "explanation": "保存非机密配置数据的 Kubernetes 资源。",
+    "source": "Kubernetes 官方术语表",
+    "sourceUrl": "https://kubernetes.io/docs/reference/glossary/",
+    "domain": "k8s",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "secret"
+    ],
+    "meaning": "机密数据资源",
+    "explanation": "保存敏感配置的 Kubernetes 资源；编码不等于加密。",
+    "source": "Kubernetes 官方术语表",
+    "sourceUrl": "https://kubernetes.io/docs/reference/glossary/",
+    "domain": "k8s",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "scheduler"
+    ],
+    "meaning": "调度器",
+    "explanation": "在 Kubernetes 中为尚未分配节点的 Pod 选择合适节点。",
+    "source": "Kubernetes 官方术语表",
+    "sourceUrl": "https://kubernetes.io/docs/reference/glossary/",
+    "domain": "k8s",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "rolling update"
+    ],
+    "meaning": "滚动更新",
+    "explanation": "逐步替换实例以更新应用版本的方式。",
+    "source": "Kubernetes 官方术语表",
+    "sourceUrl": "https://kubernetes.io/docs/reference/glossary/",
+    "domain": "k8s",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "compiler"
+    ],
+    "meaning": "编译器",
+    "explanation": "把源代码转换为目标代码或其他表示的工具。",
+    "source": "GCC 编译步骤文档",
+    "sourceUrl": "https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html",
+    "domain": "compile",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "linker"
+    ],
+    "meaning": "链接器",
+    "explanation": "把目标文件和库组合，解析符号引用，生成可执行文件或库。",
+    "source": "GCC 编译步骤文档",
+    "sourceUrl": "https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html",
+    "domain": "compile",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "preprocessor"
+    ],
+    "meaning": "预处理器",
+    "explanation": "在编译前处理头文件包含、宏展开和条件编译等指令。",
+    "source": "GCC 编译步骤文档",
+    "sourceUrl": "https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html",
+    "domain": "compile",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "object file"
+    ],
+    "meaning": "目标文件",
+    "explanation": "通常包含机器代码、符号和重定位信息的中间产物。",
+    "source": "GCC 编译步骤文档",
+    "sourceUrl": "https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html",
+    "domain": "compile",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "shared library"
+    ],
+    "meaning": "共享库",
+    "explanation": "可在加载或运行时供程序链接使用的库。",
+    "source": "GCC 编译步骤文档",
+    "sourceUrl": "https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html",
+    "domain": "compile",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "static library"
+    ],
+    "meaning": "静态库",
+    "explanation": "通常以目标文件归档形式提供，在链接阶段取用所需内容。",
+    "source": "GCC 编译步骤文档",
+    "sourceUrl": "https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html",
+    "domain": "compile",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "optimization"
+    ],
+    "meaning": "优化",
+    "explanation": "在保持规定行为的前提下，改进代码的速度、空间或其他指标。",
+    "source": "GCC 编译步骤文档",
+    "sourceUrl": "https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html",
+    "domain": "compile",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "debug symbols"
+    ],
+    "meaning": "调试符号",
+    "explanation": "帮助调试器把运行中的地址关联到源代码位置等信息。",
+    "source": "GCC 编译步骤文档",
+    "sourceUrl": "https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html",
+    "domain": "compile",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "iterator"
+    ],
+    "meaning": "迭代器",
+    "explanation": "可逐个产生元素的对象；不同语言规定的接口不同。",
+    "source": "Python 官方术语表",
+    "sourceUrl": "https://docs.python.org/3/glossary.html",
+    "domain": "python",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "generator"
+    ],
+    "meaning": "生成器",
+    "explanation": "在执行过程中逐步产生值、并可保留执行状态的机制。",
+    "source": "Python 官方术语表",
+    "sourceUrl": "https://docs.python.org/3/glossary.html",
+    "domain": "python",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "iterable"
+    ],
+    "meaning": "可迭代对象",
+    "explanation": "可从中取得迭代器并遍历元素的对象。",
+    "source": "Python 官方术语表",
+    "sourceUrl": "https://docs.python.org/3/glossary.html",
+    "domain": "python",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "mutable"
+    ],
+    "meaning": "可变的",
+    "explanation": "对象创建后，其内容仍可修改。",
+    "source": "Python 官方术语表",
+    "sourceUrl": "https://docs.python.org/3/glossary.html",
+    "domain": "python",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "immutable"
+    ],
+    "meaning": "不可变的",
+    "explanation": "对象创建后，其值不能再改变。",
+    "source": "Python 官方术语表",
+    "sourceUrl": "https://docs.python.org/3/glossary.html",
+    "domain": "python",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "context manager"
+    ],
+    "meaning": "上下文管理器",
+    "explanation": "在进入和退出代码块时管理资源或执行配套操作的对象。",
+    "source": "Python 官方术语表",
+    "sourceUrl": "https://docs.python.org/3/glossary.html",
+    "domain": "python",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "duck typing"
+    ],
+    "meaning": "鸭子类型",
+    "explanation": "按对象支持的行为使用对象，而不是只看其声明类型。",
+    "source": "Python 官方术语表",
+    "sourceUrl": "https://docs.python.org/3/glossary.html",
+    "domain": "python",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "TypeScript",
+      "TS"
+    ],
+    "meaning": "TypeScript 语言",
+    "explanation": "在 JavaScript 上增加类型系统的语言，可在开发时检查许多类型错误。",
+    "source": "TypeScript 官方手册",
+    "sourceUrl": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html",
+    "domain": "ts",
+    "editorial": true,
+    "abbreviations": [
+      "TS"
+    ],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "nightly build",
+      "nightly builds"
+    ],
+    "meaning": "每日构建／夜间构建",
+    "explanation": "从最新开发代码定期生成的预览构建，不等同于稳定版。",
+    "source": "TypeScript 每日构建文档",
+    "sourceUrl": "https://www.typescriptlang.org/docs/handbook/nightly-builds.html",
+    "domain": "tsnight",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "Redis"
+    ],
+    "meaning": "Redis 数据存储",
+    "explanation": "以内存数据结构为核心的数据存储，可用于缓存等场景，也支持持久化。",
+    "source": "Redis 官方快速入门",
+    "sourceUrl": "https://redis.io/docs/latest/develop/get-started/",
+    "domain": "redis",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "redis-cli"
+    ],
+    "meaning": "Redis 命令行客户端",
+    "explanation": "连接 Redis 服务并执行命令的官方命令行工具。",
+    "source": "Redis 官方命令行文档",
+    "sourceUrl": "https://redis.io/docs/latest/develop/tools/cli/",
+    "domain": "rediscli",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "Sentinel"
+    ],
+    "meaning": "Redis 哨兵",
+    "explanation": "监控 Redis 实例并协调故障转移的高可用机制。",
+    "source": "Redis Sentinel 官方文档",
+    "sourceUrl": "https://redis.io/docs/latest/operate/oss_and_stack/management/sentinel/",
+    "domain": "sentinel",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "map"
+    ],
+    "meaning": "映射；JavaScript Map",
+    "explanation": "映射保存键值关联；JavaScript 的 Map 对象按键存储值，不是地理地图。",
+    "source": "MDN JavaScript Map",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "domain": "jsmap",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "standard library"
+    ],
+    "meaning": "标准库",
+    "explanation": "语言或运行环境按标准提供的一组常用功能；各语言包含的内容不同。",
+    "source": "MDN JavaScript 指南",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "domain": "js",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "Node.js",
+      "nodejs"
+    ],
+    "meaning": "Node.js 运行环境",
+    "explanation": "在浏览器外执行 JavaScript 的运行环境，常用于服务器端开发。",
+    "source": "Node.js 官方介绍",
+    "sourceUrl": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs",
+    "domain": "nodejs",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "React"
+    ],
+    "meaning": "React 界面库",
+    "explanation": "通过可组合组件构建用户界面的库。",
+    "source": "React 官方快速入门",
+    "sourceUrl": "https://react.dev/learn",
+    "domain": "react",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "component"
+    ],
+    "meaning": "组件",
+    "explanation": "封装一部分界面及其行为的可组合单元。",
+    "source": "React 官方快速入门",
+    "sourceUrl": "https://react.dev/learn",
+    "domain": "react",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "props"
+    ],
+    "meaning": "组件属性",
+    "explanation": "React 中从父组件传入子组件的只读输入。",
+    "source": "React 官方快速入门",
+    "sourceUrl": "https://react.dev/learn",
+    "domain": "react",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "state"
+    ],
+    "meaning": "状态",
+    "explanation": "React 中影响组件渲染、可通过更新触发重新渲染的数据。",
+    "source": "React 官方快速入门",
+    "sourceUrl": "https://react.dev/learn",
+    "domain": "react",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "hook"
+    ],
+    "meaning": "Hook",
+    "explanation": "React 中让组件使用状态等能力的函数机制，须遵守调用规则。",
+    "source": "React 官方快速入门",
+    "sourceUrl": "https://react.dev/learn",
+    "domain": "react",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "Docker"
+    ],
+    "meaning": "Docker 容器平台",
+    "explanation": "构建镜像、分发镜像并运行容器的工具和平台。",
+    "source": "Docker 官方概述",
+    "sourceUrl": "https://docs.docker.com/get-started/docker-overview/",
+    "domain": "docker",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "image"
+    ],
+    "meaning": "镜像",
+    "explanation": "Docker 中用于创建容器的只读模板，不只是图片文件。",
+    "source": "Docker 官方概述",
+    "sourceUrl": "https://docs.docker.com/get-started/docker-overview/",
+    "domain": "docker",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "volume"
+    ],
+    "meaning": "数据卷",
+    "explanation": "Docker 管理的持久化数据存储，可独立于容器生命周期保留。",
+    "source": "Docker 官方概述",
+    "sourceUrl": "https://docs.docker.com/get-started/docker-overview/",
+    "domain": "docker",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "registry"
+    ],
+    "meaning": "镜像仓库服务",
+    "explanation": "保存和分发容器镜像的服务。",
+    "source": "Docker 官方概述",
+    "sourceUrl": "https://docs.docker.com/get-started/docker-overview/",
+    "domain": "docker",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "Rust"
+    ],
+    "meaning": "Rust 编程语言",
+    "explanation": "通过所有权等机制管理内存的系统编程语言，不是普通英语的“铁锈”。",
+    "source": "Rust 官方书：所有权",
+    "sourceUrl": "https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html",
+    "domain": "rust",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "ownership"
+    ],
+    "meaning": "所有权",
+    "explanation": "Rust 用它约束值由谁负责管理，并在编译期检查相关规则。",
+    "source": "Rust 官方书：所有权",
+    "sourceUrl": "https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html",
+    "domain": "rust",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "borrow",
+      "borrowing"
+    ],
+    "meaning": "借用",
+    "explanation": "Rust 中通过引用访问值，而不取得该值的所有权。",
+    "source": "Rust 官方书：引用与借用",
+    "sourceUrl": "https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html",
+    "domain": "rustborrow",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "dangling reference"
+    ],
+    "meaning": "悬垂引用",
+    "explanation": "引用指向已经失效的数据；Rust 的借用检查会阻止许多此类情况。",
+    "source": "Rust 官方书：引用与借用",
+    "sourceUrl": "https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html",
+    "domain": "rustborrow",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "FastAPI"
+    ],
+    "meaning": "FastAPI Web 框架",
+    "explanation": "用于用 Python 构建 Web API 的框架，利用类型提示描述请求和响应等数据。",
+    "source": "FastAPI 官方文档",
+    "sourceUrl": "https://fastapi.tiangolo.com/",
+    "domain": "fastapi",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "OpenAPI"
+    ],
+    "meaning": "OpenAPI 接口描述规范",
+    "explanation": "以标准格式描述 HTTP API 的路径、参数、响应等信息。",
+    "source": "OpenAPI 官方规范",
+    "sourceUrl": "https://spec.openapis.org/oas/latest.html",
+    "domain": "openapi",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "JSON Schema"
+    ],
+    "meaning": "JSON 数据结构规范",
+    "explanation": "用结构化约定描述 JSON 数据，并用于检查数据是否符合要求。",
+    "source": "JSON Schema 官方概述",
+    "sourceUrl": "https://json-schema.org/overview/what-is-jsonschema",
+    "domain": "jsonschema",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "NoSQL"
+    ],
+    "meaning": "非关系型数据库类别",
+    "explanation": "通常指文档、键值、图等多种数据模型的数据库，不代表完全不能使用 SQL。",
+    "source": "MongoDB NoSQL 概述",
+    "sourceUrl": "https://www.mongodb.com/resources/basics/databases/nosql-explained",
+    "domain": "nosql",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "invocation"
+    ],
+    "meaning": "调用",
+    "explanation": "执行一个方法或函数的过程；普通英语中也有祈祷等其他含义。",
+    "source": "Oracle Java 术语表",
+    "sourceUrl": "https://docs.oracle.com/javase/tutorial/information/glossary.html",
+    "domain": "java",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "framework"
+    ],
+    "meaning": "框架",
+    "explanation": "为应用提供组织方式和通用功能，并让开发者填入具体业务代码的软件基础。",
+    "source": "MDN 服务端框架指南",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Web_frameworks",
+    "domain": "framework",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "host"
+    ],
+    "meaning": "宿主／主机",
+    "explanation": "在编程语言语境中可指提供运行环境与附加能力的宿主；网络语境中也常指主机。",
+    "source": "MDN JavaScript 指南",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "domain": "js",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "server-side"
+    ],
+    "meaning": "服务端的",
+    "explanation": "在服务器端执行或处理的程序逻辑，而不是在用户浏览器中执行。",
+    "source": "MDN 服务端框架指南",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Web_frameworks",
+    "domain": "framework",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "client-side"
+    ],
+    "meaning": "客户端的",
+    "explanation": "在客户端运行的逻辑，网页场景中通常指在浏览器中执行的部分。",
+    "source": "MDN 服务端框架指南",
+    "sourceUrl": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Web_frameworks",
+    "domain": "framework",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": []
+  },
+  {
+    "names": [
+      "schema"
+    ],
+    "meaning": "模式／结构约定",
+    "explanation": "可指数据结构的描述；PostgreSQL 中也特指表等对象的命名空间，JSON Schema 则用于描述 JSON 数据。",
+    "source": "PostgreSQL 官方术语表",
+    "sourceUrl": "https://www.postgresql.org/docs/current/glossary.html",
+    "domain": "db",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": [
+      {
+        "name": "JSON Schema 官方概述",
+        "url": "https://json-schema.org/overview/what-is-jsonschema"
+      }
+    ]
+  },
+  {
+    "names": [
+      "reference"
+    ],
+    "meaning": "引用／参考",
+    "explanation": "可指访问对象的引用、Git 引用或参考资料；C++ 引用是对象的别名，需结合语境判断。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": [
+      {
+        "name": "Git 官方词汇表",
+        "url": "https://git-scm.com/docs/gitglossary"
+      },
+      {
+        "name": "Oracle Java 术语表",
+        "url": "https://docs.oracle.com/javase/tutorial/information/glossary.html"
+      }
+    ]
+  },
+  {
+    "names": [
+      "vector"
+    ],
+    "meaning": "向量／动态数组",
+    "explanation": "数值向量由一组有序数构成，常用于向量检索；C++ 的 std::vector 则是动态数组容器。",
+    "source": "C++ 标准工作草案",
+    "sourceUrl": "https://eel.is/c++draft/",
+    "domain": "cpp",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": [
+      {
+        "name": "Redis 向量搜索概念",
+        "url": "https://redis.io/docs/latest/develop/ai/search-and-query/vectors/"
+      }
+    ]
+  },
+  {
+    "names": [
+      "hash"
+    ],
+    "meaning": "哈希／字段映射",
+    "explanation": "算法中指将输入映射为哈希值；Redis Hash 是字段和值的集合，这两种语境需区分。",
+    "source": "NIST 算法与数据结构词典",
+    "sourceUrl": "https://xlinux.nist.gov/dads/",
+    "domain": "algo",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": [
+      {
+        "name": "Redis 官方数据类型概述",
+        "url": "https://redis.io/docs/latest/develop/data-types/"
+      }
+    ]
+  },
+  {
+    "names": [
+      "stream"
+    ],
+    "meaning": "流／事件日志结构",
+    "explanation": "泛指按顺序处理的数据；Redis Stream 是类似追加式日志的数据结构，用于记录和处理事件。",
+    "source": "Redis 官方数据类型概述",
+    "sourceUrl": "https://redis.io/docs/latest/develop/data-types/",
+    "domain": "redisdata",
+    "editorial": true,
+    "abbreviations": [],
+    "extraSources": [
+      {
+        "name": "Python 官方术语表",
+        "url": "https://docs.python.org/3/glossary.html"
+      }
+    ]
+  }
+]

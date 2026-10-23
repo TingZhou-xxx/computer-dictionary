@@ -1,0 +1,208 @@
+# source-id<TAB>names separated by |<TAB>meaning<TAB>explanation
+api	API|application programming interface	应用程序编程接口	软件向其他代码提供的功能、数据格式和调用约定。
+git	working directory|working tree|worktree	工作目录／工作树	检出到磁盘、供你编辑的文件；它和暂存区、提交历史不同。
+git	Git	Git 版本控制系统	记录文件版本、支持分支与合并的分布式版本控制工具。
+git	staging area|stage	暂存区／暂存	准备放入下一次提交的改动；stage 也常作动词表示把改动加入暂存区。
+git	index	索引；Git 暂存区	Git 中 index 记录准备提交的文件状态；在数据库中 index 通常指加速查询的索引结构。
+git	HEAD	当前提交引用	通常指向当前分支，分离 HEAD 时直接指向某个提交。
+git	detached HEAD	分离头指针状态	HEAD 直接指向提交，而不是指向分支名称。
+git	cherry-pick|cherry picking	拣选提交	把指定提交引入的改动应用到当前开发线路。
+git	fast-forward	快进合并	目标分支没有分叉时，直接向前移动分支指针。
+git	bare repository	裸仓库	只有仓库管理数据，没有检出的工作树。
+git	stash	暂存工作进度	临时保存工作区和暂存区改动，稍后可恢复。
+git	revert	反向提交／撤销	通过新增提交抵消已有提交的改动，不直接删除历史。
+git	reset	重置	移动当前分支位置；参数不同，对暂存区和工作树的影响也不同。
+git	diff	差异	比较文件或版本之间的不同。
+git	submodule	子模块	在一个仓库中引用另一个独立仓库的特定提交。
+github	issue	议题／问题记录	GitHub 中用于跟踪缺陷、任务或需求，不一定代表程序出错。
+github	pull request|PR	拉取请求／合并请求	在 GitHub 提议合入改动，供讨论和审查。
+github	code review	代码审查	检查改动是否正确、清楚，是否适合合入项目。
+github	access token|personal access token|PAT	访问令牌	调用接口或执行受保护操作时使用的身份凭证。
+github	assignee	负责人	被指派处理某条议题或拉取请求的人。
+github	label	标签	GitHub 中用于分类议题和拉取请求的标记。
+github	upstream	上游	常指派生仓库所基于的原项目；Git 中也可指分支跟踪的远程分支。
+actions	continuous integration|CI	持续集成	自动构建和测试提交，尽早发现集成问题。
+actions	workflow	工作流	由事件触发、执行一个或多个任务的自动化流程。
+actions	runner	运行器	执行 GitHub Actions 工作流任务的机器。
+actions	artifact	构建产物	工作流生成并保存的文件，如安装包或测试报告。
+actions	job	任务	工作流内在同一个运行器上执行的一组步骤。
+actions	build	构建	把源代码及相关资源处理成可运行或可发布产物的过程。
+java	Java	Java 语言	具有类和接口等机制、通常在 Java 虚拟机上运行的编程语言。
+java	JVM|Java Virtual Machine	Java 虚拟机	执行 Java 字节码的抽象计算机及其实现。
+java	JDK|Java Development Kit	Java 开发工具包	包含编译器等开发工具和运行 Java 程序所需组件。
+java	bytecode	字节码	编译后的中间指令，Java 字节码由 JVM 执行。
+java	garbage collection|GC	垃圾回收	自动回收不再可达或不再使用的对象占用的内存。
+java	abstract class	抽象类	不能直接实例化、可包含抽象方法的类。
+java	overload|overloading	重载	在同一作用范围用不同参数列表声明同名方法。
+java	override|overriding	重写	子类为继承来的实例方法提供自己的实现。
+java	package	包	组织 Java 类型并形成命名空间的机制。
+java	synchronized	同步修饰／同步块	Java 中通过对象监视器协调线程访问。
+java	generics|generic	泛型	让类型或方法通过类型参数复用代码。
+java	annotation	注解	附加在程序元素上的元数据，可供工具或程序读取。
+java	method	方法	定义在类或接口中的可调用成员。
+java	parameter	形参	在方法声明中命名的输入位置。
+java	argument	实参	调用方法时实际传入的表达式或值。
+java	null	空引用值	Java 中表示引用没有指向对象的特殊值，不是数字 0，也不是空字符串。
+cpp	C++|cpp	C++ 语言	支持静态类型、类、模板和底层内存操作的编程语言。
+cpp	C	C 语言	常用于系统开发的编程语言，提供指针和手动内存管理等机制。
+cpp	RAII|resource acquisition is initialization	资源获取即初始化	把资源生命周期绑定到对象，析构时释放资源。
+cpp	destructor	析构函数	对象生命周期结束时执行的特殊成员函数。
+cpp	undefined behavior|UB	未定义行为	标准不对程序行为提出要求；不能依赖某次运行的结果。
+cpp	move semantics	移动语义	允许把资源从对象转移到另一对象，避免不必要的深拷贝。
+cpp	lvalue	左值	一种表达式值类别，通常表示有身份、可定位的对象或函数。
+cpp	rvalue	右值	包含纯右值和将亡值的表达式类别。
+cpp	smart pointer	智能指针	通过对象封装指针，并按约定管理被指向资源的生命周期。
+cpp	unique_ptr	独占所有权智能指针	一个所有者管理资源，可移动但不可复制所有权。
+cpp	shared_ptr	共享所有权智能指针	通过引用计数共享资源所有权。
+cpp	STL|standard template library	标准模板库	通常指 C++ 标准库中的容器、迭代器和算法等模板组件。
+cpp	virtual function	虚函数	可通过动态分派调用派生类重写实现的成员函数。
+cpp	nullptr	空指针字面量	C++ 中专门用于表示空指针的字面量。
+cpp	volatile	易变限定符	标记某些访问具有可观察副作用；它本身不保证线程同步。
+cpp	translation unit	翻译单元	源文件经预处理后形成的编译输入单位。
+algo	data structure	数据结构	组织和存储数据以支持特定操作的方式。
+algo	binary tree	二叉树	每个节点至多有两个子节点的树。
+algo	binary search tree|BST	二叉搜索树	用键的大小关系组织左右子树，以支持查找。
+algo	balanced tree	平衡树	通过限制树高等性质避免查找退化的一类树。
+algo	priority queue	优先队列	按优先级取出元素，而不是按进入先后取出。
+algo	hash table	哈希表	利用哈希函数将键映射到存储位置，提供键值查找。
+algo	hash	哈希／散列	把输入映射到一个较短的值；不同输入可能产生碰撞。
+algo	collision	碰撞／冲突	不同键经哈希计算得到相同存储位置或哈希值。
+algo	depth-first search|DFS	深度优先搜索	先沿一条路径深入，再回溯探索其他路径。
+algo	breadth-first search|BFS	广度优先搜索	先访问当前层节点，再访问下一层。
+algo	dynamic programming|DP	动态规划	复用重叠子问题的解，逐步构造问题的解。
+algo	greedy algorithm	贪心算法	每一步选取当前最优选择；并非对所有问题都能得到全局最优解。
+algo	amortized analysis	摊还分析	分析一系列操作的总成本，而不是只看单次最坏成本。
+algo	time complexity	时间复杂度	描述运行时间随输入规模增长的趋势。
+algo	space complexity	空间复杂度	描述所需存储空间随输入规模增长的趋势。
+algo	big O|big-O|O notation	大 O 记号	用于表达增长率的渐近上界。
+algo	quicksort|quick sort	快速排序	选择枢轴分割数据，再递归处理各部分。
+algo	merge sort	归并排序	分别排序子序列，再把有序子序列合并。
+algo	directed acyclic graph|DAG	有向无环图	含有方向边、且不存在有向环的图。
+os	virtual memory	虚拟内存	为进程提供虚拟地址空间，并将其映射到实际存储。
+os	page fault	缺页异常	访问的虚拟页当前无法直接使用，触发系统处理。
+os	page	内存页	虚拟内存管理和映射所使用的固定大小单位。
+os	swap	交换空间／换出	把部分内存页移到交换存储，以缓解物理内存压力。
+oom	OOM|out of memory	内存不足	系统或进程无法获得所需内存；不必然意味着同一种崩溃方式。
+os	memory mapping|mmap	内存映射	把文件或其他存储映射到虚拟地址空间。
+posix	process	进程	拥有执行状态和系统资源的程序运行实例。
+posix	thread	线程	进程内的一条执行路径，可与同进程线程共享资源。
+posix	mutex	互斥锁	用于限制共享资源同时只能被一个执行者占用的同步对象。
+posix	semaphore	信号量	以计数方式协调访问资源或通知事件的同步机制。
+posix	deadlock	死锁	多个执行者互相等待对方释放资源，无法继续推进。
+posix	race condition	竞态条件	结果取决于并发操作的时序，可能引发错误。
+posix	system call|syscall	系统调用	用户程序请求操作系统服务的接口。
+http	HTTP|Hypertext Transfer Protocol	超文本传输协议	定义请求、响应及其语义的应用层协议。
+http	request	请求	客户端向服务端发出的操作意图和相关数据。
+http	response	响应	服务端对请求返回的状态、元数据和可选内容。
+http	status code	状态码	HTTP 响应用三位数字描述处理结果。
+http	header	首部／头字段	请求或响应中的元数据字段。
+http	idempotent|idempotency	幂等的／幂等性	多次执行同一请求与执行一次，对服务端产生的预期效果相同。
+http	content negotiation	内容协商	根据请求偏好选择资源的不同表示。
+tcp	TCP|Transmission Control Protocol	传输控制协议	提供可靠、有序字节流的传输层协议。
+udp	UDP|User Datagram Protocol	用户数据报协议	发送数据报的传输层协议，本身不保证交付或顺序。
+dns	DNS|Domain Name System	域名系统	以分布式命名系统查询域名相关记录。
+tls	TLS|Transport Layer Security	传输层安全协议	为通信提供机密性、完整性和身份认证机制。
+cors	CORS|cross-origin resource sharing	跨源资源共享	浏览器依据响应头，决定是否允许脚本读取跨源响应。
+websocket	WebSocket	WebSocket 协议	在连接建立后支持双向通信的协议。
+dom	DOM|Document Object Model	文档对象模型	把文档表示为可由程序访问和修改的对象树。
+css	CSS|Cascading Style Sheets	层叠样式表	控制网页内容的布局和视觉呈现。
+html	HTML|HyperText Markup Language	超文本标记语言	描述网页内容结构与语义的标记语言。
+js	JavaScript|JS	JavaScript 语言	网页中广泛使用的脚本语言，也可在服务器环境运行。
+js	closure	闭包	函数与其可访问的词法环境组合，使函数仍能访问外层绑定。
+js	promise	Promise 对象	表示异步操作最终完成或失败及其结果。
+js	async|asynchronous	异步	发起操作后，通过后续通知或结果机制处理完成状态。
+js	await	等待异步结果	在允许的位置暂停当前执行流程，等待 Promise 结算。
+js	callback	回调	交给其他代码，在指定时机调用的函数。
+js	event loop	事件循环	协调任务执行及异步事件处理的运行机制。
+js	prototype	原型	JavaScript 对象通过原型链查找继承的属性。
+js	module	模块	组织代码、控制导入导出的独立代码单元。
+js	function	函数	可调用的代码对象，可接收参数并返回结果。
+spring	dependency injection|DI	依赖注入	对象需要的依赖由外部提供，而非由对象内部自行创建。
+spring	inversion of control|IoC	控制反转	把对象创建和协作等控制交给容器或框架。
+spring	bean	受容器管理的对象	Spring 中由 IoC 容器创建、组装和管理的对象。
+rest	REST|representational state transfer	表述性状态转移	一组用于分布式超媒体系统的架构约束，不等同于任意 JSON 接口。
+json	JSON|JavaScript Object Notation	JSON 数据交换格式	使用对象、数组、字符串、数字等结构表示数据的文本格式。
+db	database	数据库	组织和持久保存数据的集合，由数据库系统管理访问。
+db	schema	模式	在 PostgreSQL 中是表等数据库对象的命名空间。
+db	transaction	事务	把一组数据库操作作为一个整体提交或回滚。
+db	rollback	回滚	撤销尚未提交的事务改动。
+db	primary key	主键	唯一标识表中每一行的列或列组合，不能为 NULL。
+db	foreign key	外键	要求列值引用另一组受唯一性约束的键，以维护引用完整性。
+db	constraint	约束	限制数据允许取值或关系的规则。
+db	join	连接	按条件将多个关系的数据组合起来。
+db	query	查询	请求数据库检索或处理数据的操作或语句。
+db	MVCC|multiversion concurrency control	多版本并发控制	通过保留数据版本协调并发访问。
+db	WAL|write-ahead log	预写日志	先记录足够的日志，再将对应数据更改写入持久存储。
+db	isolation level	隔离级别	决定事务如何观察并发事务影响的一组规则。
+db	dead tuple	失效元组	旧行版本不再对任何事务可见，可以被清理。
+db	vacuum	清理旧行版本	PostgreSQL 中回收失效行版本空间并维护相关元数据的操作。
+db	SQL|Structured Query Language	结构化查询语言	用于定义、查询和操作关系数据库数据的语言。
+test	fixture	测试夹具	为测试准备并清理所需状态或资源的可复用机制。
+test	assertion|assert	断言	检查某个条件成立，不成立时报告测试失败。
+test	parametrize|parametrization	参数化测试	对同一测试逻辑提供多组输入和预期结果。
+unittest	unit test|unit testing	单元测试	检查一个较小代码单元行为的测试。
+unittest	test suite	测试套件	组织成组、一起执行的测试集合。
+mock	mock	模拟对象	替代真实依赖，并可记录交互以供测试断言。
+mock	patch	替换／补丁	测试中可指临时替换对象；版本管理中也可指描述改动的补丁。
+k8s	container	容器	将应用与依赖打包、在隔离的运行环境中执行的单位。
+k8s	pod	Pod	Kubernetes 中最小的可部署单元，可包含共享部分资源的容器。
+k8s	deployment	部署控制器	Kubernetes 中声明和管理一组 Pod 副本更新的资源。
+k8s	service	服务	Kubernetes 中向一组后端端点提供稳定访问方式的资源。
+k8s	ingress	入口资源	声明从集群外部到内部服务的 HTTP/HTTPS 路由规则。
+k8s	cluster	集群	协作运行工作负载的一组节点。
+k8s	node	节点	Kubernetes 中运行工作负载的工作机器。
+k8s	namespace	命名空间	Kubernetes 中划分名称与资源管理范围；C++ 中也用于组织标识符。
+k8s	configmap	配置映射	保存非机密配置数据的 Kubernetes 资源。
+k8s	secret	机密数据资源	保存敏感配置的 Kubernetes 资源；编码不等于加密。
+k8s	scheduler	调度器	在 Kubernetes 中为尚未分配节点的 Pod 选择合适节点。
+k8s	rolling update	滚动更新	逐步替换实例以更新应用版本的方式。
+compile	compiler	编译器	把源代码转换为目标代码或其他表示的工具。
+compile	linker	链接器	把目标文件和库组合，解析符号引用，生成可执行文件或库。
+compile	preprocessor	预处理器	在编译前处理头文件包含、宏展开和条件编译等指令。
+compile	object file	目标文件	通常包含机器代码、符号和重定位信息的中间产物。
+compile	shared library	共享库	可在加载或运行时供程序链接使用的库。
+compile	static library	静态库	通常以目标文件归档形式提供，在链接阶段取用所需内容。
+compile	optimization	优化	在保持规定行为的前提下，改进代码的速度、空间或其他指标。
+compile	debug symbols	调试符号	帮助调试器把运行中的地址关联到源代码位置等信息。
+python	iterator	迭代器	可逐个产生元素的对象；不同语言规定的接口不同。
+python	generator	生成器	在执行过程中逐步产生值、并可保留执行状态的机制。
+python	iterable	可迭代对象	可从中取得迭代器并遍历元素的对象。
+python	mutable	可变的	对象创建后，其内容仍可修改。
+python	immutable	不可变的	对象创建后，其值不能再改变。
+python	context manager	上下文管理器	在进入和退出代码块时管理资源或执行配套操作的对象。
+python	duck typing	鸭子类型	按对象支持的行为使用对象，而不是只看其声明类型。
+ts	TypeScript|TS	TypeScript 语言	在 JavaScript 上增加类型系统的语言，可在开发时检查许多类型错误。
+tsnight	nightly build|nightly builds	每日构建／夜间构建	从最新开发代码定期生成的预览构建，不等同于稳定版。
+redis	Redis	Redis 数据存储	以内存数据结构为核心的数据存储，可用于缓存等场景，也支持持久化。
+rediscli	redis-cli	Redis 命令行客户端	连接 Redis 服务并执行命令的官方命令行工具。
+sentinel	Sentinel	Redis 哨兵	监控 Redis 实例并协调故障转移的高可用机制。
+jsmap	map	映射；JavaScript Map	映射保存键值关联；JavaScript 的 Map 对象按键存储值，不是地理地图。
+js	standard library	标准库	语言或运行环境按标准提供的一组常用功能；各语言包含的内容不同。
+nodejs	Node.js|nodejs	Node.js 运行环境	在浏览器外执行 JavaScript 的运行环境，常用于服务器端开发。
+react	React	React 界面库	通过可组合组件构建用户界面的库。
+react	component	组件	封装一部分界面及其行为的可组合单元。
+react	props	组件属性	React 中从父组件传入子组件的只读输入。
+react	state	状态	React 中影响组件渲染、可通过更新触发重新渲染的数据。
+react	hook	Hook	React 中让组件使用状态等能力的函数机制，须遵守调用规则。
+docker	Docker	Docker 容器平台	构建镜像、分发镜像并运行容器的工具和平台。
+docker	image	镜像	Docker 中用于创建容器的只读模板，不只是图片文件。
+docker	volume	数据卷	Docker 管理的持久化数据存储，可独立于容器生命周期保留。
+docker	registry	镜像仓库服务	保存和分发容器镜像的服务。
+rust	Rust	Rust 编程语言	通过所有权等机制管理内存的系统编程语言，不是普通英语的“铁锈”。
+rust	ownership	所有权	Rust 用它约束值由谁负责管理，并在编译期检查相关规则。
+rustborrow	borrow|borrowing	借用	Rust 中通过引用访问值，而不取得该值的所有权。
+rustborrow	dangling reference	悬垂引用	引用指向已经失效的数据；Rust 的借用检查会阻止许多此类情况。
+fastapi	FastAPI	FastAPI Web 框架	用于用 Python 构建 Web API 的框架，利用类型提示描述请求和响应等数据。
+openapi	OpenAPI	OpenAPI 接口描述规范	以标准格式描述 HTTP API 的路径、参数、响应等信息。
+jsonschema	JSON Schema	JSON 数据结构规范	用结构化约定描述 JSON 数据，并用于检查数据是否符合要求。
+nosql	NoSQL	非关系型数据库类别	通常指文档、键值、图等多种数据模型的数据库，不代表完全不能使用 SQL。
+java	invocation	调用	执行一个方法或函数的过程；普通英语中也有祈祷等其他含义。
+framework	framework	框架	为应用提供组织方式和通用功能，并让开发者填入具体业务代码的软件基础。
+js	host	宿主／主机	在编程语言语境中可指提供运行环境与附加能力的宿主；网络语境中也常指主机。
+framework	server-side	服务端的	在服务器端执行或处理的程序逻辑，而不是在用户浏览器中执行。
+framework	client-side	客户端的	在客户端运行的逻辑，网页场景中通常指在浏览器中执行的部分。
+db	schema	模式／结构约定	可指数据结构的描述；PostgreSQL 中也特指表等对象的命名空间，JSON Schema 则用于描述 JSON 数据。
+cpp	reference	引用／参考	可指访问对象的引用、Git 引用或参考资料；C++ 引用是对象的别名，需结合语境判断。
+cpp	vector	向量／动态数组	数值向量由一组有序数构成，常用于向量检索；C++ 的 std::vector 则是动态数组容器。
+algo	hash	哈希／字段映射	算法中指将输入映射为哈希值；Redis Hash 是字段和值的集合，这两种语境需区分。
+redisdata	stream	流／事件日志结构	泛指按顺序处理的数据；Redis Stream 是类似追加式日志的数据结构，用于记录和处理事件。
