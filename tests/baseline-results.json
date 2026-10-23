@@ -1,0 +1,251 @@
+{
+  "date": "2026-10-15",
+  "runtime": "v24.11.1",
+  "tests": [
+    "MV3 and content script contains no dictionary data",
+    "No AI / remote fetch implementation",
+    "professional: commit",
+    "professional: COMMIT",
+    "professional:   Commit  ",
+    "professional: pull request",
+    "professional: working directory",
+    "professional: staging area",
+    "professional: dependency injection",
+    "professional: OOM",
+    "inflection committed -> commit",
+    "inflection commits -> commit",
+    "inflection repositories -> repository",
+    "inflection issues -> issue",
+    "inflection pushing -> push",
+    "inflection pull requests -> pull request",
+    "inflection working directories -> working directory",
+    "identifier ShuffleArray",
+    "identifier getUserName",
+    "identifier HTTPServer",
+    "identifier parseJSONResponse",
+    "identifier getURLValue",
+    "identifier my_snake_case",
+    "acronym JSON kept intact",
+    "whole phrase precedes splitting",
+    "unknown is honest",
+    "ordinary English offline",
+    "irregular inflection candidates",
+    "input limit",
+    "all 512 shards and entry/form counts verified",
+    "bounded LRU retains at most 12 shards",
+    "concurrent requests share one in-flight shard load",
+    "no automatic retry",
+    "manual retry recovers"
+  ],
+  "coverage": [
+    {
+      "url": "https://github.com/git/git",
+      "sha256": "1d5dbe95a7bbb7494d09a051c417fa251edfaef7156b9a9e355cd836655eff71",
+      "total": 160,
+      "hits": 148,
+      "misses": [
+        "torvalds",
+        "gittutorial",
+        "adoc",
+        "giteveryday",
+        "commandname",
+        "gitcvs-migration",
+        "cvs-migration",
+        "vger",
+        "submittingpatches",
+        "codingguidelines",
+        "git-security",
+        "googlegroups"
+      ],
+      "splitOnly": [
+        "gitcvs-migration",
+        "cvs-migration",
+        "git-security"
+      ],
+      "professionalHits": 55,
+      "rate": 0.925,
+      "special": [
+        {
+          "term": "source code",
+          "type": "entry",
+          "matched": "source code",
+          "professional": true,
+          "meaning": "[计] 源代码\n[计] 源代码"
+        },
+        {
+          "term": "pull requests",
+          "type": "entry",
+          "matched": "pull request",
+          "professional": true,
+          "meaning": "拉取请求／合并请求\n在 GitHub 提议合入改动，供讨论和审查。"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/microsoft/TypeScript/blob/main/README.md",
+      "sha256": "b43867a1a978a0a3d881b91e50e9807f1f56e3f1dd54d65cad43f471c84e0036",
+      "total": 100,
+      "hits": 96,
+      "misses": [
+        "application-scale",
+        "standards-based",
+        "stackoverflow",
+        "opencode"
+      ],
+      "splitOnly": [
+        "application-scale",
+        "standards-based"
+      ],
+      "professionalHits": 30,
+      "rate": 0.96,
+      "special": [
+        {
+          "term": "source code",
+          "type": "entry",
+          "matched": "source code",
+          "professional": true,
+          "meaning": "[计] 源代码\n[计] 源代码"
+        },
+        {
+          "term": "nightly builds",
+          "type": "parts",
+          "professional": false,
+          "meaning": ""
+        },
+        {
+          "term": "TypeScript",
+          "type": "entry",
+          "matched": "typescript",
+          "professional": false,
+          "meaning": "n. 用打字机打的文件"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/redis/redis/blob/unstable/README.md",
+      "sha256": "947c87732c7ec6382a64ac7c637bea474b6aa478f22dcf3d8091bb6ca8bb531d",
+      "total": 160,
+      "hits": 151,
+      "misses": [
+        "redis",
+        "redis-cli",
+        "feature-rich",
+        "hash-field",
+        "nosql",
+        "key-value",
+        "full-text",
+        "genai",
+        "langgraph"
+      ],
+      "splitOnly": [
+        "redis-cli",
+        "feature-rich",
+        "hash-field",
+        "key-value",
+        "full-text"
+      ],
+      "professionalHits": 63,
+      "rate": 0.94375,
+      "special": [
+        {
+          "term": "data types",
+          "type": "entry",
+          "matched": "data type",
+          "professional": true,
+          "meaning": "[计] 数据类型\n[计] 数据类型"
+        },
+        {
+          "term": "client libraries",
+          "type": "parts",
+          "professional": false,
+          "meaning": ""
+        },
+        {
+          "term": "redis-cli",
+          "type": "identifier",
+          "professional": false,
+          "meaning": ""
+        },
+        {
+          "term": "Redis Insight",
+          "type": "parts",
+          "professional": false,
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction",
+      "sha256": "faeb63304f01f63ddea3e47efacc4c88ca7697d7b431fba20c2451fb145fe6da",
+      "total": 160,
+      "hits": 158,
+      "misses": [
+        "webpages",
+        "server-side"
+      ],
+      "splitOnly": [
+        "server-side"
+      ],
+      "professionalHits": 52,
+      "rate": 0.9875,
+      "special": [
+        {
+          "term": "HyperText Markup Language",
+          "type": "entry",
+          "matched": "HTML",
+          "professional": true,
+          "meaning": "超文本标记语言\n描述网页内容结构与语义的标记语言。\n[计] 超文本标记语言\n[计] 超文本标记语言"
+        },
+        {
+          "term": "World Wide Web",
+          "type": "entry",
+          "matched": "World Wide Web",
+          "professional": true,
+          "meaning": "[计] 全球信息网, WWW浏览器\n[计] 全球信息网, WWW浏览器"
+        },
+        {
+          "term": "standard library",
+          "type": "parts",
+          "professional": false,
+          "meaning": ""
+        },
+        {
+          "term": "object-oriented",
+          "type": "entry",
+          "matched": "object-oriented",
+          "professional": true,
+          "meaning": "[计] 面向对象的\n[计] 面向对象的"
+        },
+        {
+          "term": "Map",
+          "type": "entry",
+          "matched": "map",
+          "professional": true,
+          "meaning": "[计] 实用程序, 映射, 制造自动化协议\nn. 地图, 天体图, 映像\nvt. 映射, 绘制...地图, 计划\n[计] 实用程序, 映射, 制造自动化协议"
+        },
+        {
+          "term": "JavaScript",
+          "type": "entry",
+          "matched": "JavaScript",
+          "professional": true,
+          "meaning": "JavaScript 语言\n网页中广泛使用的脚本语言，也可在服务器环境运行。\nn. Java描述语言（一种程序语言）"
+        }
+      ]
+    }
+  ],
+  "total": 580,
+  "hits": 553,
+  "rate": 0.9534482758620689,
+  "performance": {
+    "unit": "ms",
+    "scope": "Node local fs+JSON+engine; OS disk cache may be warm; not browser end-to-end",
+    "firstCommit": 3.348899999999958,
+    "cold80_p50": 4.119599999999991,
+    "cold80_p95": 6.61620000000039,
+    "repeat100_p50": 0.0014000000001033186,
+    "repeat100_p95": 0.001900000000205182,
+    "heap_delta_bytes": 5360864,
+    "resident_shards": 12,
+    "max_resident_shards": 12
+  }
+}

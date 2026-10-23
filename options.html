@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>计算机小字典 · 设置</title><link rel="stylesheet" href="options.css"></head>
+<body><main><h1>计算机小字典</h1><p>0.2.0 · 大词库离线版</p>
+<h2>使用方法</h2><p>在普通网页选中英文，点击旁边的“查词”。也可以点击 Chrome 工具栏的扩展图标，手动输入查询。更新后已打开的网页需要刷新一次。</p><p>Chrome 设置页、新标签页和 Chrome 网上应用店等受保护页面无法使用浮窗。</p>
+<h2>离线词库</h2><p id="counts">正在读取本机词库统计…</p><p>专业义优先：项目整理的解释附官方依据；基础词库中的计算机义仅使用原文 [计] 标签，不把 [网络] 等其他标签视为计算机专义。普通义、来源和例子默认折叠。</p><p>词形匹配会显示原词；完整词组未收录时，拆词只作参考。代码名称一律标为“按名称推测”。</p>
+<h2>本机记录</h2><p>只在本机保存最近 8 次查询、当前词和浮窗位置。后台按需读取本机词库分片，各网页不会加载整本词典。后台休眠后会在下一次查询时重新读取需要的分片。</p><button id="clear">清除本机查询记录和位置</button><p id="status" role="status"></p>
+<h2>来源与许可</h2><p>英汉基础数据：<a href="https://github.com/skywind3000/ECDICT" target="_blank" rel="noopener noreferrer">ECDICT · skywind3000 / Linwei</a>，按上游 MIT 许可分发，保留原版权与许可全文。专业补充为本扩展自行撰写的简短中文解释，不是官方翻译。</p><p><a href="licenses/ECDICT-MIT.txt" target="_blank">查看 ECDICT 许可证</a> · <a href="data/sources.json" target="_blank">专业依据清单</a> · <a href="data/stats.json" target="_blank">实际数量及数据指纹</a></p>
+<h2>AI 状态</h2><p>本阶段只完善离线查询，没有接入 DeepSeek、没有密钥输入框、不会自动调用 AI。查不到时会如实提示。</p>
+</main><script src="options.js"></script></body></html>

@@ -1,0 +1,362 @@
+[
+  {
+    "source": 0,
+    "term": "git",
+    "expected": "版本控制工具"
+  },
+  {
+    "source": 0,
+    "term": "revision",
+    "expected": "版本／修订"
+  },
+  {
+    "source": 0,
+    "term": "command",
+    "expected": "命令"
+  },
+  {
+    "source": 0,
+    "term": "source",
+    "expected": "源代码相关的源"
+  },
+  {
+    "source": 0,
+    "term": "patch",
+    "expected": "版本管理补丁"
+  },
+  {
+    "source": 0,
+    "term": "issues",
+    "expected": "问题记录／议题"
+  },
+  {
+    "source": 0,
+    "term": "kernel",
+    "expected": "内核"
+  },
+  {
+    "source": 0,
+    "term": "reference",
+    "expected": "参考资料（原文句子）；非 C++ 引用别名"
+  },
+  {
+    "source": 1,
+    "term": "typescript",
+    "expected": "TypeScript 语言；非打字稿"
+  },
+  {
+    "source": 1,
+    "term": "javascript",
+    "expected": "JavaScript 语言"
+  },
+  {
+    "source": 1,
+    "term": "types",
+    "expected": "数据类型"
+  },
+  {
+    "source": 1,
+    "term": "browser",
+    "expected": "浏览器"
+  },
+  {
+    "source": 1,
+    "term": "host",
+    "expected": "宿主运行环境"
+  },
+  {
+    "source": 1,
+    "term": "compiles",
+    "expected": "编译"
+  },
+  {
+    "source": 1,
+    "term": "builds",
+    "expected": "构建"
+  },
+  {
+    "source": 1,
+    "term": "bugs",
+    "expected": "程序缺陷"
+  },
+  {
+    "source": 2,
+    "term": "redis",
+    "expected": "Redis 数据存储"
+  },
+  {
+    "source": 2,
+    "term": "cache",
+    "expected": "缓存"
+  },
+  {
+    "source": 2,
+    "term": "vector",
+    "expected": "向量；Redis 向量查询；非仅 C++ 容器"
+  },
+  {
+    "source": 2,
+    "term": "hash",
+    "expected": "Redis 键值字段集合；非仅哈希函数"
+  },
+  {
+    "source": 2,
+    "term": "json",
+    "expected": "数据交换格式"
+  },
+  {
+    "source": 2,
+    "term": "transactions",
+    "expected": "数据库事务"
+  },
+  {
+    "source": 2,
+    "term": "nosql",
+    "expected": "非关系型数据存储类别"
+  },
+  {
+    "source": 2,
+    "term": "streams",
+    "expected": "Redis 流数据结构；非仅通用流"
+  },
+  {
+    "source": 3,
+    "term": "objects",
+    "expected": "编程对象"
+  },
+  {
+    "source": 3,
+    "term": "array",
+    "expected": "数组"
+  },
+  {
+    "source": 3,
+    "term": "map",
+    "expected": "JavaScript 键值映射"
+  },
+  {
+    "source": 3,
+    "term": "dom",
+    "expected": "文档对象模型"
+  },
+  {
+    "source": 3,
+    "term": "operators",
+    "expected": "运算符"
+  },
+  {
+    "source": 3,
+    "term": "statements",
+    "expected": "程序语句"
+  },
+  {
+    "source": 3,
+    "term": "invocation",
+    "expected": "调用"
+  },
+  {
+    "source": 3,
+    "term": "server-side",
+    "expected": "服务端"
+  },
+  {
+    "source": 4,
+    "term": "fastapi",
+    "expected": "FastAPI Web 框架"
+  },
+  {
+    "source": 4,
+    "term": "framework",
+    "expected": "框架"
+  },
+  {
+    "source": 4,
+    "term": "apis",
+    "expected": "应用编程接口"
+  },
+  {
+    "source": 4,
+    "term": "type",
+    "expected": "类型"
+  },
+  {
+    "source": 4,
+    "term": "parameter",
+    "expected": "参数／形参"
+  },
+  {
+    "source": 4,
+    "term": "schema",
+    "expected": "JSON Schema；非 PostgreSQL 命名空间"
+  },
+  {
+    "source": 4,
+    "term": "openapi",
+    "expected": "OpenAPI 接口描述规范"
+  },
+  {
+    "source": 4,
+    "term": "cli",
+    "expected": "命令行界面"
+  },
+  {
+    "source": 5,
+    "term": "ownership",
+    "expected": "Rust 所有权和生命周期管理规则"
+  },
+  {
+    "source": 5,
+    "term": "rust",
+    "expected": "Rust 语言；非铁锈"
+  },
+  {
+    "source": 5,
+    "term": "memory",
+    "expected": "内存"
+  },
+  {
+    "source": 5,
+    "term": "compiler",
+    "expected": "编译器"
+  },
+  {
+    "source": 5,
+    "term": "allocate",
+    "expected": "分配内存"
+  },
+  {
+    "source": 5,
+    "term": "stack",
+    "expected": "调用栈／栈内存"
+  },
+  {
+    "source": 5,
+    "term": "heap",
+    "expected": "堆内存；非仅堆数据结构"
+  },
+  {
+    "source": 5,
+    "term": "lifo",
+    "expected": "后进先出"
+  },
+  {
+    "source": 6,
+    "term": "format",
+    "expected": "格式／格式化"
+  },
+  {
+    "source": 6,
+    "term": "formatting",
+    "expected": "格式化"
+  },
+  {
+    "source": 6,
+    "term": "library",
+    "expected": "软件库"
+  },
+  {
+    "source": 6,
+    "term": "stdio",
+    "expected": "标准输入输出"
+  },
+  {
+    "source": 6,
+    "term": "iostreams",
+    "expected": "C++ 输入输出流"
+  },
+  {
+    "source": 6,
+    "term": "localization",
+    "expected": "本地化"
+  },
+  {
+    "source": 6,
+    "term": "floating-point",
+    "expected": "浮点"
+  },
+  {
+    "source": 6,
+    "term": "rounding",
+    "expected": "数值舍入"
+  },
+  {
+    "source": 6,
+    "term": "compiler",
+    "expected": "编译器"
+  },
+  {
+    "source": 6,
+    "term": "api",
+    "expected": "应用编程接口"
+  },
+  {
+    "source": 6,
+    "term": "overflow",
+    "expected": "溢出"
+  },
+  {
+    "source": 6,
+    "term": "locale",
+    "expected": "区域设置"
+  },
+  {
+    "source": 7,
+    "term": "sqlite",
+    "expected": "SQLite 数据库引擎"
+  },
+  {
+    "source": 7,
+    "term": "database",
+    "expected": "数据库"
+  },
+  {
+    "source": 7,
+    "term": "engine",
+    "expected": "数据库引擎"
+  },
+  {
+    "source": 7,
+    "term": "repository",
+    "expected": "代码仓库"
+  },
+  {
+    "source": 7,
+    "term": "tree",
+    "expected": "源代码目录树"
+  },
+  {
+    "source": 7,
+    "term": "fossil",
+    "expected": "Fossil 版本控制系统"
+  },
+  {
+    "source": 7,
+    "term": "mirror",
+    "expected": "镜像副本"
+  },
+  {
+    "source": 7,
+    "term": "manifest",
+    "expected": "Fossil 清单文件"
+  },
+  {
+    "source": 7,
+    "term": "uuid",
+    "expected": "唯一标识符"
+  },
+  {
+    "source": 7,
+    "term": "check-in",
+    "expected": "提交／签入"
+  },
+  {
+    "source": 7,
+    "term": "artifacts",
+    "expected": "Fossil 版本化内容对象"
+  },
+  {
+    "source": 7,
+    "term": "git",
+    "expected": "Git 版本控制工具"
+  }
+]

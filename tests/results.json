@@ -1,0 +1,987 @@
+{
+  "date": "2026-10-15",
+  "runtime": "v24.11.1",
+  "tests": [
+    "MV3 and content script contains no dictionary data",
+    "No AI / remote fetch implementation",
+    "professional: commit",
+    "professional: COMMIT",
+    "professional:   Commit  ",
+    "professional: pull request",
+    "professional: working directory",
+    "professional: staging area",
+    "professional: dependency injection",
+    "professional: OOM",
+    "inflection committed -> commit",
+    "inflection commits -> commit",
+    "inflection repositories -> repository",
+    "inflection issues -> issue",
+    "inflection pushing -> push",
+    "inflection pull requests -> pull request",
+    "inflection working directories -> working directory",
+    "computing lemma before ordinary plural: types",
+    "computing lemma before ordinary plural: operators",
+    "computing lemma before ordinary plural: statements",
+    "acronym plural APIs",
+    "identifier ShuffleArray",
+    "identifier getUserName",
+    "identifier HTTPServer",
+    "identifier parseJSONResponse",
+    "identifier getURLValue",
+    "identifier my_snake_case",
+    "acronym JSON kept intact",
+    "whole phrase precedes splitting",
+    "unknown is honest",
+    "ordinary English offline",
+    "irregular inflection candidates",
+    "input limit",
+    "all 512 shards and entry/form counts verified",
+    "bounded LRU retains at most 12 shards",
+    "concurrent requests share one in-flight shard load",
+    "no automatic retry",
+    "manual retry recovers"
+  ],
+  "coverage": [
+    {
+      "url": "https://github.com/git/git",
+      "sha256": "1d5dbe95a7bbb7494d09a051c417fa251edfaef7156b9a9e355cd836655eff71",
+      "total": 160,
+      "hits": 149,
+      "misses": [
+        "torvalds",
+        "gittutorial",
+        "adoc",
+        "giteveryday",
+        "gitcvs-migration",
+        "cvs-migration",
+        "vger",
+        "submittingpatches",
+        "codingguidelines",
+        "git-security",
+        "googlegroups"
+      ],
+      "splitOnly": [
+        "gitcvs-migration",
+        "cvs-migration",
+        "git-security"
+      ],
+      "professionalHits": 76,
+      "rate": 0.93125,
+      "special": [
+        {
+          "term": "source code",
+          "type": "entry",
+          "matched": "source code",
+          "professional": true,
+          "meaning": "[计] 源代码\n[计] 源代码"
+        },
+        {
+          "term": "pull requests",
+          "type": "entry",
+          "matched": "pull request",
+          "professional": true,
+          "meaning": "拉取请求／合并请求\n在 GitHub 提议合入改动，供讨论和审查。"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/microsoft/TypeScript/blob/main/README.md",
+      "sha256": "b43867a1a978a0a3d881b91e50e9807f1f56e3f1dd54d65cad43f471c84e0036",
+      "total": 100,
+      "hits": 96,
+      "misses": [
+        "application-scale",
+        "standards-based",
+        "stackoverflow",
+        "opencode"
+      ],
+      "splitOnly": [
+        "application-scale",
+        "standards-based"
+      ],
+      "professionalHits": 42,
+      "rate": 0.96,
+      "special": [
+        {
+          "term": "source code",
+          "type": "entry",
+          "matched": "source code",
+          "professional": true,
+          "meaning": "[计] 源代码\n[计] 源代码"
+        },
+        {
+          "term": "nightly builds",
+          "type": "entry",
+          "matched": "nightly build",
+          "professional": true,
+          "meaning": "每日构建／夜间构建\n从最新开发代码定期生成的预览构建，不等同于稳定版。"
+        },
+        {
+          "term": "TypeScript",
+          "type": "entry",
+          "matched": "TypeScript",
+          "professional": true,
+          "meaning": "TypeScript 语言\n在 JavaScript 上增加类型系统的语言，可在开发时检查许多类型错误。\nn. 用打字机打的文件"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/redis/redis/blob/unstable/README.md",
+      "sha256": "947c87732c7ec6382a64ac7c637bea474b6aa478f22dcf3d8091bb6ca8bb531d",
+      "total": 160,
+      "hits": 154,
+      "misses": [
+        "feature-rich",
+        "hash-field",
+        "key-value",
+        "full-text",
+        "genai",
+        "langgraph"
+      ],
+      "splitOnly": [
+        "feature-rich",
+        "hash-field",
+        "key-value",
+        "full-text"
+      ],
+      "professionalHits": 91,
+      "rate": 0.9625,
+      "special": [
+        {
+          "term": "data types",
+          "type": "entry",
+          "matched": "data type",
+          "professional": true,
+          "meaning": "[计] 数据类型\n[计] 数据类型"
+        },
+        {
+          "term": "client libraries",
+          "type": "parts",
+          "professional": false,
+          "meaning": ""
+        },
+        {
+          "term": "redis-cli",
+          "type": "entry",
+          "matched": "redis-cli",
+          "professional": true,
+          "meaning": "Redis 命令行客户端\n连接 Redis 服务并执行命令的官方命令行工具。"
+        },
+        {
+          "term": "Redis Insight",
+          "type": "parts",
+          "professional": false,
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction",
+      "sha256": "faeb63304f01f63ddea3e47efacc4c88ca7697d7b431fba20c2451fb145fe6da",
+      "total": 160,
+      "hits": 159,
+      "misses": [
+        "webpages"
+      ],
+      "splitOnly": [],
+      "professionalHits": 77,
+      "rate": 0.99375,
+      "special": [
+        {
+          "term": "HyperText Markup Language",
+          "type": "entry",
+          "matched": "HTML",
+          "professional": true,
+          "meaning": "超文本标记语言\n描述网页内容结构与语义的标记语言。\n[计] 超文本标记语言\n[计] 超文本标记语言"
+        },
+        {
+          "term": "World Wide Web",
+          "type": "entry",
+          "matched": "World Wide Web",
+          "professional": true,
+          "meaning": "[计] 全球信息网, WWW浏览器\n[计] 全球信息网, WWW浏览器"
+        },
+        {
+          "term": "standard library",
+          "type": "entry",
+          "matched": "standard library",
+          "professional": true,
+          "meaning": "标准库\n语言或运行环境按标准提供的一组常用功能；各语言包含的内容不同。"
+        },
+        {
+          "term": "object-oriented",
+          "type": "entry",
+          "matched": "object-oriented",
+          "professional": true,
+          "meaning": "[计] 面向对象的\n[计] 面向对象的"
+        },
+        {
+          "term": "Map",
+          "type": "entry",
+          "matched": "map",
+          "professional": true,
+          "meaning": "映射；JavaScript Map\n映射保存键值关联；JavaScript 的 Map 对象按键存储值，不是地理地图。\n[计] 实用程序, 映射, 制造自动化协议\nn. 地图, 天体图, 映像\nvt. 映射, 绘制...地图, 计划\n[计] 实用程序, 映射, 制造自动化协议"
+        },
+        {
+          "term": "JavaScript",
+          "type": "entry",
+          "matched": "JavaScript",
+          "professional": true,
+          "meaning": "JavaScript 语言\n网页中广泛使用的脚本语言，也可在服务器环境运行。\nn. Java描述语言（一种程序语言）"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/fastapi/fastapi/blob/master/README.md",
+      "sha256": "e2a012418ad45efe15a3342ddf58f39d605ce7d65f497832b566ce010b41ad67",
+      "total": 160,
+      "hits": 150,
+      "misses": [
+        "starlette",
+        "pydantic",
+        "production-ready",
+        "standards-based",
+        "team's",
+        "dudin",
+        "sumanth",
+        "miryala",
+        "clis",
+        "fastapi's"
+      ],
+      "splitOnly": [
+        "production-ready",
+        "standards-based"
+      ],
+      "professionalHits": 59,
+      "rate": 0.9375,
+      "special": []
+    },
+    {
+      "url": "https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md",
+      "sha256": "873724c6862ad0cc447becf0e818eb39a324c5d4bfa26ef721286aae1941c0ba",
+      "total": 160,
+      "hits": 158,
+      "misses": [
+        "no-longer-used",
+        "wouldn"
+      ],
+      "splitOnly": [
+        "no-longer-used"
+      ],
+      "professionalHits": 56,
+      "rate": 0.9875,
+      "special": []
+    },
+    {
+      "url": "https://github.com/fmtlib/fmt/blob/master/README.md",
+      "sha256": "d560c28c4649a888af9b725231f828f9475978c146efcc2b0aa1049bc4cf12a8",
+      "total": 160,
+      "hits": 151,
+      "misses": [
+        "iostreams",
+        "stackoverflow",
+        "dragonbox",
+        "format-inl",
+        "type-safe",
+        "warning-free",
+        "codebase",
+        "wextra",
+        "header-only"
+      ],
+      "splitOnly": [
+        "format-inl",
+        "type-safe",
+        "warning-free",
+        "header-only"
+      ],
+      "professionalHits": 81,
+      "rate": 0.94375,
+      "special": []
+    },
+    {
+      "url": "https://github.com/sqlite/sqlite/blob/master/README.md",
+      "sha256": "5168bcc8023d7f4c99200b9264c39199577c5db5a180c0c147876bdd7aa576ea",
+      "total": 160,
+      "hits": 153,
+      "misses": [
+        "sqlite",
+        "user's",
+        "github",
+        "uuid",
+        "git-name",
+        "verify-source",
+        "makefiles"
+      ],
+      "splitOnly": [
+        "git-name",
+        "verify-source"
+      ],
+      "professionalHits": 64,
+      "rate": 0.95625,
+      "special": []
+    }
+  ],
+  "semantic": [
+    {
+      "source": 0,
+      "term": "git",
+      "expected": "版本控制工具",
+      "url": "https://github.com/git/git",
+      "type": "entry",
+      "matched": "Git",
+      "text": "Git 版本控制系统\n记录文件版本、支持分支与合并的分布式版本控制工具。\nn. [俚]饭桶"
+    },
+    {
+      "source": 0,
+      "term": "revision",
+      "expected": "版本／修订",
+      "url": "https://github.com/git/git",
+      "type": "entry",
+      "matched": "revision",
+      "text": "[计] 修订版\nn. 校订, 修正, 修订本, 修订版\n[计] 修订版"
+    },
+    {
+      "source": 0,
+      "term": "command",
+      "expected": "命令",
+      "url": "https://github.com/git/git",
+      "type": "entry",
+      "matched": "command",
+      "text": "[计] 命令; 指令; DOS外部命令:启动新的命令处理器\nn. 命令, 指挥, 控制, 部队, 司令部\nv. 命令, 指挥, 控制\n[计] 命令; 指令; DOS外部命令:启动新的命令处理器"
+    },
+    {
+      "source": 0,
+      "term": "source",
+      "expected": "源代码相关的源",
+      "url": "https://github.com/git/git",
+      "type": "entry",
+      "matched": "source",
+      "text": "[计] 来源, 源程序\nn. 来源, 水源, 根源, 原始资料, 源\n[计] 来源, 源程序"
+    },
+    {
+      "source": 0,
+      "term": "patch",
+      "expected": "版本管理补丁",
+      "url": "https://github.com/git/git",
+      "type": "entry",
+      "matched": "patch",
+      "text": "替换／补丁\n测试中可指临时替换对象；版本管理中也可指描述改动的补丁。\n[计] 修补; 拼凑\nn. 片, 补缀, 碎片, 斑, 傻瓜\nvt. 补缀, 掩饰, 拼凑, 平息\n[计] 修补; 拼凑"
+    },
+    {
+      "source": 0,
+      "term": "issues",
+      "expected": "问题记录／议题",
+      "url": "https://github.com/git/git",
+      "type": "entry",
+      "matched": "issue",
+      "text": "议题／问题记录\nGitHub 中用于跟踪缺陷、任务或需求，不一定代表程序出错。\nn. 发行, 问题, 后果, 流出, 出口, 争端\nvi. 发行, 流出, 造成...结果, 传下\nvt. 使流出, 放出, 发行, 发布, 发给"
+    },
+    {
+      "source": 0,
+      "term": "kernel",
+      "expected": "内核",
+      "url": "https://github.com/git/git",
+      "type": "entry",
+      "matched": "kernel",
+      "text": "[计] 内核\nn. 核心, 中心, 精髓, 内核\n[计] 内核"
+    },
+    {
+      "source": 0,
+      "term": "reference",
+      "expected": "参考资料（原文句子）；非 C++ 引用别名",
+      "url": "https://github.com/git/git",
+      "type": "entry",
+      "matched": "reference",
+      "text": "引用／参考\n可指访问对象的引用、Git 引用或参考资料；C++ 引用是对象的别名，需结合语境判断。\n[计] 引用\nn. 参考, 索引, 参照\nvt. 给...加上参考资料\nvt. 引用\nvi. 引用\n[计] 引用"
+    },
+    {
+      "source": 1,
+      "term": "typescript",
+      "expected": "TypeScript 语言；非打字稿",
+      "url": "https://github.com/microsoft/TypeScript/blob/main/README.md",
+      "type": "entry",
+      "matched": "TypeScript",
+      "text": "TypeScript 语言\n在 JavaScript 上增加类型系统的语言，可在开发时检查许多类型错误。\nn. 用打字机打的文件"
+    },
+    {
+      "source": 1,
+      "term": "javascript",
+      "expected": "JavaScript 语言",
+      "url": "https://github.com/microsoft/TypeScript/blob/main/README.md",
+      "type": "entry",
+      "matched": "JavaScript",
+      "text": "JavaScript 语言\n网页中广泛使用的脚本语言，也可在服务器环境运行。\nn. Java描述语言（一种程序语言）"
+    },
+    {
+      "source": 1,
+      "term": "types",
+      "expected": "数据类型",
+      "url": "https://github.com/microsoft/TypeScript/blob/main/README.md",
+      "type": "entry",
+      "matched": "type",
+      "text": "[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容\nn. 类型, 样式, 典型, 榜样, 标志, 符号, 型, 式\nvi. 打字\nvt. 作为代表, 测定类型, 用打字机打\n[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容"
+    },
+    {
+      "source": 1,
+      "term": "browser",
+      "expected": "浏览器",
+      "url": "https://github.com/microsoft/TypeScript/blob/main/README.md",
+      "type": "entry",
+      "matched": "browser",
+      "text": "[计] 浏览程序\nn. 吃嫩叶的动物, 浏览书本的人\n[计] 浏览程序"
+    },
+    {
+      "source": 1,
+      "term": "host",
+      "expected": "宿主运行环境",
+      "url": "https://github.com/microsoft/TypeScript/blob/main/README.md",
+      "type": "entry",
+      "matched": "host",
+      "text": "宿主／主机\n在编程语言语境中可指提供运行环境与附加能力的宿主；网络语境中也常指主机。\n[计] 主机, 宿主机\nn. 主人, 旅馆老板, 节目主持人\nvt. 当主人招待, 作...节目主持人\n[计] 主机, 宿主机"
+    },
+    {
+      "source": 1,
+      "term": "compiles",
+      "expected": "编译",
+      "url": "https://github.com/microsoft/TypeScript/blob/main/README.md",
+      "type": "entry",
+      "matched": "compile",
+      "text": "编译\n把源代码转换为目标代码或其他形式的过程。\n[计] 编译\nvt. 编译, 编辑, 编纂, 收集\n[计] 编译"
+    },
+    {
+      "source": 1,
+      "term": "builds",
+      "expected": "构建",
+      "url": "https://github.com/microsoft/TypeScript/blob/main/README.md",
+      "type": "entry",
+      "matched": "build",
+      "text": "构建\n把源代码及相关资源处理成可运行或可发布产物的过程。\nv. 建立, 建筑\nn. 构造, 体格"
+    },
+    {
+      "source": 1,
+      "term": "bugs",
+      "expected": "程序缺陷",
+      "url": "https://github.com/microsoft/TypeScript/blob/main/README.md",
+      "type": "entry",
+      "matched": "bug",
+      "text": "程序缺陷\n导致程序行为与预期不符的问题。\n[计] 缺点, 错误\nn. 错误, 虫, 病菌, 缺陷, 窃听器, 癖好, 防盗报警器, 双座小汽车, 要人\nvt. 装防盗报警器, 装窃听器, 激怒\nvi. 捉虫, 暴突\n[计] 缺点, 错误"
+    },
+    {
+      "source": 2,
+      "term": "redis",
+      "expected": "Redis 数据存储",
+      "url": "https://github.com/redis/redis/blob/unstable/README.md",
+      "type": "entry",
+      "matched": "Redis",
+      "text": "Redis 数据存储\n以内存数据结构为核心的数据存储，可用于缓存等场景，也支持持久化。"
+    },
+    {
+      "source": 2,
+      "term": "cache",
+      "expected": "缓存",
+      "url": "https://github.com/redis/redis/blob/unstable/README.md",
+      "type": "entry",
+      "matched": "cache",
+      "text": "缓存\n保存可复用结果，以减少重复计算或读取。\n[计] 高速缓冲存储器, 高速缓冲\nn. 隐藏所, 隐藏的粮食或物资, 贮藏物, 高速缓冲存储器\nvt. 隐藏, 窖藏\n[计] 高速缓冲存储器, 高速缓冲"
+    },
+    {
+      "source": 2,
+      "term": "vector",
+      "expected": "向量；Redis 向量查询；非仅 C++ 容器",
+      "url": "https://github.com/redis/redis/blob/unstable/README.md",
+      "type": "entry",
+      "matched": "vector",
+      "text": "向量／动态数组\n数值向量由一组有序数构成，常用于向量检索；C++ 的 std::vector 则是动态数组容器。\n[计] 矢量; 向量\nn. 矢量, 传病媒介\nvt. (用无线电)导引, 给...导航\n[计] 矢量; 向量"
+    },
+    {
+      "source": 2,
+      "term": "hash",
+      "expected": "Redis 键值字段集合；非仅哈希函数",
+      "url": "https://github.com/redis/redis/blob/unstable/README.md",
+      "type": "entry",
+      "matched": "hash",
+      "text": "哈希／字段映射\n算法中指将输入映射为哈希值；Redis Hash 是字段和值的集合，这两种语境需区分。\nn. 剁碎的食物, 杂乱无章的的一大堆, 杂烩, 复述\nvt. 切碎, 搞糟"
+    },
+    {
+      "source": 2,
+      "term": "json",
+      "expected": "数据交换格式",
+      "url": "https://github.com/redis/redis/blob/unstable/README.md",
+      "type": "entry",
+      "matched": "JSON",
+      "text": "JSON 数据交换格式\n使用对象、数组、字符串、数字等结构表示数据的文本格式。\nabbr. JavaScript对象符号（JavaScript Serialized Object Notation）"
+    },
+    {
+      "source": 2,
+      "term": "transactions",
+      "expected": "数据库事务",
+      "url": "https://github.com/redis/redis/blob/unstable/README.md",
+      "type": "entry",
+      "matched": "transaction",
+      "text": "事务\n把一组数据库操作作为一个整体提交或回滚。\n[计] 事务处理\nn. 交易, 办理, 学报, 和解协议\n[计] 事务处理"
+    },
+    {
+      "source": 2,
+      "term": "nosql",
+      "expected": "非关系型数据存储类别",
+      "url": "https://github.com/redis/redis/blob/unstable/README.md",
+      "type": "entry",
+      "matched": "NoSQL",
+      "text": "非关系型数据库类别\n通常指文档、键值、图等多种数据模型的数据库，不代表完全不能使用 SQL。"
+    },
+    {
+      "source": 2,
+      "term": "streams",
+      "expected": "Redis 流数据结构；非仅通用流",
+      "url": "https://github.com/redis/redis/blob/unstable/README.md",
+      "type": "entry",
+      "matched": "stream",
+      "text": "流／事件日志结构\n泛指按顺序处理的数据；Redis Stream 是类似追加式日志的数据结构，用于记录和处理事件。\n[计] 流\nn. 水流, 小河, 流出, 趋势, 人潮\nvt. 流出, 流动, 展开\nvi. 流, 涌, 飘扬\n[计] 流"
+    },
+    {
+      "source": 3,
+      "term": "objects",
+      "expected": "编程对象",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction",
+      "type": "entry",
+      "matched": "object",
+      "text": "对象\n通常指某个类的实例，持有状态并提供行为。\n[计] 对象\nn. 物体, 目标, 目的, 对象, 宾语, 客体\nvi. 反对, 抱反感\nvt. 提出...来反对\n[计] 对象"
+    },
+    {
+      "source": 3,
+      "term": "array",
+      "expected": "数组",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction",
+      "type": "entry",
+      "matched": "array",
+      "text": "数组\n按索引访问的一组元素，通常连续存储。\n[计] 数组; 阵列\nn. 排列, 衣服, 大批, 军队\nvt. 布署, 打扮, 排列\n[计] 数组; 阵列"
+    },
+    {
+      "source": 3,
+      "term": "map",
+      "expected": "JavaScript 键值映射",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction",
+      "type": "entry",
+      "matched": "map",
+      "text": "映射；JavaScript Map\n映射保存键值关联；JavaScript 的 Map 对象按键存储值，不是地理地图。\n[计] 实用程序, 映射, 制造自动化协议\nn. 地图, 天体图, 映像\nvt. 映射, 绘制...地图, 计划\n[计] 实用程序, 映射, 制造自动化协议"
+    },
+    {
+      "source": 3,
+      "term": "dom",
+      "expected": "文档对象模型",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction",
+      "type": "entry",
+      "matched": "DOM",
+      "text": "文档对象模型\n把文档表示为可由程序访问和修改的对象树。\nn. 师（对罗马天主教等修士的尊称）"
+    },
+    {
+      "source": 3,
+      "term": "operators",
+      "expected": "运算符",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction",
+      "type": "entry",
+      "matched": "operator",
+      "text": "[计] 运算符\nn. 操作员, 行家, 经纪人, 算子, 运算符\n[计] 运算符"
+    },
+    {
+      "source": 3,
+      "term": "statements",
+      "expected": "程序语句",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction",
+      "type": "entry",
+      "matched": "statement",
+      "text": "[计] 程序语句; 语句\nn. 陈述, 指令, 声明\n[计] 程序语句; 语句"
+    },
+    {
+      "source": 3,
+      "term": "invocation",
+      "expected": "调用",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction",
+      "type": "entry",
+      "matched": "invocation",
+      "text": "调用\n执行一个方法或函数的过程；普通英语中也有祈祷等其他含义。\nn. 祈祷, 符咒"
+    },
+    {
+      "source": 3,
+      "term": "server-side",
+      "expected": "服务端",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction",
+      "type": "entry",
+      "matched": "server-side",
+      "text": "服务端的\n在服务器端执行或处理的程序逻辑，而不是在用户浏览器中执行。"
+    },
+    {
+      "source": 4,
+      "term": "fastapi",
+      "expected": "FastAPI Web 框架",
+      "url": "https://github.com/fastapi/fastapi/blob/master/README.md",
+      "type": "entry",
+      "matched": "FastAPI",
+      "text": "FastAPI Web 框架\n用于用 Python 构建 Web API 的框架，利用类型提示描述请求和响应等数据。"
+    },
+    {
+      "source": 4,
+      "term": "framework",
+      "expected": "框架",
+      "url": "https://github.com/fastapi/fastapi/blob/master/README.md",
+      "type": "entry",
+      "matched": "framework",
+      "text": "框架\n为应用提供组织方式和通用功能，并让开发者填入具体业务代码的软件基础。\nn. 结构, 骨架, 参照标准, 准则, 观点\n[医] 构架组织"
+    },
+    {
+      "source": 4,
+      "term": "apis",
+      "expected": "应用编程接口",
+      "url": "https://github.com/fastapi/fastapi/blob/master/README.md",
+      "type": "entry",
+      "matched": "API",
+      "text": "应用程序编程接口\n软件向其他代码提供的功能、数据格式和调用约定。\n[计] 应用程序接口, 自动优先中断\n[计] 应用程序接口, 自动优先中断\n[经] 美国石油协会"
+    },
+    {
+      "source": 4,
+      "term": "type",
+      "expected": "类型",
+      "url": "https://github.com/fastapi/fastapi/blob/master/README.md",
+      "type": "entry",
+      "matched": "type",
+      "text": "[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容\nn. 类型, 样式, 典型, 榜样, 标志, 符号, 型, 式\nvi. 打字\nvt. 作为代表, 测定类型, 用打字机打\n[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容"
+    },
+    {
+      "source": 4,
+      "term": "parameter",
+      "expected": "参数／形参",
+      "url": "https://github.com/fastapi/fastapi/blob/master/README.md",
+      "type": "entry",
+      "matched": "parameter",
+      "text": "形参\n在方法声明中命名的输入位置。\n[计] 参量; 参数\nn. 参变数, 参变量, 参数, 参量\n[计] 参量; 参数"
+    },
+    {
+      "source": 4,
+      "term": "schema",
+      "expected": "JSON Schema；非 PostgreSQL 命名空间",
+      "url": "https://github.com/fastapi/fastapi/blob/master/README.md",
+      "type": "entry",
+      "matched": "schema",
+      "text": "模式／结构约定\n可指数据结构的描述；PostgreSQL 中也特指表等对象的命名空间，JSON Schema 则用于描述 JSON 数据。\n[计] 模式\nn. 概要, 图解, 略图\n[计] 模式"
+    },
+    {
+      "source": 4,
+      "term": "openapi",
+      "expected": "OpenAPI 接口描述规范",
+      "url": "https://github.com/fastapi/fastapi/blob/master/README.md",
+      "type": "entry",
+      "matched": "OpenAPI",
+      "text": "OpenAPI 接口描述规范\n以标准格式描述 HTTP API 的路径、参数、响应等信息。"
+    },
+    {
+      "source": 4,
+      "term": "cli",
+      "expected": "命令行界面",
+      "url": "https://github.com/fastapi/fastapi/blob/master/README.md",
+      "type": "entry",
+      "matched": "cli",
+      "text": "abbr. 命令行界面（Command Line Interface for batch scripting）；生活指数（Cost of Living Index）"
+    },
+    {
+      "source": 5,
+      "term": "ownership",
+      "expected": "Rust 所有权和生命周期管理规则",
+      "url": "https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md",
+      "type": "entry",
+      "matched": "ownership",
+      "text": "所有权\nRust 用它约束值由谁负责管理，并在编译期检查相关规则。\nn. 所有权, 物主身份\n[经] 所有权, 所有制"
+    },
+    {
+      "source": 5,
+      "term": "rust",
+      "expected": "Rust 语言；非铁锈",
+      "url": "https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md",
+      "type": "entry",
+      "matched": "Rust",
+      "text": "Rust 编程语言\n通过所有权等机制管理内存的系统编程语言，不是普通英语的“铁锈”。\nn. 锈, 生锈, 衰退\nvi. 生锈, 衰退\nvt. 使生锈, 腐蚀"
+    },
+    {
+      "source": 5,
+      "term": "memory",
+      "expected": "内存",
+      "url": "https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md",
+      "type": "entry",
+      "matched": "memory",
+      "text": "[计] 存储器, 内存, 查看内存实用程序\nn. 记忆, 记忆力, 回忆, 纪念, 存储\nn. 内存\n[计] 存储器, 内存, 查看内存实用程序"
+    },
+    {
+      "source": 5,
+      "term": "compiler",
+      "expected": "编译器",
+      "url": "https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md",
+      "type": "entry",
+      "matched": "compiler",
+      "text": "编译器\n把源代码转换为目标代码或其他表示的工具。\n[计] 编译程序\nn. 编辑者\n[计] 编译程序"
+    },
+    {
+      "source": 5,
+      "term": "allocate",
+      "expected": "分配内存",
+      "url": "https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md",
+      "type": "entry",
+      "matched": "allocate",
+      "text": "[计] 分配\nvt. 分派, 分配\n[计] 分配"
+    },
+    {
+      "source": 5,
+      "term": "stack",
+      "expected": "调用栈／栈内存",
+      "url": "https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md",
+      "type": "entry",
+      "matched": "stack",
+      "text": "栈\n后进先出的数据结构；也可指函数调用使用的调用栈。\n[计] 堆积, 堆栈\nn. 堆叠, 堆, 大量, 书库, 枪架, 烟囱, 堆积, 存贮栈\nvt. 堆积, 堆满, 暗中对...做手脚\nvi. 堆起\n[计] 堆积, 堆栈"
+    },
+    {
+      "source": 5,
+      "term": "heap",
+      "expected": "堆内存；非仅堆数据结构",
+      "url": "https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md",
+      "type": "entry",
+      "matched": "heap",
+      "text": "堆\n可指满足堆序性质的树形结构，也可指动态分配内存的区域。\n[计] 堆\nn. 堆, 许多, 累积\nvt. 堆积, 装满\n[计] 堆"
+    },
+    {
+      "source": 5,
+      "term": "lifo",
+      "expected": "后进先出",
+      "url": "https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md",
+      "type": "entry",
+      "matched": "LIFO",
+      "text": "[计] 后进先出\n[计] 后进先出"
+    },
+    {
+      "source": 6,
+      "term": "format",
+      "expected": "格式／格式化",
+      "url": "https://github.com/fmtlib/fmt/blob/master/README.md",
+      "type": "entry",
+      "matched": "format",
+      "text": "[计] 格式; DOS外部命令:对磁盘进行格式化\nn. 开本, 版式, 形式, 格式\nvt. 格式化\n[计] 格式; DOS外部命令:对磁盘进行格式化"
+    },
+    {
+      "source": 6,
+      "term": "formatting",
+      "expected": "格式化",
+      "url": "https://github.com/fmtlib/fmt/blob/master/README.md",
+      "type": "entry",
+      "matched": "formatting",
+      "text": "[计] 格式化\n[计] 格式化"
+    },
+    {
+      "source": 6,
+      "term": "library",
+      "expected": "软件库",
+      "url": "https://github.com/fmtlib/fmt/blob/master/README.md",
+      "type": "entry",
+      "matched": "library",
+      "text": "[计] 库\nn. 图书馆, 藏书, 库\n[计] 库"
+    },
+    {
+      "source": 6,
+      "term": "stdio",
+      "expected": "标准输入输出",
+      "url": "https://github.com/fmtlib/fmt/blob/master/README.md",
+      "type": "entry",
+      "matched": "stdio",
+      "text": "abbr. 标准输入输出（standard input/ouput）"
+    },
+    {
+      "source": 6,
+      "term": "iostreams",
+      "expected": "C++ 输入输出流",
+      "url": "https://github.com/fmtlib/fmt/blob/master/README.md",
+      "type": "missing",
+      "text": ""
+    },
+    {
+      "source": 6,
+      "term": "localization",
+      "expected": "本地化",
+      "url": "https://github.com/fmtlib/fmt/blob/master/README.md",
+      "type": "entry",
+      "matched": "localization",
+      "text": "n. 局限, 地方化\n[化] 定位化"
+    },
+    {
+      "source": 6,
+      "term": "floating-point",
+      "expected": "浮点",
+      "url": "https://github.com/fmtlib/fmt/blob/master/README.md",
+      "type": "entry",
+      "matched": "floating-point",
+      "text": "浮点"
+    },
+    {
+      "source": 6,
+      "term": "rounding",
+      "expected": "数值舍入",
+      "url": "https://github.com/fmtlib/fmt/blob/master/README.md",
+      "type": "entry",
+      "matched": "rounding",
+      "text": "[计] 舍入\n[计] 舍入\n[化] 倒圆"
+    },
+    {
+      "source": 6,
+      "term": "compiler",
+      "expected": "编译器",
+      "url": "https://github.com/fmtlib/fmt/blob/master/README.md",
+      "type": "entry",
+      "matched": "compiler",
+      "text": "编译器\n把源代码转换为目标代码或其他表示的工具。\n[计] 编译程序\nn. 编辑者\n[计] 编译程序"
+    },
+    {
+      "source": 6,
+      "term": "api",
+      "expected": "应用编程接口",
+      "url": "https://github.com/fmtlib/fmt/blob/master/README.md",
+      "type": "entry",
+      "matched": "API",
+      "text": "应用程序编程接口\n软件向其他代码提供的功能、数据格式和调用约定。\n[计] 应用程序接口, 自动优先中断\n[计] 应用程序接口, 自动优先中断\n[经] 美国石油协会"
+    },
+    {
+      "source": 6,
+      "term": "overflow",
+      "expected": "溢出",
+      "url": "https://github.com/fmtlib/fmt/blob/master/README.md",
+      "type": "entry",
+      "matched": "overflow",
+      "text": "[计] 上溢; 溢出\nn. 溢值, 超值, 泛滥\nv. (使)泛滥, (使)溢出, (使)充溢\n[计] 上溢; 溢出"
+    },
+    {
+      "source": 6,
+      "term": "locale",
+      "expected": "区域设置",
+      "url": "https://github.com/fmtlib/fmt/blob/master/README.md",
+      "type": "entry",
+      "matched": "locale",
+      "text": "[计] 场所\nn. 现场, 场所\n[计] 场所"
+    },
+    {
+      "source": 7,
+      "term": "sqlite",
+      "expected": "SQLite 数据库引擎",
+      "url": "https://github.com/sqlite/sqlite/blob/master/README.md",
+      "type": "missing",
+      "text": ""
+    },
+    {
+      "source": 7,
+      "term": "database",
+      "expected": "数据库",
+      "url": "https://github.com/sqlite/sqlite/blob/master/README.md",
+      "type": "entry",
+      "matched": "database",
+      "text": "数据库\n组织和持久保存数据的集合，由数据库系统管理访问。\n[计] 数据库\nn. 数据库\n[计] 数据库"
+    },
+    {
+      "source": 7,
+      "term": "engine",
+      "expected": "数据库引擎",
+      "url": "https://github.com/sqlite/sqlite/blob/master/README.md",
+      "type": "entry",
+      "matched": "engine",
+      "text": "n. 引擎, 发动机, 机车\nvt. 安装发动机于"
+    },
+    {
+      "source": 7,
+      "term": "repository",
+      "expected": "代码仓库",
+      "url": "https://github.com/sqlite/sqlite/blob/master/README.md",
+      "type": "entry",
+      "matched": "repository",
+      "text": "仓库\n保存项目文件和版本历史的地方。\nn. 贮藏所, 贮物器, 仓库, 博物馆, 店铺, 陈列室, 资源丰富地区, 墓地, 亲信, 知己\n[经] 仓库, 栈房, 贮藏所"
+    },
+    {
+      "source": 7,
+      "term": "tree",
+      "expected": "源代码目录树",
+      "url": "https://github.com/sqlite/sqlite/blob/master/README.md",
+      "type": "entry",
+      "matched": "tree",
+      "text": "树\n由节点和边组成的层次结构。\n[计] 树; DOS外部命令:显示指定磁盘驱动器的目录结构\nn. 树, 木料, 树状物\nvt. 把...赶上树\n[计] 树; DOS外部命令:显示指定磁盘驱动器的目录结构"
+    },
+    {
+      "source": 7,
+      "term": "fossil",
+      "expected": "Fossil 版本控制系统",
+      "url": "https://github.com/sqlite/sqlite/blob/master/README.md",
+      "type": "entry",
+      "matched": "fossil",
+      "text": "n. 化石, 古物\na. 化石的, 陈腐的, 守旧的"
+    },
+    {
+      "source": 7,
+      "term": "mirror",
+      "expected": "镜像副本",
+      "url": "https://github.com/sqlite/sqlite/blob/master/README.md",
+      "type": "entry",
+      "matched": "mirror",
+      "text": "n. 镜子, 写真, 典范\nvt. 反映, 映出"
+    },
+    {
+      "source": 7,
+      "term": "manifest",
+      "expected": "Fossil 清单文件",
+      "url": "https://github.com/sqlite/sqlite/blob/master/README.md",
+      "type": "entry",
+      "matched": "manifest",
+      "text": "n. 载货单, 运货单, 旅客名单\na. 显然的, 明白的\nvi. 显示, 出现\nvt. 表明, 表现, 证明"
+    },
+    {
+      "source": 7,
+      "term": "uuid",
+      "expected": "唯一标识符",
+      "url": "https://github.com/sqlite/sqlite/blob/master/README.md",
+      "type": "missing",
+      "text": ""
+    },
+    {
+      "source": 7,
+      "term": "check-in",
+      "expected": "提交／签入",
+      "url": "https://github.com/sqlite/sqlite/blob/master/README.md",
+      "type": "entry",
+      "matched": "check-in",
+      "text": "n. 报到, 抵达, 签到"
+    },
+    {
+      "source": 7,
+      "term": "artifacts",
+      "expected": "Fossil 版本化内容对象",
+      "url": "https://github.com/sqlite/sqlite/blob/master/README.md",
+      "type": "entry",
+      "matched": "artifact",
+      "text": "构建产物\n工作流生成并保存的文件，如安装包或测试报告。\nn. 人工制品\n[医] 人为现象, 人工产物"
+    },
+    {
+      "source": 7,
+      "term": "git",
+      "expected": "Git 版本控制工具",
+      "url": "https://github.com/sqlite/sqlite/blob/master/README.md",
+      "type": "entry",
+      "matched": "Git",
+      "text": "Git 版本控制系统\n记录文件版本、支持分支与合并的分布式版本控制工具。\nn. [俚]饭桶"
+    }
+  ],
+  "total": 1220,
+  "hits": 1170,
+  "rate": 0.9590163934426229,
+  "unique_word_count": 870,
+  "performance": {
+    "unit": "ms",
+    "scope": "Node local fs+JSON+engine; OS disk cache may be warm; not browser end-to-end",
+    "firstCommit": 2.5703000000003158,
+    "cold80_p50": 2.665899999999965,
+    "cold80_p95": 6.3320999999996275,
+    "repeat100_p50": 0.0014000000001033186,
+    "repeat100_p95": 0.0016999999998006388,
+    "heap_delta_bytes": 5025792,
+    "resident_shards": 12,
+    "max_resident_shards": 12
+  }
+}

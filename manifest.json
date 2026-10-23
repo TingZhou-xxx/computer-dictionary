@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "计算机小字典",
+  "version": "0.2.0",
+  "description": "大规模离线英汉词库与计算机优先释义，划词即查，无需后端。",
+  "permissions": ["storage"],
+  "background": {"service_worker": "background.js"},
+  "action": {"default_title": "打开计算机小字典"},
+  "options_page": "options.html",
+  "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["content.js"], "run_at": "document_idle"}]
+}

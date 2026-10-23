@@ -1,0 +1,96 @@
+import json,pathlib
+root=pathlib.Path(__file__).resolve().parents[1]
+sources={
+'git':('Git 官方词汇表','https://git-scm.com/docs/gitglossary'),
+'github':('GitHub 官方词汇表','https://docs.github.com/en/get-started/learning-about-github/github-glossary'),
+'actions':('GitHub Actions 文档','https://docs.github.com/en/actions/get-started/understand-github-actions'),
+'java':('Oracle Java 术语表','https://docs.oracle.com/javase/tutorial/information/glossary.html'),
+'cpp':('C++ 标准工作草案','https://eel.is/c++draft/'),
+'algo':('NIST 算法与数据结构词典','https://xlinux.nist.gov/dads/'),
+'os':('Linux 内核内存管理概念','https://docs.kernel.org/admin-guide/mm/concepts.html'),
+'oom':('Linux 内核 OOM 文档','https://docs.kernel.org/mm/oom.html'),
+'posix':('Linux man-pages：POSIX 线程','https://man7.org/linux/man-pages/man7/pthreads.7.html'),
+'locking':('Linux 锁依赖与死锁检测','https://docs.kernel.org/locking/lockdep-design.html'),
+'syscall':('Linux 内核系统调用文档','https://docs.kernel.org/process/adding-syscalls.html'),
+'http':('RFC 9110：HTTP 语义','https://www.rfc-editor.org/rfc/rfc9110.html'),
+'tcp':('RFC 9293：TCP','https://www.rfc-editor.org/rfc/rfc9293.html'),
+'udp':('RFC 768：UDP','https://www.rfc-editor.org/rfc/rfc768.html'),
+'dns':('RFC 1034：DNS','https://www.rfc-editor.org/rfc/rfc1034.html'),
+'tls':('RFC 8446：TLS','https://www.rfc-editor.org/rfc/rfc8446.html'),
+'cors':('MDN CORS 指南','https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS'),
+'websocket':('RFC 6455：WebSocket','https://www.rfc-editor.org/rfc/rfc6455.html'),
+'dom':('MDN DOM 术语','https://developer.mozilla.org/en-US/docs/Glossary/DOM'),
+'css':('MDN CSS 术语','https://developer.mozilla.org/en-US/docs/Glossary/CSS'),
+'html':('MDN HTML 术语','https://developer.mozilla.org/en-US/docs/Glossary/HTML'),
+'js':('MDN JavaScript 指南','https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide'),
+'spring':('Spring 依赖注入文档','https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-collaborators.html'),
+'rest':('REST 原始论文第五章','https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm'),
+'json':('RFC 8259：JSON','https://www.rfc-editor.org/rfc/rfc8259.html'),
+'db':('PostgreSQL 官方术语表','https://www.postgresql.org/docs/current/glossary.html'),
+'test':('pytest 测试文档','https://docs.pytest.org/en/stable/contents.html'),
+'unittest':('Python unittest 文档','https://docs.python.org/3/library/unittest.html'),
+'mock':('Python mock 文档','https://docs.python.org/3/library/unittest.mock.html'),
+'k8s':('Kubernetes 官方术语表','https://kubernetes.io/docs/reference/glossary/'),
+'compile':('GCC 编译步骤文档','https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html'),
+'python':('Python 官方术语表','https://docs.python.org/3/glossary.html'),
+'naming':('Python PEP 8 命名风格','https://peps.python.org/pep-0008/#descriptive-naming-styles'),
+'cache':('MDN 缓存术语','https://developer.mozilla.org/en-US/docs/Glossary/Cache'),
+'api':('MDN API 术语','https://developer.mozilla.org/en-US/docs/Glossary/API'),
+'ts':('TypeScript 官方手册','https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html'),
+'tsnight':('TypeScript 每日构建文档','https://www.typescriptlang.org/docs/handbook/nightly-builds.html'),
+'redis':('Redis 官方快速入门','https://redis.io/docs/latest/develop/get-started/'),
+'rediscli':('Redis 官方命令行文档','https://redis.io/docs/latest/develop/tools/cli/'),
+'sentinel':('Redis Sentinel 官方文档','https://redis.io/docs/latest/operate/oss_and_stack/management/sentinel/'),
+'jsmap':('MDN JavaScript Map','https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map'),
+'nodejs':('Node.js 官方介绍','https://nodejs.org/en/learn/getting-started/introduction-to-nodejs'),
+'react':('React 官方快速入门','https://react.dev/learn'),
+'docker':('Docker 官方概述','https://docs.docker.com/get-started/docker-overview/'),
+'rust':('Rust 官方书：所有权','https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html'),
+'rustborrow':('Rust 官方书：引用与借用','https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html'),
+'fastapi':('FastAPI 官方文档','https://fastapi.tiangolo.com/'),
+'openapi':('OpenAPI 官方规范','https://spec.openapis.org/oas/latest.html'),
+'jsonschema':('JSON Schema 官方概述','https://json-schema.org/overview/what-is-jsonschema'),
+'nosql':('MongoDB NoSQL 概述','https://www.mongodb.com/resources/basics/databases/nosql-explained'),
+'framework':('MDN 服务端框架指南','https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Web_frameworks'),
+'redisdata':('Redis 官方数据类型概述','https://redis.io/docs/latest/develop/data-types/'),
+'redisvector':('Redis 向量搜索概念','https://redis.io/docs/latest/develop/ai/search-and-query/vectors/'),
+}
+entries=json.loads((root/'tools/editorial-seed.json').read_text(encoding='utf-8'))
+groups={
+ 'git': 'commit repository branch merge push pull fetch clone checkout rebase conflict remote tag',
+ 'github':'fork issue readme release',
+ 'java':'class object interface inheritance polymorphism encapsulation constructor exception static final null boolean string',
+ 'cpp':'pointer reference template namespace vector iterator const',
+ 'algo':'array stack queue heap tree graph recursion algorithm complexity sort shuffle hash',
+ 'python':'function method variable parameter argument return thread process async callback runtime dependency',
+ 'compile':'compile debug', 'cache':'cache', 'api':'api', 'naming':'snake case|camel case|pascal case'
+}
+for e in entries:
+    group='python'
+    for source,names in groups.items():
+        if e['names'][0] in (names.split('|') if '|' in names else names.split()):group=source
+    if e['names'][0]=='pull request':group='github'
+    if e['names'][0]=='staging area':group='git'
+    if e['names'][0]=='linked list' or e['names'][0]=='binary search':group='algo'
+    e['source'],e['sourceUrl']=sources[group];e['domain']=group
+    e['editorial']=True
+for line in (root/'data/professional.tsv').read_text(encoding='utf-8').splitlines():
+    if not line or line.startswith('#'):continue
+    group,names,meaning,explanation=line.split('\t')
+    names=names.split('|');keys={n.lower() for n in names}
+    # Explicit editorial replacement, not duplicate inflation.
+    for old in entries:old['names']=[n for n in old['names'] if n.lower() not in keys]
+    entries.append(dict(names=names,meaning=meaning,explanation=explanation,source=sources[group][0],sourceUrl=sources[group][1],domain=group,editorial=True))
+entries=[e for e in entries if e['names'] and e['names'][0] not in ('get','set','user','name')]
+abbreviations=set('PR PAT CI JVM JDK GC RAII UB STL BST DFS BFS DP DAG OOM HTTP TCP UDP DNS TLS CORS DOM CSS HTML JS DI IoC REST JSON MVCC WAL SQL TS API'.split())
+# Ordinary name fragments are aids for identifier decomposition, not professional claims.
+for e in entries:
+    e['abbreviations']=[n for n in e['names'] if n in abbreviations]
+    if e['names'][0] in ('get','set','user','name'):e['editorial']=False
+    if e['names'][0] in ('deadlock','race condition','mutex'):e['source'],e['sourceUrl']=sources['locking']
+    if e['names'][0]=='system call':e['source'],e['sourceUrl']=sources['syscall']
+    extra={'schema':['jsonschema'],'reference':['git','java'],'vector':['redisvector'],'hash':['redisdata'],'stream':['python']}.get(e['names'][0],[])
+    e['extraSources']=[{'name':sources[k][0],'url':sources[k][1]} for k in extra]
+(root/'data/curated.json').write_text(json.dumps(entries,ensure_ascii=False,indent=2),encoding='utf-8')
+(root/'data/sources.json').write_text(json.dumps(sources,ensure_ascii=False,indent=2),encoding='utf-8')
+print('curated concepts',len(entries),'lookup names',sum(len(e['names']) for e in entries))

@@ -1,0 +1,620 @@
+[
+  {
+    "names": [
+      "commit"
+    ],
+    "meaning": "提交",
+    "explanation": "把暂存区的改动记录为 Git 历史中的一个版本。保存文件只改工作区，提交会生成版本记录。",
+    "example": "git commit -m \"修复登录问题\"",
+    "related": "提交不是上传；上传通常使用 push。"
+  },
+  {
+    "names": [
+      "repository",
+      "repo"
+    ],
+    "meaning": "仓库",
+    "explanation": "保存项目文件和版本历史的地方。",
+    "example": "在 GitHub 创建 repository 来管理项目。"
+  },
+  {
+    "names": [
+      "branch"
+    ],
+    "meaning": "分支",
+    "explanation": "从某个版本延伸出来的开发线路，便于分别开发功能。",
+    "example": "git switch -c login"
+  },
+  {
+    "names": [
+      "merge"
+    ],
+    "meaning": "合并",
+    "explanation": "把另一条分支的改动整合到当前分支。",
+    "example": "git merge feature"
+  },
+  {
+    "names": [
+      "pull request",
+      "pr"
+    ],
+    "meaning": "拉取请求／合并请求",
+    "explanation": "在 GitHub 提议把一组改动合入目标分支，通常供他人审查。",
+    "example": "为修复 bug 发起 pull request。"
+  },
+  {
+    "names": [
+      "push"
+    ],
+    "meaning": "推送",
+    "explanation": "把本地提交发送到远程仓库。",
+    "example": "git push origin main"
+  },
+  {
+    "names": [
+      "pull"
+    ],
+    "meaning": "拉取并整合",
+    "explanation": "从远程获取改动，并整合到当前分支。",
+    "example": "git pull",
+    "related": "整合策略可为 merge 或 rebase，取决于配置与参数。"
+  },
+  {
+    "names": [
+      "fetch"
+    ],
+    "meaning": "获取",
+    "explanation": "下载远程引用和对象，不直接合并到当前分支。",
+    "example": "git fetch origin"
+  },
+  {
+    "names": [
+      "clone"
+    ],
+    "meaning": "克隆",
+    "explanation": "把已有仓库复制到本地，包含版本历史。",
+    "example": "git clone 仓库地址"
+  },
+  {
+    "names": [
+      "fork"
+    ],
+    "meaning": "派生仓库",
+    "explanation": "在 GitHub 上创建一个与原仓库关联的个人副本。",
+    "example": "先 fork 项目，再提交改动。"
+  },
+  {
+    "names": [
+      "issue"
+    ],
+    "meaning": "议题／问题记录",
+    "explanation": "用来跟踪缺陷、需求或讨论。",
+    "example": "为程序崩溃提交一个 issue。"
+  },
+  {
+    "names": [
+      "checkout"
+    ],
+    "meaning": "检出",
+    "explanation": "Git 中用于切换分支或恢复文件等操作的命令。",
+    "example": "git checkout main",
+    "related": "现代 Git 常用 switch 切换分支、restore 恢复文件。"
+  },
+  {
+    "names": [
+      "rebase"
+    ],
+    "meaning": "变基",
+    "explanation": "将一系列提交重新应用到另一个基点，形成新的提交历史。",
+    "example": "git rebase main",
+    "related": "对已经共享的提交变基需谨慎协调。"
+  },
+  {
+    "names": [
+      "staging area",
+      "stage",
+      "index"
+    ],
+    "meaning": "暂存区",
+    "explanation": "准备放入下一次提交的改动集合；index 在其他语境也可指索引。",
+    "example": "git add app.js"
+  },
+  {
+    "names": [
+      "conflict"
+    ],
+    "meaning": "冲突",
+    "explanation": "多个改动无法自动整合，需要人决定保留内容。",
+    "example": "合并分支时处理 merge conflict。"
+  },
+  {
+    "names": [
+      "remote"
+    ],
+    "meaning": "远程仓库／远程连接",
+    "explanation": "Git 中指向其他仓库的命名连接。",
+    "example": "git remote -v"
+  },
+  {
+    "names": [
+      "readme"
+    ],
+    "meaning": "项目说明文件",
+    "explanation": "通常介绍项目用途、安装和使用方法。",
+    "example": "README.md"
+  },
+  {
+    "names": [
+      "release"
+    ],
+    "meaning": "发布版本",
+    "explanation": "供用户使用的正式版本或发布记录。",
+    "example": "下载项目的 release 包。"
+  },
+  {
+    "names": [
+      "tag"
+    ],
+    "meaning": "标签",
+    "explanation": "给某个提交设置便于识别的名称，常用于版本标记。",
+    "example": "git tag v1.0.0"
+  },
+  {
+    "names": [
+      "class"
+    ],
+    "meaning": "类",
+    "explanation": "面向对象编程中描述对象数据和行为的类型。",
+    "example": "Java：class User {}"
+  },
+  {
+    "names": [
+      "object"
+    ],
+    "meaning": "对象",
+    "explanation": "通常指某个类的实例，持有状态并提供行为。",
+    "example": "Java：User u = new User();"
+  },
+  {
+    "names": [
+      "interface"
+    ],
+    "meaning": "接口",
+    "explanation": "在 Java 中可声明类型应提供的行为；也泛指组件交互的约定。",
+    "example": "interface Runnable { void run(); }"
+  },
+  {
+    "names": [
+      "inheritance"
+    ],
+    "meaning": "继承",
+    "explanation": "让一个类基于另一个类扩展或复用行为的机制。",
+    "example": "Java：class Dog extends Animal {}"
+  },
+  {
+    "names": [
+      "polymorphism"
+    ],
+    "meaning": "多态",
+    "explanation": "通过统一类型使用不同实现，调用时表现出不同的行为。",
+    "example": "Animal a = new Dog(); a.speak();"
+  },
+  {
+    "names": [
+      "encapsulation"
+    ],
+    "meaning": "封装",
+    "explanation": "将状态与操作组织在一起，并控制外部访问。",
+    "example": "把字段设为 private，通过方法访问。"
+  },
+  {
+    "names": [
+      "constructor"
+    ],
+    "meaning": "构造函数／构造器",
+    "explanation": "创建对象时用于初始化的特殊成员。",
+    "example": "Java：User(String name) { this.name = name; }"
+  },
+  {
+    "names": [
+      "exception"
+    ],
+    "meaning": "异常",
+    "explanation": "程序运行中用来表示错误或特殊情况的机制。",
+    "example": "try { read(); } catch (IOException e) { ... }"
+  },
+  {
+    "names": [
+      "static"
+    ],
+    "meaning": "静态的",
+    "explanation": "Java 中常表示成员属于类；C++ 中含义随声明位置变化。",
+    "example": "Java：static int count;"
+  },
+  {
+    "names": [
+      "final"
+    ],
+    "meaning": "不可重新赋值／不可扩展",
+    "explanation": "Java 修饰符：变量不可再赋值，方法不可重写，类不可继承。",
+    "example": "final int MAX = 10;",
+    "related": "final 引用不代表其指向的对象内容不可变化。"
+  },
+  {
+    "names": [
+      "null",
+      "nullptr"
+    ],
+    "meaning": "空值／空指针",
+    "explanation": "表示引用或指针没有指向有效对象；C++ 推荐用 nullptr 表示空指针。",
+    "example": "C++：int* p = nullptr;"
+  },
+  {
+    "names": [
+      "pointer"
+    ],
+    "meaning": "指针",
+    "explanation": "保存内存地址的值，常见于 C 和 C++。",
+    "example": "int* p = &value;"
+  },
+  {
+    "names": [
+      "reference"
+    ],
+    "meaning": "引用",
+    "explanation": "C++ 中通常表示已有对象的别名；Java 引用用于访问对象。",
+    "example": "C++：int& r = value;"
+  },
+  {
+    "names": [
+      "template"
+    ],
+    "meaning": "模板",
+    "explanation": "C++ 中按类型或编译期参数生成代码的机制。",
+    "example": "template <typename T> T add(T a, T b) { return a + b; }"
+  },
+  {
+    "names": [
+      "namespace"
+    ],
+    "meaning": "命名空间",
+    "explanation": "组织名称并减少命名冲突的作用域。",
+    "example": "C++：std::vector<int> numbers;"
+  },
+  {
+    "names": [
+      "vector"
+    ],
+    "meaning": "向量／动态数组",
+    "explanation": "C++ 的 std::vector 是大小可变化的连续存储容器。",
+    "example": "std::vector<int> v = {1, 2, 3};"
+  },
+  {
+    "names": [
+      "iterator"
+    ],
+    "meaning": "迭代器",
+    "explanation": "用来访问容器元素并在元素间移动的对象。",
+    "example": "C++：auto it = v.begin();"
+  },
+  {
+    "names": [
+      "const"
+    ],
+    "meaning": "常量限定符",
+    "explanation": "C++ 中限制通过特定变量或访问路径修改值。",
+    "example": "const int limit = 10;"
+  },
+  {
+    "names": [
+      "array"
+    ],
+    "meaning": "数组",
+    "explanation": "按索引访问的一组元素，通常连续存储。",
+    "example": "int a[3] = {1, 2, 3};"
+  },
+  {
+    "names": [
+      "linked list"
+    ],
+    "meaning": "链表",
+    "explanation": "由节点通过链接组成的数据结构。",
+    "example": "每个节点保存 value 和 next。"
+  },
+  {
+    "names": [
+      "stack"
+    ],
+    "meaning": "栈",
+    "explanation": "后进先出的数据结构；也可指函数调用使用的调用栈。",
+    "example": "最后 push 的元素先 pop。"
+  },
+  {
+    "names": [
+      "queue"
+    ],
+    "meaning": "队列",
+    "explanation": "通常指先进先出的数据结构。",
+    "example": "排队任务按进入顺序处理。"
+  },
+  {
+    "names": [
+      "heap"
+    ],
+    "meaning": "堆",
+    "explanation": "可指满足堆序性质的树形结构，也可指动态分配内存的区域。",
+    "example": "优先队列常用二叉堆实现。"
+  },
+  {
+    "names": [
+      "tree"
+    ],
+    "meaning": "树",
+    "explanation": "由节点和边组成的层次结构。",
+    "example": "二叉树每个节点最多有两个子节点。"
+  },
+  {
+    "names": [
+      "graph"
+    ],
+    "meaning": "图",
+    "explanation": "由顶点和边构成，用于表示关联关系。",
+    "example": "用图表示城市与道路。"
+  },
+  {
+    "names": [
+      "hash",
+      "hash table"
+    ],
+    "meaning": "哈希／哈希表",
+    "explanation": "哈希把输入映射到一个值；哈希表利用哈希值组织键值数据。",
+    "example": "用哈希表按用户名查找用户。"
+  },
+  {
+    "names": [
+      "recursion"
+    ],
+    "meaning": "递归",
+    "explanation": "函数直接或间接调用自身来解决更小的同类问题。",
+    "example": "阶乘：f(n) = n * f(n - 1)，并设终止条件。"
+  },
+  {
+    "names": [
+      "algorithm"
+    ],
+    "meaning": "算法",
+    "explanation": "为解决问题定义的一组明确步骤。",
+    "example": "二分查找是一种算法。"
+  },
+  {
+    "names": [
+      "complexity"
+    ],
+    "meaning": "复杂度",
+    "explanation": "描述资源消耗随输入规模增长的趋势。",
+    "example": "二分查找的时间复杂度为 O(log n)。"
+  },
+  {
+    "names": [
+      "binary search"
+    ],
+    "meaning": "二分查找",
+    "explanation": "在有序范围中反复将搜索范围减半。",
+    "example": "在有序数组中寻找目标值。"
+  },
+  {
+    "names": [
+      "sort"
+    ],
+    "meaning": "排序",
+    "explanation": "按指定规则重新排列元素。",
+    "example": "把数字按从小到大排序。"
+  },
+  {
+    "names": [
+      "shuffle"
+    ],
+    "meaning": "随机打乱",
+    "explanation": "随机调整元素的排列顺序。",
+    "example": "打乱一副牌的顺序。"
+  },
+  {
+    "names": [
+      "function",
+      "method"
+    ],
+    "meaning": "函数／方法",
+    "explanation": "可被调用的代码单元；方法通常与类或对象关联。",
+    "example": "getUserName()"
+  },
+  {
+    "names": [
+      "variable"
+    ],
+    "meaning": "变量",
+    "explanation": "用于保存或引用数据的命名实体。",
+    "example": "int count = 0;"
+  },
+  {
+    "names": [
+      "parameter",
+      "argument"
+    ],
+    "meaning": "形参／实参",
+    "explanation": "形参是函数定义中的参数；实参是调用时传入的值。",
+    "example": "add(int x) 的 x 是形参；add(3) 的 3 是实参。"
+  },
+  {
+    "names": [
+      "return"
+    ],
+    "meaning": "返回",
+    "explanation": "结束当前函数调用，并可把结果交还调用处。",
+    "example": "return count;"
+  },
+  {
+    "names": [
+      "boolean",
+      "bool"
+    ],
+    "meaning": "布尔类型",
+    "explanation": "表示真或假的类型。",
+    "example": "bool ready = true;"
+  },
+  {
+    "names": [
+      "string"
+    ],
+    "meaning": "字符串",
+    "explanation": "由字符组成的文本数据。",
+    "example": "Java：String name = \"小明\";"
+  },
+  {
+    "names": [
+      "thread"
+    ],
+    "meaning": "线程",
+    "explanation": "进程内执行代码的一条执行路径。",
+    "example": "在工作线程中处理耗时任务。"
+  },
+  {
+    "names": [
+      "process"
+    ],
+    "meaning": "进程",
+    "explanation": "正在执行的程序实例，拥有自己的资源与地址空间。",
+    "example": "启动一个 Java 程序会创建进程。"
+  },
+  {
+    "names": [
+      "async",
+      "asynchronous"
+    ],
+    "meaning": "异步",
+    "explanation": "发起操作后不必同步等待结果，可在完成后处理结果。",
+    "example": "等待网络响应时继续处理其他任务。"
+  },
+  {
+    "names": [
+      "callback"
+    ],
+    "meaning": "回调",
+    "explanation": "传给其他代码，在特定时机被调用的函数。",
+    "example": "按钮点击时执行回调函数。"
+  },
+  {
+    "names": [
+      "api"
+    ],
+    "meaning": "应用程序编程接口",
+    "explanation": "软件提供给其他代码使用的功能与调用约定。",
+    "example": "通过 API 获取仓库信息。"
+  },
+  {
+    "names": [
+      "bug"
+    ],
+    "meaning": "程序缺陷",
+    "explanation": "导致程序行为与预期不符的问题。",
+    "example": "数组越界导致崩溃。"
+  },
+  {
+    "names": [
+      "debug"
+    ],
+    "meaning": "调试",
+    "explanation": "定位并分析程序问题的过程。",
+    "example": "设置断点查看变量值。"
+  },
+  {
+    "names": [
+      "compile"
+    ],
+    "meaning": "编译",
+    "explanation": "把源代码转换为目标代码或其他形式的过程。",
+    "example": "javac Main.java"
+  },
+  {
+    "names": [
+      "runtime"
+    ],
+    "meaning": "运行时",
+    "explanation": "程序实际执行的阶段，或支持执行的环境。",
+    "example": "空指针异常发生在运行时。"
+  },
+  {
+    "names": [
+      "dependency"
+    ],
+    "meaning": "依赖",
+    "explanation": "项目需要使用的其他库、模块或工具。",
+    "example": "项目依赖一个 JSON 解析库。"
+  },
+  {
+    "names": [
+      "cache"
+    ],
+    "meaning": "缓存",
+    "explanation": "保存可复用结果，以减少重复计算或读取。",
+    "example": "缓存已查询的词义。"
+  },
+  {
+    "names": [
+      "get"
+    ],
+    "meaning": "获取",
+    "explanation": "代码命名中常表示读取某个值，实际行为要看实现。",
+    "example": "getName 可能表示获取名称。"
+  },
+  {
+    "names": [
+      "set"
+    ],
+    "meaning": "设置",
+    "explanation": "代码命名中常表示设置某个值，也可指集合。",
+    "example": "setName 可能表示设置名称。"
+  },
+  {
+    "names": [
+      "user"
+    ],
+    "meaning": "用户",
+    "explanation": "通常指使用系统的人或对应的数据实体。",
+    "example": "User 类可以保存用户资料。"
+  },
+  {
+    "names": [
+      "name"
+    ],
+    "meaning": "名称",
+    "explanation": "代码中常用于表示名称或标识文本。",
+    "example": "userName 通常意为用户名称。"
+  },
+  {
+    "names": [
+      "snake case",
+      "snake_case"
+    ],
+    "meaning": "蛇形命名法",
+    "explanation": "用下划线连接多个单词的命名方式。",
+    "example": "user_name、max_size"
+  },
+  {
+    "names": [
+      "camel case",
+      "camelCase"
+    ],
+    "meaning": "小驼峰命名法",
+    "explanation": "首词小写，后续单词首字母大写。",
+    "example": "getUserName"
+  },
+  {
+    "names": [
+      "pascal case",
+      "PascalCase"
+    ],
+    "meaning": "大驼峰命名法",
+    "explanation": "各单词首字母大写，常用于类型名称。",
+    "example": "ShuffleArray、UserAccount"
+  }
+]

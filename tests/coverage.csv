@@ -1,0 +1,3446 @@
+﻿source,term,type,matched,professional,meaning
+"https://github.com/git/git","git","entry","Git","true","Git 版本控制系统
+记录文件版本、支持分支与合并的分布式版本控制工具。
+n. [俚]饭桶"
+"https://github.com/git/git","fast","entry","fast","false","a. 快速的, 紧的
+adv. 很快地, 紧紧地, 彻底地
+n. 绝食, 斋戒
+vi. 绝食, 斋戒"
+"https://github.com/git/git","scalable","entry","scalable","false","a. 可攀登的, 可用称量的, 可去鳞的"
+"https://github.com/git/git","distributed","entry","distributed","true","[计] 分散对齐, 分布式处理
+a. 分布式的
+[计] 分散对齐, 分布式处理"
+"https://github.com/git/git","revision","entry","revision","true","[计] 修订版
+n. 校订, 修正, 修订本, 修订版
+[计] 修订版"
+"https://github.com/git/git","control","entry","control","true","[计] 控制; 控制器
+n. 控制, 管理, 克制, 控制器, 操纵装置
+vt. 控制, 操纵, 抑制
+[计] 控制; 控制器"
+"https://github.com/git/git","system","entry","system","true","[计] 系统; 体制; 体系
+n. 系统, 体系, 制度, 方式, 秩序, 分类原则
+[计] 系统; 体制; 体系"
+"https://github.com/git/git","with","entry","with","false","prep. 和...在一起, 以, 由于"
+"https://github.com/git/git","unusually","entry","unusually","false","adv. 不寻常地, 异乎寻常地, (非正式)非常"
+"https://github.com/git/git","rich","entry","rich","false","a. 富裕的, 富饶的, 浓厚的, 贵重的"
+"https://github.com/git/git","command","entry","command","true","[计] 命令; 指令; DOS外部命令:启动新的命令处理器
+n. 命令, 指挥, 控制, 部队, 司令部
+v. 命令, 指挥, 控制
+[计] 命令; 指令; DOS外部命令:启动新的命令处理器"
+"https://github.com/git/git","set","entry","set","true","[计] 设置; DOS内部命令:改变或显示分配给环境变量的值
+n. 日落, 同伙, 组合, 集合, 装置
+vt. 放, 安置, 放置, 设定, 使凝结, 点燃, 确定, 点缀, 使就位, 树立, 分配, 调整
+vi. 日落, 凝固, 定型, 搁住, 结果, 适合
+a. 决心的, 规定的, 故意的, 持久的, 固定的, 老套的, 准备好的
+[计] 设置; DOS内部命令:改变或显示分配给环境变量的值"
+"https://github.com/git/git","that","entry","that","false","a. 那, 那个
+conj. 以致, 因为
+pron. 那
+adv. 那么, 那样"
+"https://github.com/git/git","provides","entry","provides","false","v. 提供, 供给, 供应( provide的第三人称单数 ); 规定; 提供[(+for)]; 装备"
+"https://github.com/git/git","both","entry","both","false","a. 两者的
+adv. 两者都
+pron. 两者"
+"https://github.com/git/git","high-level","entry","high-level","false","a. 在高空的, 高级的, 高阶层的"
+"https://github.com/git/git","operations","entry","operation","true","[计] 运算
+n. 操作, 动作, 手术, 运算, 作用, 业务
+[计] 运算"
+"https://github.com/git/git","and","entry","and","true","[计] 与
+conj. 和, 与
+[计] 与"
+"https://github.com/git/git","full","entry","full","true","[计] 完整
+n. 全部, 完整
+a. 充满的, 完全的, 丰富的, 完美的, 丰满的, 详尽的
+adv. 完全地, 整整, 十分
+vt. 把(衣服等)缝得宽松, 漂洗
+[计] 完整"
+"https://github.com/git/git","access","entry","access","true","[计] 访问, 存取
+n. 通路, 入口, 接近, 进入, 使用权, 发作
+vt. 访问, 存取, 接近, 使用
+[计] 访问, 存取"
+"https://github.com/git/git","internals","entry","internals","false","[化] 内部构件; 内部装置; 内件"
+"https://github.com/git/git","open","entry","open","true","[计] 打开指令; 打开语句
+n. 公开, 户外, 空旷
+a. 开着的, 开放的, 开阔的, 营业着的, 公开的, 悬而未决的
+vt. 打开, 公开, 开放
+vi. 展开, 开始, 展现
+[计] 打开指令; 打开语句"
+"https://github.com/git/git","source","entry","source","true","[计] 来源, 源程序
+n. 来源, 水源, 根源, 原始资料, 源
+[计] 来源, 源程序"
+"https://github.com/git/git","project","entry","project","false","n. 计划, 设计, 事业
+vt. 计划, 设计, 投掷, 发射, 使凸出, 放映
+vi. 凸出"
+"https://github.com/git/git","covered","entry","covered","false","a. 隐蔽着的, 掩藏着的, 有屋顶的
+[建] 涂抹了的, 覆盖了的, 掩盖了的"
+"https://github.com/git/git","the","entry","the","false","art. 那"
+"https://github.com/git/git","gnu","entry","gnu","false","n. 牛羚, 角马"
+"https://github.com/git/git","general","entry","general","true","[计] 常规
+n. 一般, 将军, 大体
+a. 全面的, 大体的, 总的, 一般的, 普遍的
+n. 常规
+[计] 常规"
+"https://github.com/git/git","public","entry","public","false","n. 公众, 民众
+a. 公众的, 公共的, 公立的, 公用的"
+"https://github.com/git/git","license","entry","license","false","n. 执照, 许可证, 特许
+vt. 许可, 特许"
+"https://github.com/git/git","version","entry","version","true","[计] 版本
+n. 一种描述, 版本, 译文
+[计] 版本"
+"https://github.com/git/git","some","entry","some","false","pron. 一些, 一部分, 若干
+adv. 大约
+a. 一些的, 少许的, 某一的"
+"https://github.com/git/git","parts","entry","parts","false","n. 零件, 部件"
+"https://github.com/git/git","are","entry","are","false","be的现在时复数或第二人称单数"
+"https://github.com/git/git","under","entry","under","false","prep. 在...之下, 低于
+a. 下面的, 从属的
+adv. 在下面"
+"https://github.com/git/git","different","entry","different","false","a. 不同的
+[机] 差动, 微分的, 差速器"
+"https://github.com/git/git","licenses","entry","licenses","false","n. 授权；许可（license的复数）"
+"https://github.com/git/git","compatible","entry","compatible","true","[计] 相容的; 兼容的
+a. 能共处的, 可并立的, 适合的
+[计] 相容的; 兼容的"
+"https://github.com/git/git","was","entry","be","true","[计] 后端, 总线允许
+v. 是, 表示, 在
+[计] 后端, 总线允许"
+"https://github.com/git/git","originally","entry","originally","false","adv. 本来, 原来, 最初, 就起源而论, 独创地"
+"https://github.com/git/git","written","entry","write","true","[计] 书写器
+vt. 书写, 著述, 写, 写满, 写信给
+vi. 写, 写字, 写信, 写作, 作曲
+[计] 书写器"
+"https://github.com/git/git","linus","entry","linus","false","n. 莱纳斯"
+"https://github.com/git/git","torvalds","missing","","false",""
+"https://github.com/git/git","help","entry","help","true","[计] 帮助, 帮助程序; DOS外部命令: DOS命令的电子文件帮助程序
+n. 帮忙, 帮助者, 补救办法, 有益的东西
+vt. 帮助, 帮忙, 接济, 治疗, 款待
+vi. 有用, 救命, 招待
+[计] 帮助, 帮助程序; DOS外部命令: DOS命令的电子文件帮助程序"
+"https://github.com/git/git","group","entry","group","true","[计] 创建组; 组, 用户组
+n. 团体, 组, 团, 群
+v. 聚合, 成群
+[计] 创建组; 组, 用户组"
+"https://github.com/git/git","hackers","entry","hacker","true","[计] 计算机窃贼, 计算机新技术挑战者, 黑客
+[计] 计算机窃贼, 计算机新技术挑战者, 黑客"
+"https://github.com/git/git","around","entry","around","false","prep. 包围, 在...周围, 四处
+adv. 兜着圈子, 在附近, 到处"
+"https://github.com/git/git","net","entry","net","true","[计] 网络, 网络分析程序
+n. 网, 网状物, 罗网, 净利, 净价
+a. 净的, 最终的
+vt. 用网捕, 撒网, 净赚, 得到
+vi. 编网
+[计] 网络, 网络分析程序"
+"https://github.com/git/git","please","entry","please","false","adv. 请
+vt. 使高兴, 合...的心意, 取悦
+vi. 使人满意, 讨好, 愿意, 敬请"
+"https://github.com/git/git","read","entry","read","true","[计] 读取
+v. 读, 阅读, 理解
+a. 有学问的
+n. 读取, 阅读
+[计] 读取"
+"https://github.com/git/git","file","entry","file","true","[计] 文件
+n. 档案, 公文箱, 文件夹, 文件, 卷宗, 锉刀
+vi. 列队行进, 用锉刀做
+vt. 归档, 申请, 锉, 琢磨
+[计] 文件"
+"https://github.com/git/git","install","entry","install","true","[计] 安装, 安装程序; DOS内部命令:安装常驻程序
+vt. 安装, 安置, 使就职
+[计] 安装, 安装程序; DOS内部命令:安装常驻程序"
+"https://github.com/git/git","for","entry","for","true","[计] DOS批处理命令:对一组参数重复执行指定的命令
+prep. 为, 因为, 至于
+conj. 因为
+[计] DOS批处理命令:对一组参数重复执行指定的命令"
+"https://github.com/git/git","installation","entry","installation","false","n. 安装, 装置, 就职
+[医] 结构, 装置, 设立"
+"https://github.com/git/git","instructions","entry","instruction","true","[计] 指令
+n. 指令, 教导, 命令
+[计] 指令"
+"https://github.com/git/git","many","entry","many","false","n. 多数, 多数人
+a. 许多的
+pron. 许多"
+"https://github.com/git/git","online","entry","online","true","[计] 联机
+[计] 联机"
+"https://github.com/git/git","resources","entry","resource","true","[计] 资源
+n. 资源, 财力, 办法, 策略, 急智, 消遣
+[计] 资源"
+"https://github.com/git/git","accessible","entry","accessible","false","a. 易接近的, 可进入的, 可使用的, 易受影响的, 可理解的"
+"https://github.com/git/git","from","entry","from","false","prep. 从, 来自, 根据"
+"https://github.com/git/git","including","entry","include","true","[计] DOS内部命令:在CONFIG.SYS文件的一个配置块中包含另一配置块的内容
+vt. 包括, 把...算入, 包住
+[计] DOS内部命令:在CONFIG.SYS文件的一个配置块中包含另一配置块的内容"
+"https://github.com/git/git","documentation","entry","documentation","true","[计] 文件编制, 文档
+n. (总称)文件
+[计] 文件编制, 文档"
+"https://github.com/git/git","related","entry","related","false","a. 讲述的, 叙述的；有关系的, 有关联的"
+"https://github.com/git/git","tools","entry","tools","false","n. 工具, 工具菜单；工具箱（tool的复数形式）"
+"https://github.com/git/git","see","entry","see","false","vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意
+vi. 看, 观看, 注意, 知道, 考虑
+n. 主教的职位"
+"https://github.com/git/git","gittutorial","missing","","false",""
+"https://github.com/git/git","adoc","missing","","false",""
+"https://github.com/git/git","get","entry","get","true","[计] 取得指令, 获取文件
+vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上
+vi. 到达, 成为, 变得
+n. (网球等)救球, 生殖, 幼兽
+[计] 取得指令, 获取文件"
+"https://github.com/git/git","started","entry","start","true","[计] 起始
+n. 惊起, 出发, 开端, 起点, 吃惊, 有利条件
+vi. 开始, 出发, 启动, 跳起, 吃惊, 出现, 松动, 脱落, 起价, 参赛
+vt. 使惊起, 开动, 发动, 启动, 开始, 创办, 提议, 使松动, 使脱落, 起用
+[计] 起始"
+"https://github.com/git/git","then","entry","then","false","adv. 然后, 当时
+conj. 然后, 当时
+n. 那时"
+"https://github.com/git/git","giteveryday","missing","","false",""
+"https://github.com/git/git","useful","entry","useful","false","a. 有用的, 有益的
+[机] 有用的, 有效的"
+"https://github.com/git/git","minimum","entry","minimum","true","[计] 最小值
+a. 最小的, 最低的
+n. 最小值
+[计] 最小值"
+"https://github.com/git/git","commands","entry","command","true","[计] 命令; 指令; DOS外部命令:启动新的命令处理器
+n. 命令, 指挥, 控制, 部队, 司令部
+v. 命令, 指挥, 控制
+[计] 命令; 指令; DOS外部命令:启动新的命令处理器"
+"https://github.com/git/git","each","entry","each","false","a. 每个, 每一
+adv. 每个
+pron. 每个, 个人, 各自"
+"https://github.com/git/git","has","entry","has","false","have的第三人称单数现在式"
+"https://github.com/git/git","been","entry","be","true","[计] 后端, 总线允许
+v. 是, 表示, 在
+[计] 后端, 总线允许"
+"https://github.com/git/git","correctly","entry","correctly","false","adv. 对, 正确, 恰当, 符合一般性准则, 符合行为准则, 端正, 符合"
+"https://github.com/git/git","installed","entry","install","true","[计] 安装, 安装程序; DOS内部命令:安装常驻程序
+vt. 安装, 安置, 使就职
+[计] 安装, 安装程序; DOS内部命令:安装常驻程序"
+"https://github.com/git/git","tutorial","entry","tutorial","true","[计] 教程
+n. 个别指导, 论文, 学习指南, 指导手册
+a. 个别指导的, 家庭教师的, 辅导的
+[计] 教程"
+"https://github.com/git/git","can","entry","can","true","[计] 作废字符
+vt. 装罐
+n. 罐头, 容器
+aux. 能, 可以
+[计] 作废字符"
+"https://github.com/git/git","also","entry","also","false","adv. 也, 并且, 同样地"
+"https://github.com/git/git","man","entry","man","true","[计] 城域网, 手册
+n. 男人, 人类, 人
+vt. 为...配备人手, 操纵, 使振奋
+[计] 城域网, 手册"
+"https://github.com/git/git","cvs","entry","cvs","false","abbr. 计算机并行版本系统（Concurrent Version System）；绒毛膜绒毛样检（Chorionic Villus Sampling）"
+"https://github.com/git/git","users","entry","user","true","[计] 用户
+n. 使用者
+[计] 用户"
+"https://github.com/git/git","may","entry","may","false","n. 五月
+aux. 愿能, 可以, 愿意"
+"https://github.com/git/git","want","entry","want","false","n. 需要的东西, 缺乏, 贫困, 需要
+vt. 要, 希望, 应该, 缺少
+vi. 生活困苦, 需要, 缺少"
+"https://github.com/git/git","gitcvs-migration","identifier","","false",""
+"https://github.com/git/git","cvs-migration","identifier","","false",""
+"https://github.com/git/git","user","entry","user","true","[计] 用户
+n. 使用者
+[计] 用户"
+"https://github.com/git/git","discussion","entry","discussion","false","n. 讨论"
+"https://github.com/git/git","development","entry","development","false","n. 发展
+[化] 展开"
+"https://github.com/git/git","take","entry","take","false","vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费
+vi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产
+n. 拿, 取, 收成, 奏效"
+"https://github.com/git/git","place","entry","place","false","n. 地方, 地点, 位置, 住所, 座位, 地位, 处境, 特权, 空间, 余地, 职务, 位
+vt. 放置, 寄予, 认出, 评定, 任命
+vi. 名次列前"
+"https://github.com/git/git","mailing","entry","mail","true","[计] 邮件
+n. 邮件, 邮政, 邮递, 盔甲
+vt. 邮寄, 给...穿盔甲
+[计] 邮件"
+"https://github.com/git/git","list","entry","list","true","[计] 列表, 序列, 数据清单
+n. 目录, 名单, 明细表, 布条, 条纹, 列表, 序列, 数据清单
+vt. 列出, 列于表上, 记入名单内, 装布条
+vi. 列于表上
+[计] 列表, 序列, 数据清单"
+"https://github.com/git/git","everyone","entry","everyone","true","[计] 系统中的一个组名
+pron. 每个人, 人人
+[计] 系统中的一个组名"
+"https://github.com/git/git","welcome","entry","welcome","false","n. 欢迎, 欢迎词
+a. 受欢迎的, 可随意的, 可喜的
+vt. 欢迎, 接待
+interj. 欢迎"
+"https://github.com/git/git","post","entry","post","true","[计] 记入; 登记, 上电自检
+n. 柱, 杆, 准星, 邮件, 邮政, 标竿, 职位, 岗位, 哨所, 兵营
+vt. 张帖, 邮递, 公布, 登入帐, 使熟悉, 布置
+vi. 快速行进
+adv. 急速地
+[计] 记入; 登记, 上电自检"
+"https://github.com/git/git","bug","entry","bug","true","程序缺陷
+导致程序行为与预期不符的问题。
+[计] 缺点, 错误
+n. 错误, 虫, 病菌, 缺陷, 窃听器, 癖好, 防盗报警器, 双座小汽车, 要人
+vt. 装防盗报警器, 装窃听器, 激怒
+vi. 捉虫, 暴突
+[计] 缺点, 错误"
+"https://github.com/git/git","reports","entry","report","true","[计] 报告
+n. 报告, 报道, 传说, 案情报告, 爆炸声, 成绩单
+vt. 报告, 汇报, 转述, 报道, 揭发, 使报到
+vi. 报告, 写报道, 报到
+[计] 报告"
+"https://github.com/git/git","feature","entry","feature","true","[计] 特性
+n. 面孔的一部分(如眼、口等), 特征, 容貌, 特色, 特写
+vt. 是...的特色, 特写, 放映
+vi. 起重要作用
+[计] 特性"
+"https://github.com/git/git","requests","entry","request","true","请求
+客户端向服务端发出的操作意图和相关数据。
+[计] 请求
+n. 请求, 需要, 申请书
+vt. 请求, 要求, 邀请
+[计] 请求"
+"https://github.com/git/git","comments","entry","comment","true","[计] 备注
+n. 注解, 批评, 评论, 备注
+vi. 评论, 注解
+[计] 备注"
+"https://github.com/git/git","patches","entry","patch","true","替换／补丁
+测试中可指临时替换对象；版本管理中也可指描述改动的补丁。
+[计] 修补; 拼凑
+n. 片, 补缀, 碎片, 斑, 傻瓜
+vt. 补缀, 掩饰, 拼凑, 平息
+[计] 修补; 拼凑"
+"https://github.com/git/git","vger","missing","","false",""
+"https://github.com/git/git","kernel","entry","kernel","true","[计] 内核
+n. 核心, 中心, 精髓, 内核
+[计] 内核"
+"https://github.com/git/git","org","entry","org","true","[计] 域名(代表组织机构)
+[计] 域名(代表组织机构)"
+"https://github.com/git/git","submittingpatches","missing","","false",""
+"https://github.com/git/git","patch","entry","patch","true","替换／补丁
+测试中可指临时替换对象；版本管理中也可指描述改动的补丁。
+[计] 修补; 拼凑
+n. 片, 补缀, 碎片, 斑, 傻瓜
+vt. 补缀, 掩饰, 拼凑, 平息
+[计] 修补; 拼凑"
+"https://github.com/git/git","submission","entry","submission","false","n. 屈服, 服从, 谦恭, 呈递, 提交, 意见
+[经] 提交, 提出, 提交公断"
+"https://github.com/git/git","codingguidelines","missing","","false",""
+"https://github.com/git/git","those","entry","those","false","pron. 那些"
+"https://github.com/git/git","wishing","entry","wishing","false","n. 期盼着, 希望；愿望"
+"https://github.com/git/git","error","entry","error","true","[计] 错误
+n. 错误, 过失, 失误, 误差
+[计] 错误"
+"https://github.com/git/git","message","entry","message","true","[计] 报文; 消息; 信息
+n. 消息, 通讯, 讯息, 教训, 预言, 广告词
+vt. 通知
+vi. 通报, 报告, 报信
+[计] 报文; 消息; 信息"
+"https://github.com/git/git","usage","entry","usage","false","n. 用法, 使用, 习惯, 惯用法, 习惯法
+[经] 使用情况, 使用用途, 惯例"
+"https://github.com/git/git","informational","entry","informational","true","[计] 信息性的
+a. 信息的, 情报的, 提供消息的, 介绍情况的, 提供情报的
+[计] 信息性的"
+"https://github.com/git/git","string","entry","string","true","字符串
+由字符组成的文本数据。
+[计] 字符串, 串
+n. 线, 细绳, 一串, 字符串
+vt. 串起, 成串, 收紧, 缚, 扎
+vi. 成一串
+[计] 字符串, 串"
+"https://github.com/git/git","translations","entry","translation","true","[计] 转换
+n. 翻译, 译文, 转化, 调任, 平移, 转译
+[计] 转换"
+"https://github.com/git/git","localization","entry","localization","false","n. 局限, 地方化
+[化] 定位化"
+"https://github.com/git/git","should","entry","should","false","aux. 应该, 将要"
+"https://github.com/git/git","readme","entry","readme","true","项目说明文件
+通常介绍项目用途、安装和使用方法。
+[计] 自述文件
+n. 自述文件
+[计] 自述文件"
+"https://github.com/git/git","portable","entry","portable","true","[计] 可移植的
+a. 可携带的, 可搬运的, 可移动的
+[计] 可移植的"
+"https://github.com/git/git","object","entry","object","true","对象
+通常指某个类的实例，持有状态并提供行为。
+[计] 对象
+n. 物体, 目标, 目的, 对象, 宾语, 客体
+vi. 反对, 抱反感
+vt. 提出...来反对
+[计] 对象"
+"https://github.com/git/git","holds","entry","hold","true","[计] 保留
+n. 把握, 把持力, 柄, 控制, 掌握, 监禁
+vt. 保存, 握住, 拿住, 占据, 持有, 拥有
+vi. 支持, 持续, 有效
+n. 保留
+[计] 保留"
+"https://github.com/git/git","subscribe","entry","subscribe","true","[计] 订阅
+vt. 捐献, 签署
+vi. 赞成, 同意, 捐款, 预订, 认购
+[计] 订阅"
+"https://github.com/git/git","send","entry","send","true","[计] 发送
+vt. 发送, 使进入, 寄, 派遣, 发射, 使陷于
+vi. 寄信, 派人, 播送
+n. (船的)上升运动
+[计] 发送"
+"https://github.com/git/git","email","entry","email","false","n. 电子信函"
+"https://github.com/git/git","details","entry","detail","true","[计] 详细数据
+n. 细节, 详情
+vt. 详述, 选派
+vi. 画详图
+[计] 详细数据"
+"https://github.com/git/git","archives","entry","archive","true","[计] 挡案库, 存档
+vt. 把...存档
+n. 档案馆, 档案文件
+[计] 挡案库, 存档"
+"https://github.com/git/git","available","entry","available","false","a. 可利用的, 可获得的, 有效的
+[医] 有效的, 可得的"
+"https://github.com/git/git","other","entry","other","false","a. 其他的, 另外的, 从前的
+pron. 其他的, 他人, 另外一个"
+"https://github.com/git/git","archival","entry","archival","false","a. 档案的, 档案中的"
+"https://github.com/git/git","sites","entry","sites","false","n. 遗址, 举办地点；网站（site的复数）"
+"https://github.com/git/git","issues","entry","issue","true","议题／问题记录
+GitHub 中用于跟踪缺陷、任务或需求，不一定代表程序出错。
+n. 发行, 问题, 后果, 流出, 出口, 争端
+vi. 发行, 流出, 造成...结果, 传下
+vt. 使流出, 放出, 发行, 发布, 发给"
+"https://github.com/git/git","which","entry","which","false","pron. 哪一个, 那一个"
+"https://github.com/git/git","security","entry","security","true","[计] 安全性, 保密性, 安全检查程序
+n. 安全, 安全性, 防护物, 保安, 可靠性, 担保人, 抵押品, 保证金
+[计] 安全性, 保密性, 安全检查程序"
+"https://github.com/git/git","relevant","entry","relevant","false","a. 有关联的, 有关系的, 适当的, 相应的
+[法] 有关的, 相关的"
+"https://github.com/git/git","disclosed","entry","disclosed","false","v. 说出( disclose的过去式和过去分词 ); 揭露; 使显露; 使暴露"
+"https://github.com/git/git","privately","entry","privately","false","adv. 秘密地；私下地"
+"https://github.com/git/git","git-security","identifier","","false",""
+"https://github.com/git/git","googlegroups","missing","","false",""
+"https://github.com/git/git","com","entry","COM","true","[计] 计算机输出缩微胶片; 计算机输出胶片缩微机
+[计] 计算机输出缩微胶片; 计算机输出胶片缩微机"
+"https://github.com/git/git","maintainer","entry","maintainer","false","[医] 保持器"
+"https://github.com/git/git","frequently","entry","frequently","false","adv. 频繁, 经常地"
+"https://github.com/git/git","sends","entry","send","true","[计] 发送
+vt. 发送, 使进入, 寄, 派遣, 发射, 使陷于
+vi. 寄信, 派人, 播送
+n. (船的)上升运动
+[计] 发送"
+"https://github.com/git/git","what's","entry","what's","false","（尤当 has 为助动词时, what is 或 what has 的常用口语形式）; 乌"
+"https://github.com/git/git","cooking","entry","cooking","false","n. 烹饪
+[化] 熬炼; 热炼; 蒸煮"
+"https://github.com/git/git","current","entry","current","true","[计] 当前的
+n. 涌流, 趋势, 流
+a. 流通的, 现在的, 当前的, 流行的
+[计] 当前的"
+"https://github.com/git/git","status","entry","status","true","[计] 状态
+n. 状态, 情形, 地位, 要人身份
+[计] 状态"
+"https://github.com/git/git","various","entry","various","false","a. 不同的, 各种的, 多方面的, 许多的, 个别的, 杂色的
+[法] 不同的, 种种的, 各式各样的"
+"https://github.com/git/git","topics","entry","topics","false","abbr. 总联机程序和信息控制系统（Total On-line Program and Information Control System）"
+"https://github.com/git/git","following","entry","following","false","n. 下列各项, 部下, 追随者
+a. 下列的, 其次的"
+"https://github.com/git/git","them","entry","them","false","pron. 他们, 她们, 它们"
+"https://github.com/git/git","give","entry","give","false","n. 弹性, 适应性
+vt. 给, 授予, 供给, 产生, 发表, 付出, 献出, 让出
+vi. 捐赠, 支持不住, 让步"
+"https://github.com/git/git","good","entry","good","false","n. 善行, 好处, 利益
+a. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的"
+"https://github.com/git/git","reference","entry","reference","true","引用／参考
+可指访问对象的引用、Git 引用或参考资料；C++ 引用是对象的别名，需结合语境判断。
+[计] 引用
+n. 参考, 索引, 参照
+vt. 给...加上参考资料
+vt. 引用
+vi. 引用
+[计] 引用"
+"https://github.com/git/git","direction","entry","direction","true","[计] 方向; 流向
+n. 方向, 指导, 趋势
+[计] 方向; 流向"
+"https://github.com/git/git","remaining","entry","remaining","false","[电] 剩余的"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","typescript","entry","TypeScript","true","TypeScript 语言
+在 JavaScript 上增加类型系统的语言，可在开发时检查许多类型错误。
+n. 用打字机打的文件"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","language","entry","language","true","[计] 语言
+n. 语言, 文字, 措辞
+[计] 语言"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","for","entry","for","true","[计] DOS批处理命令:对一组参数重复执行指定的命令
+prep. 为, 因为, 至于
+conj. 因为
+[计] DOS批处理命令:对一组参数重复执行指定的命令"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","application-scale","identifier","","false",""
+"https://github.com/microsoft/TypeScript/blob/main/README.md","javascript","entry","JavaScript","true","JavaScript 语言
+网页中广泛使用的脚本语言，也可在服务器环境运行。
+n. Java描述语言（一种程序语言）"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","adds","entry","add","true","[计] 加法
+vt. 增加, 添加, 附带说明, 计算...总和
+vi. 做加法, 积累而成, 增添
+[计] 加法"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","optional","entry","optional","false","a. 可选择的, 随意的
+[化] 选购的"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","types","entry","type","true","[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容
+n. 类型, 样式, 典型, 榜样, 标志, 符号, 型, 式
+vi. 打字
+vt. 作为代表, 测定类型, 用打字机打
+[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","that","entry","that","false","a. 那, 那个
+conj. 以致, 因为
+pron. 那
+adv. 那么, 那样"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","support","entry","support","true","[计] 后援; 支持
+n. 支持, 支撑, 援助, 供养, 支撑物
+vt. 支援, 支撑, 帮助, 支持, 忍受, 供养, 证实
+[计] 后援; 支持"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","tools","entry","tools","false","n. 工具, 工具菜单；工具箱（tool的复数形式）"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","large-scale","entry","large-scale","false","a. 大规模的, 大范围的, 大比例尺的"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","applications","entry","application","true","[计] 应用, 应用程序
+n. 应用, 申请, 志愿书, 应用程序
+[计] 应用, 应用程序"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","any","entry","any","false","a. 任何的
+pron. 任何"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","browser","entry","browser","true","[计] 浏览程序
+n. 吃嫩叶的动物, 浏览书本的人
+[计] 浏览程序"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","host","entry","host","true","宿主／主机
+在编程语言语境中可指提供运行环境与附加能力的宿主；网络语境中也常指主机。
+[计] 主机, 宿主机
+n. 主人, 旅馆老板, 节目主持人
+vt. 当主人招待, 作...节目主持人
+[计] 主机, 宿主机"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","compiles","entry","compile","true","编译
+把源代码转换为目标代码或其他形式的过程。
+[计] 编译
+vt. 编译, 编辑, 编纂, 收集
+[计] 编译"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","readable","entry","readable","false","a. 值得一读的, 易读的, 读起来津津有味的
+[电] 可读的"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","standards-based","identifier","","false",""
+"https://github.com/microsoft/TypeScript/blob/main/README.md","try","entry","try","false","n. 尝试, 试验, 审理, 审判
+vt. 试, 尝试, 试验, 考验, 审问, 提炼
+vi. 尝试, 试图"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","out","entry","out","false","a. 外面的, 熄灭的, 结束的
+adv. 在外, 熄灭, 出现
+prep. 出自, 离去, 向"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","the","entry","the","false","art. 那"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","playground","entry","playground","false","n. 运动场, 操场, 度假胜地, 活动场所"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","and","entry","and","true","[计] 与
+conj. 和, 与
+[计] 与"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","stay","entry","stay","false","n. 停留, 逗留, 制止, 延缓, 停止, 支柱, 支撑物, 支索
+vt. 制止, 延缓, 坚持, 支持, 支撑, 用支索固定
+vi. 停留, 逗留, 暂停, 坚持, 中止"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","date","entry","date","false","n. 日期, 约会, 枣椰树
+vt. 约会, 定日期
+vi. 注明日期, 过时"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","via","entry","via","false","prep. 经由, 经过, 通过
+[医] 病毒灭活剂"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","our","entry","our","false","pron. 我们的"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","blog","entry","blog","false","n. 博客；部落格；网络日志"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","twitter","entry","twitter","false","n. 啁啾, 唧唧喳喳声
+vi. 啭, 啁啾, 颤抖
+vt. 嘁嘁喳喳地讲, 抖动"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","account","entry","account","true","[计] 帐户, 帐号
+n. 报告, 解释, 估价, 理由, 利润, 算账, 帐目
+vi. 报帐, 解释, 导致, 报偿, 占, 杀死
+vt. 认为
+[计] 帐户, 帐号"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","find","entry","find","true","[计] 查找; DOS外部命令:在指定的文件或从键盘输入的文本行中
+vt. 发现, 感到, 找到, 认为, 得到
+vi. 裁决
+n. 发现
+[计] 查找; DOS外部命令:在指定的文件或从键盘输入的文本行中
+寻找指定的字符串, 将符合条件的行或行数输出到标准输出设备上"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","others","entry","others","false","pron. 其他人"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","who","entry","who","false","pron. 谁"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","are","entry","are","false","be的现在时复数或第二人称单数"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","using","entry","using","true","[计] 使用
+[计] 使用"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","community","entry","community","false","n. 社区, 公众, 共有, 共同体
+[经] 公众, 共有, 社会"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","page","entry","page","true","内存页
+虚拟内存管理和映射所使用的固定大小单位。
+[计] 页; 页面
+n. 页, 记录, 事件, 专栏, 男侍
+vt. 标明...的页数, 翻...的书页, 分页排版, 呼叫, 侍候
+vi. 翻书页, 侍侯
+[计] 页; 页面"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","installing","entry","install","true","[计] 安装, 安装程序; DOS内部命令:安装常驻程序
+vt. 安装, 安置, 使就职
+[计] 安装, 安装程序; DOS内部命令:安装常驻程序"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","latest","entry","latest","false","a. 最近的"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","stable","entry","stable","false","n. 马房, 牛棚
+a. 稳定的, 安定的, 坚固的, 坚定的
+vt. 赶入马房
+vi. 被关在马厩"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","version","entry","version","true","[计] 版本
+n. 一种描述, 版本, 译文
+[计] 版本"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","nightly","entry","nightly","false","a. 每夜的, 夜间的
+adv. 每夜"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","builds","entry","build","true","构建
+把源代码及相关资源处理成可运行或可发布产物的过程。
+v. 建立, 建筑
+n. 构造, 体格"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","contribute","entry","contribute","false","vt. 有助于, 捐助, 投稿
+vi. 出力, 捐献, 投稿"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","there","entry","there","false","adv. 在那里"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","many","entry","many","false","n. 多数, 多数人
+a. 许多的
+pron. 许多"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","ways","entry","ways","false","n. 方法（way的复数）；滑路"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","submit","entry","submit","false","vt. 使服从, 使受到, 委托, 提交, 认为
+vi. 屈服, 服从"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","bugs","entry","bug","true","程序缺陷
+导致程序行为与预期不符的问题。
+[计] 缺点, 错误
+n. 错误, 虫, 病菌, 缺陷, 窃听器, 癖好, 防盗报警器, 双座小汽车, 要人
+vt. 装防盗报警器, 装窃听器, 激怒
+vi. 捉虫, 暴突
+[计] 缺点, 错误"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","help","entry","help","true","[计] 帮助, 帮助程序; DOS外部命令: DOS命令的电子文件帮助程序
+n. 帮忙, 帮助者, 补救办法, 有益的东西
+vt. 帮助, 帮忙, 接济, 治疗, 款待
+vi. 有用, 救命, 招待
+[计] 帮助, 帮助程序; DOS外部命令: DOS命令的电子文件帮助程序"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","verify","entry","verify","true","[计] 校验, 检验; DOS内部命令:设定写入磁盘时是否验证写入的正确性
+vt. 证明, 查证, 证实, 检验, 校验
+[计] 校验, 检验; DOS内部命令:设定写入磁盘时是否验证写入的正确性"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","fixes","entry","fixes","false","n. 菲克斯类（一种烈酒）"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","they","entry","they","false","pron. 他们, 它们"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","checked","entry","checked","true","[计] 选中的
+a. 有格子图案的, 闭音节的, 选中的
+[计] 选中的"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","review","entry","review","false","n. 检讨, 复习, 回顾, 检阅, 评论
+vt. 温习, 检讨, 评论, 再检察, 复审
+vi. 复习功课, 写评论"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","source","entry","source","true","[计] 来源, 源程序
+n. 来源, 水源, 根源, 原始资料, 源
+[计] 来源, 源程序"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","code","entry","code","true","[计] 代码
+n. 代码, 密码, 法规, 法典
+vt. 把...编码
+[计] 代码"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","changes","entry","changes","false","n. 变化, 改变（change的复数）"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","engage","entry","engage","false","vi. 答应, 从事, 交战
+vt. 使忙碌, 雇佣, 预定, 使从事于, 使参加"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","with","entry","with","false","prep. 和...在一起, 以, 由于"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","other","entry","other","false","a. 其他的, 另外的, 从前的
+pron. 其他的, 他人, 另外一个"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","users","entry","user","true","[计] 用户
+n. 使用者
+[计] 用户"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","developers","entry","developer","true","[计] 显影器
+n. 开发者
+[计] 显影器"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","stackoverflow","missing","","false",""
+"https://github.com/microsoft/TypeScript/blob/main/README.md","each","entry","each","false","a. 每个, 每一
+adv. 每个
+pron. 每个, 个人, 各自"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","discord","entry","discord","false","n. 不调和, 不和
+vi. 不一致, (声音)刺耳"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","join","entry","join","true","连接
+按条件将多个关系的数据组合起来。
+[计] 连接; 汇合指令
+vi. 参加, 结合, 加入
+vt. 连接, 结合, 参加, 加入
+n. 连接, 结合, 接合点
+[计] 连接; 汇合指令"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","discussion","entry","discussion","false","n. 讨论"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","bug","entry","bug","true","程序缺陷
+导致程序行为与预期不符的问题。
+[计] 缺点, 错误
+n. 错误, 虫, 病菌, 缺陷, 窃听器, 癖好, 防盗报警器, 双座小汽车, 要人
+vt. 装防盗报警器, 装窃听器, 激怒
+vi. 捉虫, 暴突
+[计] 缺点, 错误"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","this","entry","this","false","pron. 这, 本
+a. 这, 本
+adv. 这么"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","project","entry","project","false","n. 计划, 设计, 事业
+vt. 计划, 设计, 投掷, 发射, 使凸出, 放映
+vi. 凸出"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","has","entry","has","false","have的第三人称单数现在式"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","adopted","entry","adopted","false","a. 被收养的, 被采用的"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","microsoft","entry","Microsoft","false","n. (美国)微软公司
+[电] 微软公司"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","open","entry","open","true","[计] 打开指令; 打开语句
+n. 公开, 户外, 空旷
+a. 开着的, 开放的, 开阔的, 营业着的, 公开的, 悬而未决的
+vt. 打开, 公开, 开放
+vi. 展开, 开始, 展现
+[计] 打开指令; 打开语句"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","conduct","entry","conduct","false","n. 行为, 举动, 指导
+vt. 为人, 指挥, 管理, 实施
+vi. 领导, 传导, 指挥"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","more","entry","more","true","[计] DOS外部命令:显示满屏后自动暂停, 并显示:""--More--"", 按任意键继续
+n. 更多
+a. 多的, 程度较大的, 更大的
+adv. 多, 更多, 进一步
+[计] DOS外部命令:显示满屏后自动暂停, 并显示:""--More--"", 按任意键继续"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","information","entry","information","true","[计] 信息
+n. 消息, 知识, 通知, 情报, 信息, 问讯处, 起诉
+[计] 信息"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","see","entry","see","false","vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意
+vi. 看, 观看, 注意, 知道, 考虑
+n. 主教的职位"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","faq","entry","FAQ","true","[计] 常见问题文本
+中等品, 码头交货(价格)
+[计] 常见问题文本"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","contact","entry","contact","false","n. 联系, 交际, 熟人, 接触
+vi. 接触, 联系
+vt. 使接触"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","opencode","missing","","false",""
+"https://github.com/microsoft/TypeScript/blob/main/README.md","com","entry","COM","true","[计] 计算机输出缩微胶片; 计算机输出胶片缩微机
+[计] 计算机输出缩微胶片; 计算机输出胶片缩微机"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","additional","entry","additional","false","a. 附加的, 另外的, 额外的
+[机] 加添的, 附加的"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","questions","entry","question","true","[计] 询问
+n. 问题, 询问
+v. 询问, 审问, 怀疑
+[计] 询问"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","comments","entry","comment","true","[计] 备注
+n. 注解, 批评, 评论, 备注
+vi. 评论, 注解
+[计] 备注"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","documentation","entry","documentation","true","[计] 文件编制, 文档
+n. (总称)文件
+[计] 文件编制, 文档"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","minutes","entry","minutes","false","n. 会议记录
+[法] 备忘录, 会议记录, 审判记录"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","programming","entry","programming","true","[计] 程序设计; 程序编制
+n. 节目的计划, 编制程序
+[计] 程序设计; 程序编制"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","handbook","entry","handbook","true","[计] 手册
+n. 手册
+[计] 手册"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","homepage","entry","homepage","false","n. 主页"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","roadmap","entry","roadmap","false","n. 路标"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","details","entry","detail","true","[计] 详细数据
+n. 细节, 详情
+vt. 详述, 选派
+vi. 画详图
+[计] 详细数据"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","planned","entry","planned","false","a. 计划了的, 预定的, 根据计划的, 有组织的
+[法] 有计划的, 计划的, 有秩序的"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","features","entry","feature","true","[计] 特性
+n. 面孔的一部分(如眼、口等), 特征, 容貌, 特色, 特写
+vt. 是...的特色, 特写, 放映
+vi. 起重要作用
+[计] 特性"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","future","entry","future","false","n. 未来, 将来
+a. 将来的, 未来的"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","direction","entry","direction","true","[计] 方向; 流向
+n. 方向, 指导, 趋势
+[计] 方向; 流向"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","please","entry","please","false","adv. 请
+vt. 使高兴, 合...的心意, 取悦
+vi. 使人满意, 讨好, 愿意, 敬请"
+"https://github.com/microsoft/TypeScript/blob/main/README.md","refer","entry","refer","false","vt. 提交, 归诸于, 把...提交, 使求助于
+vi. 提到, 涉及, 查阅, 查询, 咨询"
+"https://github.com/redis/redis/blob/unstable/README.md","this","entry","this","false","pron. 这, 本
+a. 这, 本
+adv. 这么"
+"https://github.com/redis/redis/blob/unstable/README.md","document","entry","document","true","[计] 文档
+n. 文件, 公文, 文档
+vt. 证明, 为...引证
+[计] 文档"
+"https://github.com/redis/redis/blob/unstable/README.md","serves","entry","serves","false","v. （为…）服务( serve的第三人称单数 ); 任（职）; 提供; 端上"
+"https://github.com/redis/redis/blob/unstable/README.md","both","entry","both","false","a. 两者的
+adv. 两者都
+pron. 两者"
+"https://github.com/redis/redis/blob/unstable/README.md","quick","entry","quick","false","a. 快的, 迅速的, 敏捷的, 灵敏的, 急速的
+adv. 快
+n. 新长出的肉, 要害, 核心, 感觉敏锐部位"
+"https://github.com/redis/redis/blob/unstable/README.md","start","entry","start","true","[计] 起始
+n. 惊起, 出发, 开端, 起点, 吃惊, 有利条件
+vi. 开始, 出发, 启动, 跳起, 吃惊, 出现, 松动, 脱落, 起价, 参赛
+vt. 使惊起, 开动, 发动, 启动, 开始, 创办, 提议, 使松动, 使脱落, 起用
+[计] 起始"
+"https://github.com/redis/redis/blob/unstable/README.md","guide","entry","guide","true","[计] 辅助线
+n. 引导者, 导游, 指南, 路标
+vt. 指导, 支配, 管理, 带领, 操纵
+vi. 任向导
+[计] 辅助线"
+"https://github.com/redis/redis/blob/unstable/README.md","redis","entry","Redis","true","Redis 数据存储
+以内存数据结构为核心的数据存储，可用于缓存等场景，也支持持久化。"
+"https://github.com/redis/redis/blob/unstable/README.md","and","entry","and","true","[计] 与
+conj. 和, 与
+[计] 与"
+"https://github.com/redis/redis/blob/unstable/README.md","detailed","entry","detail","true","[计] 详细数据
+n. 细节, 详情
+vt. 详述, 选派
+vi. 画详图
+[计] 详细数据"
+"https://github.com/redis/redis/blob/unstable/README.md","resource","entry","resource","true","[计] 资源
+n. 资源, 财力, 办法, 策略, 急智, 消遣
+[计] 资源"
+"https://github.com/redis/redis/blob/unstable/README.md","for","entry","for","true","[计] DOS批处理命令:对一组参数重复执行指定的命令
+prep. 为, 因为, 至于
+conj. 因为
+[计] DOS批处理命令:对一组参数重复执行指定的命令"
+"https://github.com/redis/redis/blob/unstable/README.md","building","entry","build","true","构建
+把源代码及相关资源处理成可运行或可发布产物的过程。
+v. 建立, 建筑
+n. 构造, 体格"
+"https://github.com/redis/redis/blob/unstable/README.md","from","entry","from","false","prep. 从, 来自, 根据"
+"https://github.com/redis/redis/blob/unstable/README.md","source","entry","source","true","[计] 来源, 源程序
+n. 来源, 水源, 根源, 原始资料, 源
+[计] 来源, 源程序"
+"https://github.com/redis/redis/blob/unstable/README.md","new","entry","new","false","a. 新的, 陌生的, 最近的, 不熟悉的
+[法] 新发现的, 新的, 重新开始的"
+"https://github.com/redis/redis/blob/unstable/README.md","with","entry","with","false","prep. 和...在一起, 以, 由于"
+"https://github.com/redis/redis/blob/unstable/README.md","what","entry","what","false","pron. 什么
+interj. 怎么, 多么
+a. 什么的
+adv. 到什么程度"
+"https://github.com/redis/redis/blob/unstable/README.md","getting","entry","get","true","[计] 取得指令, 获取文件
+vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上
+vi. 到达, 成为, 变得
+n. (网球等)救球, 生殖, 幼兽
+[计] 取得指令, 获取文件"
+"https://github.com/redis/redis/blob/unstable/README.md","started","entry","start","true","[计] 起始
+n. 惊起, 出发, 开端, 起点, 吃惊, 有利条件
+vi. 开始, 出发, 启动, 跳起, 吃惊, 出现, 松动, 脱落, 起价, 参赛
+vt. 使惊起, 开动, 发动, 启动, 开始, 创办, 提议, 使松动, 使脱落, 起用
+[计] 起始"
+"https://github.com/redis/redis/blob/unstable/README.md","ready","entry","ready","false","n. 预备好的状态, 现款
+a. 准备好的, 备用的, 可以使用的
+adv. 预先, 迅速
+vt. 使准备好"
+"https://github.com/redis/redis/blob/unstable/README.md","build","entry","build","true","构建
+把源代码及相关资源处理成可运行或可发布产物的过程。
+v. 建立, 建筑
+n. 构造, 体格"
+"https://github.com/redis/redis/blob/unstable/README.md","jump","entry","jump","true","[计] 转移, 跳转
+n. 跳跃, 跳动, 暴涨, 惊跳
+vt. 跳跃, 跃过, 突升, 使跳跃
+vi. 跳跃, 跳, 跳动, 暴涨
+[计] 转移, 跳转"
+"https://github.com/redis/redis/blob/unstable/README.md","want","entry","want","false","n. 需要的东西, 缺乏, 贫困, 需要
+vt. 要, 希望, 应该, 缺少
+vi. 生活困苦, 需要, 缺少"
+"https://github.com/redis/redis/blob/unstable/README.md","contribute","entry","contribute","false","vt. 有助于, 捐助, 投稿
+vi. 出力, 捐献, 投稿"
+"https://github.com/redis/redis/blob/unstable/README.md","see","entry","see","false","vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意
+vi. 看, 观看, 注意, 知道, 考虑
+n. 主教的职位"
+"https://github.com/redis/redis/blob/unstable/README.md","the","entry","the","false","art. 那"
+"https://github.com/redis/redis/blob/unstable/README.md","code","entry","code","true","[计] 代码
+n. 代码, 密码, 法规, 法典
+vt. 把...编码
+[计] 代码"
+"https://github.com/redis/redis/blob/unstable/README.md","contributions","entry","contributions","false","n. 贡献；出资"
+"https://github.com/redis/redis/blob/unstable/README.md","section","entry","section","true","[计] 扇区
+n. 区段, 部分, 区域, 节, 截面, 处, 科, 区, 扇区
+vt. 把...分段, 把...切片
+vi. 被切成片
+[计] 扇区"
+"https://github.com/redis/redis/blob/unstable/README.md","contributing","entry","contributing","false","a. 贡献的, 起一份作用的"
+"https://github.com/redis/redis/blob/unstable/README.md","looking","entry","looking","false","a. 有…相貌的；有…样子的"
+"https://github.com/redis/redis/blob/unstable/README.md","documentation","entry","documentation","true","[计] 文件编制, 文档
+n. (总称)文件
+[计] 文件编制, 文档"
+"https://github.com/redis/redis/blob/unstable/README.md","navigate","entry","navigate","false","vi. 航行
+vt. 航行于, 驾驶, 操纵, 使通过"
+"https://github.com/redis/redis/blob/unstable/README.md","docs","entry","DOC","true","[计] 通信部, 数字输出控制, 文档
+[计] 通信部, 数字输出控制, 文档
+[医] 脱氧皮质酮"
+"https://github.com/redis/redis/blob/unstable/README.md","table","entry","table","true","[计] 表格, 模拟运算表
+n. 桌子, 餐桌, 工作台, 铭文, 表格, 表, 高原, 平地层
+vt. 搁置, 嵌合, 制表, 把...列入议事日程
+[计] 表格, 模拟运算表"
+"https://github.com/redis/redis/blob/unstable/README.md","contents","entry","contents","true","[计] 目录
+n. 目录
+[计] 目录"
+"https://github.com/redis/redis/blob/unstable/README.md","key","entry","key","true","[计] 键, 密钥
+n. 钥匙, 键, 解答, 关键, 要害, 基调, 线索, 答案, 暗礁
+vt. 调音, 锁上, 提供线索
+vi. 使用钥匙
+[计] 键, 密钥"
+"https://github.com/redis/redis/blob/unstable/README.md","use","entry","use","false","n. 使用, 习惯, 使用价值, 用法, 使用权
+vt. 使用, 利用, 运用, 耗费
+vi. 惯常"
+"https://github.com/redis/redis/blob/unstable/README.md","cases","entry","cases","false","n. 案例；箱；情况（case的复数形式）"
+"https://github.com/redis/redis/blob/unstable/README.md","why","entry","why","false","adv. 为什么
+n. 原因, 理由"
+"https://github.com/redis/redis/blob/unstable/README.md","choose","entry","choose","true","[计] 选取
+vt. 选择, 宁愿, 欲
+vi. 作出选择, 愿意
+[计] 选取"
+"https://github.com/redis/redis/blob/unstable/README.md","open","entry","open","true","[计] 打开指令; 打开语句
+n. 公开, 户外, 空旷
+a. 开着的, 开放的, 开阔的, 营业着的, 公开的, 悬而未决的
+vt. 打开, 公开, 开放
+vi. 展开, 开始, 展现
+[计] 打开指令; 打开语句"
+"https://github.com/redis/redis/blob/unstable/README.md","starter","entry","starter","true","[计] 启动程序, 启动器
+n. 开端者, 在起跑线上的人, 参加赛跑的人, 调度员, 起动机, 酵母
+[计] 启动程序, 启动器"
+"https://github.com/redis/redis/blob/unstable/README.md","projects","entry","projects","false","n. 项目；企划；工程（project的复数）"
+"https://github.com/redis/redis/blob/unstable/README.md","using","entry","using","true","[计] 使用
+[计] 使用"
+"https://github.com/redis/redis/blob/unstable/README.md","client","entry","client","true","[计] 客户, 客户机, 客户机程序
+n. 客户, 顾客, 委托人
+[计] 客户, 客户机, 客户机程序"
+"https://github.com/redis/redis/blob/unstable/README.md","libraries","entry","library","true","[计] 库
+n. 图书馆, 藏书, 库
+[计] 库"
+"https://github.com/redis/redis/blob/unstable/README.md","redis-cli","entry","redis-cli","true","Redis 命令行客户端
+连接 Redis 服务并执行命令的官方命令行工具。"
+"https://github.com/redis/redis/blob/unstable/README.md","insight","entry","insight","false","n. 察看, 洞察力, 见识
+[医] 自知力, 洞察, 顿悟"
+"https://github.com/redis/redis/blob/unstable/README.md","data","entry","data","true","[计] 数据; DOS内部命令:用于显示或设定系统的日期
+pl. 资料, 数据
+[计] 数据; DOS内部命令:用于显示或设定系统的日期"
+"https://github.com/redis/redis/blob/unstable/README.md","types","entry","type","true","[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容
+n. 类型, 样式, 典型, 榜样, 标志, 符号, 型, 式
+vi. 打字
+vt. 作为代表, 测定类型, 用打字机打
+[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容"
+"https://github.com/redis/redis/blob/unstable/README.md","processing","entry","process","true","进程
+拥有执行状态和系统资源的程序运行实例。
+[计] 进程
+n. 程序, 进行, 过程
+vt. 加工, 使...接受处理, 对...处置, 对...起诉
+a. 经加工的, 有特殊光效的
+[计] 进程"
+"https://github.com/redis/redis/blob/unstable/README.md","engines","entry","engines","false","n. 火车头；发动机, 引擎（engine的复数形式）"
+"https://github.com/redis/redis/blob/unstable/README.md","capabilities","entry","capabilities","false","n. 能力( capability的名词复数 ); 可能; 容量; [复数]潜在能力"
+"https://github.com/redis/redis/blob/unstable/README.md","cloud","entry","cloud","false","n. 云, 阴暗, 烟雾, 疑团
+vt. 以云遮敝, 笼罩, 使黯然
+vi. 乌云密布, 阴沉"
+"https://github.com/redis/redis/blob/unstable/README.md","hosted","entry","host","true","宿主／主机
+在编程语言语境中可指提供运行环境与附加能力的宿主；网络语境中也常指主机。
+[计] 主机, 宿主机
+n. 主人, 旅馆老板, 节目主持人
+vt. 当主人招待, 作...节目主持人
+[计] 主机, 宿主机"
+"https://github.com/redis/redis/blob/unstable/README.md","community","entry","community","false","n. 社区, 公众, 共有, 共同体
+[经] 公众, 共有, 社会"
+"https://github.com/redis/redis/blob/unstable/README.md","install","entry","install","true","[计] 安装, 安装程序; DOS内部命令:安装常驻程序
+vt. 安装, 安置, 使就职
+[计] 安装, 安装程序; DOS内部命令:安装常驻程序"
+"https://github.com/redis/redis/blob/unstable/README.md","dependencies","entry","dependency","true","依赖
+项目需要使用的其他库、模块或工具。
+n. 属国, 保护地, 从属物
+[医] 从属, 从属部"
+"https://github.com/redis/redis/blob/unstable/README.md","flags","entry","flag","true","[计] 标志; 属性标记命令
+n. 标志, 旗标, 旗子, 信号旗, 菖蒲
+vt. 悬旗, 打旗号, 铺石板
+vi. 无力地下垂
+[计] 标志; 属性标记命令"
+"https://github.com/redis/redis/blob/unstable/README.md","general","entry","general","true","[计] 常规
+n. 一般, 将军, 大体
+a. 全面的, 大体的, 总的, 一般的, 普遍的
+n. 常规
+[计] 常规"
+"https://github.com/redis/redis/blob/unstable/README.md","notes","entry","notes","false","n. 票据；注释, 说明（note复数）"
+"https://github.com/redis/redis/blob/unstable/README.md","fixing","entry","fixing","false","n. 固定, 稳固, 设备, 调料
+[医] 固定"
+"https://github.com/redis/redis/blob/unstable/README.md","problems","entry","problems","false","n. 问题；难题（problem的复数）"
+"https://github.com/redis/redis/blob/unstable/README.md","cached","entry","cache","true","缓存
+保存可复用结果，以减少重复计算或读取。
+[计] 高速缓冲存储器, 高速缓冲
+n. 隐藏所, 隐藏的粮食或物资, 贮藏物, 高速缓冲存储器
+vt. 隐藏, 窖藏
+[计] 高速缓冲存储器, 高速缓冲"
+"https://github.com/redis/redis/blob/unstable/README.md","options","entry","option","true","[计] 选项
+n. 选择权, 挑选, 选项
+[计] 选项"
+"https://github.com/redis/redis/blob/unstable/README.md","bit","entry","bit","true","[计] 比特, 二进制数位, 机内测试
+n. 少量, 马嚼子, 辅币
+vt. 给马上嚼子, 控制
+bite的过去式和过去分词
+[计] 比特, 二进制数位, 机内测试"
+"https://github.com/redis/redis/blob/unstable/README.md","binaries","entry","binary","true","[计] 二进制的; 二态的; 二进制, 二进制文件传输类型设置命令
+a. 由两部分组成的, 二进位的, 二元的
+[计] 二进制的; 二态的; 二进制, 二进制文件传输类型设置命令"
+"https://github.com/redis/redis/blob/unstable/README.md","allocator","entry","allocator","true","[计] 分配符
+[计] 分配符"
+"https://github.com/redis/redis/blob/unstable/README.md","monotonic","entry","monotonic","false","a. 单调的"
+"https://github.com/redis/redis/blob/unstable/README.md","clock","entry","clock","true","[计] 时钟
+n. 时钟, 计时器, (袜子上的)绣花边花
+vt. 绣花样, 记时, 记录
+vi. 记录时间
+[计] 时钟"
+"https://github.com/redis/redis/blob/unstable/README.md","verbose","entry","verbose","true","[计] 详述
+a. 用字多的, 冗长的, 累赘的
+[计] 详述"
+"https://github.com/redis/redis/blob/unstable/README.md","running","entry","run","true","[计] 运行
+n. 跑, 赛跑, 奔跑, 奔跑的路程, 趋向, 流出, 运转时间, 连续
+vi. 跑, 奔跑, 跑步, 赛跑, 竞赛, 行驶, 运转, 进行, 蔓延
+vt. 使跑, 参赛, 追究, 驾驶, 开动, 管理, 经营, 使流出, 运行
+a. 熔化的, 融化的, 浇铸的
+run的过去式和过去分词
+[计] 运行"
+"https://github.com/redis/redis/blob/unstable/README.md","tls","entry","TLS","true","传输层安全协议
+为通信提供机密性、完整性和身份认证机制。
+abbr. 坦克激光瞄准镜（Tank Laser-Sight）"
+"https://github.com/redis/redis/blob/unstable/README.md","trademarks","entry","trademarks","false","n. （注册）商标( trademark的复数形式 ); （人的行为或衣着的）特征, 标记"
+"https://github.com/redis/redis/blob/unstable/README.md","developers","entry","developer","true","[计] 显影器
+n. 开发者
+[计] 显影器"
+"https://github.com/redis/redis/blob/unstable/README.md","who","entry","who","false","pron. 谁"
+"https://github.com/redis/redis/blob/unstable/README.md","are","entry","are","false","be的现在时复数或第二人称单数"
+"https://github.com/redis/redis/blob/unstable/README.md","real-time","entry","real-time","false","[电] 即时"
+"https://github.com/redis/redis/blob/unstable/README.md","data-driven","entry","data-driven","true","[计][修]数据驱动
+[计][修]数据驱动"
+"https://github.com/redis/redis/blob/unstable/README.md","applications","entry","application","true","[计] 应用, 应用程序
+n. 应用, 申请, 志愿书, 应用程序
+[计] 应用, 应用程序"
+"https://github.com/redis/redis/blob/unstable/README.md","preferred","entry","preferred","true","[计] 首选的
+a. 首选的
+[计] 首选的"
+"https://github.com/redis/redis/blob/unstable/README.md","fastest","entry","fastest","false","a. 最快速的（far 的最高级）"
+"https://github.com/redis/redis/blob/unstable/README.md","most","entry","most","false","n. 最多, 最大
+a. 大多数的, 几乎全部的, 最多的
+adv. 最, 最多, 极其"
+"https://github.com/redis/redis/blob/unstable/README.md","feature-rich","identifier","","false",""
+"https://github.com/redis/redis/blob/unstable/README.md","cache","entry","cache","true","缓存
+保存可复用结果，以减少重复计算或读取。
+[计] 高速缓冲存储器, 高速缓冲
+n. 隐藏所, 隐藏的粮食或物资, 贮藏物, 高速缓冲存储器
+vt. 隐藏, 窖藏
+[计] 高速缓冲存储器, 高速缓冲"
+"https://github.com/redis/redis/blob/unstable/README.md","structure","entry","structure","false","n. 结构, 构造, 建筑物
+vt. 构成, 组织"
+"https://github.com/redis/redis/blob/unstable/README.md","server","entry","server","true","[计] 服务器, 服务器启动程序, 服务台程序
+n. 服伺者, 上菜用具, 发球员
+n. 服务器
+[计] 服务器, 服务器启动程序, 服务台程序"
+"https://github.com/redis/redis/blob/unstable/README.md","vector","entry","vector","true","向量／动态数组
+数值向量由一组有序数构成，常用于向量检索；C++ 的 std::vector 则是动态数组容器。
+[计] 矢量; 向量
+n. 矢量, 传病媒介
+vt. (用无线电)导引, 给...导航
+[计] 矢量; 向量"
+"https://github.com/redis/redis/blob/unstable/README.md","query","entry","query","true","查询
+请求数据库检索或处理数据的操作或语句。
+[计] 查询
+n. 疑问, 疑问号, 质问, 查询
+v. 询问, 质问
+[计] 查询"
+"https://github.com/redis/redis/blob/unstable/README.md","engine","entry","engine","false","n. 引擎, 发动机, 机车
+vt. 安装发动机于"
+"https://github.com/redis/redis/blob/unstable/README.md","excels","entry","excels","false","v. 优于, 擅长( excel的第三人称单数 ); 胜过平时"
+"https://github.com/redis/redis/blob/unstable/README.md","various","entry","various","false","a. 不同的, 各种的, 多方面的, 许多的, 个别的, 杂色的
+[法] 不同的, 种种的, 各式各样的"
+"https://github.com/redis/redis/blob/unstable/README.md","including","entry","include","true","[计] DOS内部命令:在CONFIG.SYS文件的一个配置块中包含另一配置块的内容
+vt. 包括, 把...算入, 包住
+[计] DOS内部命令:在CONFIG.SYS文件的一个配置块中包含另一配置块的内容"
+"https://github.com/redis/redis/blob/unstable/README.md","caching","entry","caching","true","[计] 超高速缓存
+[计] 超高速缓存"
+"https://github.com/redis/redis/blob/unstable/README.md","supports","entry","support","true","[计] 后援; 支持
+n. 支持, 支撑, 援助, 供养, 支撑物
+vt. 支援, 支撑, 帮助, 支持, 忍受, 供养, 证实
+[计] 后援; 支持"
+"https://github.com/redis/redis/blob/unstable/README.md","multiple","entry","multiple","false","n. 倍数, 并联
+a. 多样的, 许多的, 多功能的"
+"https://github.com/redis/redis/blob/unstable/README.md","eviction","entry","eviction","false","n. 逐出, 赶出
+[法] 收回财产, 收回租地, 没收"
+"https://github.com/redis/redis/blob/unstable/README.md","policies","entry","policies","false","n. 政策；保险单（policy的复数）"
+"https://github.com/redis/redis/blob/unstable/README.md","expiration","entry","expiration","false","n. 终止, 满期, 呼出, 呼气
+[医] 呼[气], 断气, 死亡"
+"https://github.com/redis/redis/blob/unstable/README.md","hash-field","identifier","","false",""
+"https://github.com/redis/redis/blob/unstable/README.md","distributed","entry","distributed","true","[计] 分散对齐, 分布式处理
+a. 分布式的
+[计] 分散对齐, 分布式处理"
+"https://github.com/redis/redis/blob/unstable/README.md","session","entry","session","true","[计] 会话, 对话, 会晤, 通用任务程序
+n. 期间, 开庭期, 会议, 学期
+[计] 会话, 对话, 会晤, 通用任务程序"
+"https://github.com/redis/redis/blob/unstable/README.md","store","entry","store","true","[计] 存储器操作; 存储
+n. 商店, 贮藏, 仓库, 备用品, 存储器
+vt. 储存, 贮藏, 供给
+vi. 贮藏
+a. 贮藏的, 现成的
+[计] 存储器操作; 存储"
+"https://github.com/redis/redis/blob/unstable/README.md","offers","entry","offers","false","n. 提议；出价；求婚；试图（offer的复数）"
+"https://github.com/redis/redis/blob/unstable/README.md","flexible","entry","flexible","false","a. 易曲的, 灵活的, 柔顺的, 能变形的, 可通融的
+[医] 能屈的"
+"https://github.com/redis/redis/blob/unstable/README.md","modeling","entry","modeling","true","[计] 建模, 模型化, 模拟
+n. 模特儿职业, 立体感
+[计] 建模, 模型化, 模拟"
+"https://github.com/redis/redis/blob/unstable/README.md","string","entry","string","true","字符串
+由字符组成的文本数据。
+[计] 字符串, 串
+n. 线, 细绳, 一串, 字符串
+vt. 串起, 成串, 收紧, 缚, 扎
+vi. 成一串
+[计] 字符串, 串"
+"https://github.com/redis/redis/blob/unstable/README.md","json","entry","JSON","true","JSON 数据交换格式
+使用对象、数组、字符串、数字等结构表示数据的文本格式。
+abbr. JavaScript对象符号（JavaScript Serialized Object Notation）"
+"https://github.com/redis/redis/blob/unstable/README.md","hash","entry","hash","true","哈希／字段映射
+算法中指将输入映射为哈希值；Redis Hash 是字段和值的集合，这两种语境需区分。
+n. 剁碎的食物, 杂乱无章的的一大堆, 杂烩, 复述
+vt. 切碎, 搞糟"
+"https://github.com/redis/redis/blob/unstable/README.md","provides","entry","provides","false","v. 提供, 供给, 供应( provide的第三人称单数 ); 规定; 提供[(+for)]; 装备"
+"https://github.com/redis/redis/blob/unstable/README.md","low-level","entry","low-level","false","a. 低水平的"
+"https://github.com/redis/redis/blob/unstable/README.md","structures","entry","structures","false","n. 结构；构筑物；业务方式（structure的复数）"
+"https://github.com/redis/redis/blob/unstable/README.md","strings","entry","string","true","字符串
+由字符组成的文本数据。
+[计] 字符串, 串
+n. 线, 细绳, 一串, 字符串
+vt. 串起, 成串, 收紧, 缚, 扎
+vi. 成一串
+[计] 字符串, 串"
+"https://github.com/redis/redis/blob/unstable/README.md","lists","entry","list","true","[计] 列表, 序列, 数据清单
+n. 目录, 名单, 明细表, 布条, 条纹, 列表, 序列, 数据清单
+vt. 列出, 列于表上, 记入名单内, 装布条
+vi. 列于表上
+[计] 列表, 序列, 数据清单"
+"https://github.com/redis/redis/blob/unstable/README.md","sets","entry","set","true","[计] 设置; DOS内部命令:改变或显示分配给环境变量的值
+n. 日落, 同伙, 组合, 集合, 装置
+vt. 放, 安置, 放置, 设定, 使凝结, 点燃, 确定, 点缀, 使就位, 树立, 分配, 调整
+vi. 日落, 凝固, 定型, 搁住, 结果, 适合
+a. 决心的, 规定的, 故意的, 持久的, 固定的, 老套的, 准备好的
+[计] 设置; DOS内部命令:改变或显示分配给环境变量的值"
+"https://github.com/redis/redis/blob/unstable/README.md","hashes","entry","hash","true","哈希／字段映射
+算法中指将输入映射为哈希值；Redis Hash 是字段和值的集合，这两种语境需区分。
+n. 剁碎的食物, 杂乱无章的的一大堆, 杂烩, 复述
+vt. 切碎, 搞糟"
+"https://github.com/redis/redis/blob/unstable/README.md","sorted","entry","sort","true","排序
+按指定规则重新排列元素。
+[计] 排序; DOS外部命令:从标准输入设备接收数据, 整个数据输入完后
+n. 种类, 方式, 品质, 态度, 举止
+vt. 分类, 排序, 挑选
+vi. 交往, 协调
+[计] 排序; DOS外部命令:从标准输入设备接收数据, 整个数据输入完后
+对它以行为单位进行排序, 然后在标准输出设备上输出"
+"https://github.com/redis/redis/blob/unstable/README.md","etc","entry","etc","false","及其他, 等等"
+"https://github.com/redis/redis/blob/unstable/README.md","high-level","entry","high-level","false","a. 在高空的, 高级的, 高阶层的"
+"https://github.com/redis/redis/blob/unstable/README.md","semantics","entry","semantics","false","n. [语]语义学；语义论"
+"https://github.com/redis/redis/blob/unstable/README.md","counters","entry","counter","true","[计] 计数器; 计数字
+n. 计算器, 计算者, 柜台, 筹码
+a. 反方向的, 相反的
+adv. 反方向地, 相反地
+[计] 计数器; 计数字"
+"https://github.com/redis/redis/blob/unstable/README.md","queues","entry","queue","true","队列
+通常指先进先出的数据结构。
+[计] 队列
+n. 辫子, 一队人, 队列
+vt. 使排队, 将...梳成辫子
+vi. 排队
+[计] 队列"
+"https://github.com/redis/redis/blob/unstable/README.md","leaderboards","entry","leaderboards","false","(leaderboard 的复数) n. （尤指高尔夫锦标赛的）选手积分榜"
+"https://github.com/redis/redis/blob/unstable/README.md","rate","entry","rate","false","n. 比率, 率, 速度, 价格, 费用, 等级
+vt. 估价, 认为, 鉴定等级, 责骂
+vi. 被评价, 责骂"
+"https://github.com/redis/redis/blob/unstable/README.md","limiters","entry","limiters","true","[计] 限幅器
+(limiter 的复数) n. 限制物, 限幅器
+[计] 限幅器"
+"https://github.com/redis/redis/blob/unstable/README.md","transactions","entry","transaction","true","事务
+把一组数据库操作作为一个整体提交或回滚。
+[计] 事务处理
+n. 交易, 办理, 学报, 和解协议
+[计] 事务处理"
+"https://github.com/redis/redis/blob/unstable/README.md","scripting","entry","script","true","[计] 手写体, 小型程序
+n. 手迹, 手稿, 正本, 手写体
+vt. 改编为演出本
+[计] 手写体, 小型程序"
+"https://github.com/redis/redis/blob/unstable/README.md","nosql","entry","NoSQL","true","非关系型数据库类别
+通常指文档、键值、图等多种数据模型的数据库，不代表完全不能使用 SQL。"
+"https://github.com/redis/redis/blob/unstable/README.md","key-value","identifier","","false",""
+"https://github.com/redis/redis/blob/unstable/README.md","time","entry","time","true","[计] DOS内部命令:用于显示或设定系统的时间
+n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间
+vt. 测定...的时间, 记录...的时间, 计时, 定时
+a. 时间的, 记时的, 定时的, 定期的, 分期的
+[计] DOS内部命令:用于显示或设定系统的时间"
+"https://github.com/redis/redis/blob/unstable/README.md","series","entry","series","true","[计] 系列
+n. 串联, 序列, 连续, 系列, 丛书, 套, 级数, 组
+[计] 系列"
+"https://github.com/redis/redis/blob/unstable/README.md","storage","entry","storage","true","[计] 存放处; 存储
+n. 存储器, 储藏, 保管, 库存, 仓库
+[计] 存放处; 存储"
+"https://github.com/redis/redis/blob/unstable/README.md","search","entry","search","true","[计] 搜索, 路径检索程序
+n. 搜寻, 查究
+v. 搜寻, 搜查, 探求, 调查, 搜索
+[计] 搜索, 路径检索程序"
+"https://github.com/redis/redis/blob/unstable/README.md","indexing","entry","index","true","索引；Git 暂存区
+Git 中 index 记录准备提交的文件状态；在数据库中 index 通常指加速查询的索引结构。
+[计] 下标; 附标; 变址; 索引; 编索引
+n. 索引, 指针, 指数, 指标
+vt. 编入索引中, 指出
+vi. 做索引
+[计] 下标; 附标; 变址; 索引; 编索引"
+"https://github.com/redis/redis/blob/unstable/README.md","documents","entry","document","true","[计] 文档
+n. 文件, 公文, 文档
+vt. 证明, 为...引证
+[计] 文档"
+"https://github.com/redis/redis/blob/unstable/README.md","supporting","entry","support","true","[计] 后援; 支持
+n. 支持, 支撑, 援助, 供养, 支撑物
+vt. 支援, 支撑, 帮助, 支持, 忍受, 供养, 证实
+[计] 后援; 支持"
+"https://github.com/redis/redis/blob/unstable/README.md","full-text","identifier","","false",""
+"https://github.com/redis/redis/blob/unstable/README.md","geospatial","entry","geospatial","false","n. 地理空间"
+"https://github.com/redis/redis/blob/unstable/README.md","queries","entry","query","true","查询
+请求数据库检索或处理数据的操作或语句。
+[计] 查询
+n. 疑问, 疑问号, 质问, 查询
+v. 询问, 质问
+[计] 查询"
+"https://github.com/redis/redis/blob/unstable/README.md","ranking","entry","rank","true","[计] 秩
+n. 等级, 排, 横列, 队伍, 阶级
+a. 茂密丛生的, 恶臭的, 十足的, 粗俗的
+vt. 排列, 归类于, 把...分等
+vi. 列为, 列队
+n. 秩
+[计] 秩"
+"https://github.com/redis/redis/blob/unstable/README.md","aggregations","entry","aggregations","false","(aggregation 的复数) n. 集合, 聚合, 集合体
+[化] 聚集; 聚集作用"
+"https://github.com/redis/redis/blob/unstable/README.md","via","entry","via","false","prep. 经由, 经过, 通过
+[医] 病毒灭活剂"
+"https://github.com/redis/redis/blob/unstable/README.md","event","entry","event","true","[计] 事件
+n. 事件, 结果, 事情的进程, 竞赛项目
+[计] 事件"
+"https://github.com/redis/redis/blob/unstable/README.md","message","entry","message","true","[计] 报文; 消息; 信息
+n. 消息, 通讯, 讯息, 教训, 预言, 广告词
+vt. 通知
+vi. 通报, 报告, 报信
+[计] 报文; 消息; 信息"
+"https://github.com/redis/redis/blob/unstable/README.md","broker","entry","broker","false","n. 掮客, 经纪人
+[经] 经纪人, 掮客"
+"https://github.com/redis/redis/blob/unstable/README.md","implements","entry","implements","false","n. 甪具；工具（implement的复数）"
+"https://github.com/redis/redis/blob/unstable/README.md","priority","entry","priority","true","[计] 优先级
+n. 优先权, 优先
+[计] 优先级"
+"https://github.com/redis/redis/blob/unstable/README.md","deduplication","entry","deduplication","false","[医]劈分, 两分"
+"https://github.com/redis/redis/blob/unstable/README.md","streams","entry","stream","true","流／事件日志结构
+泛指按顺序处理的数据；Redis Stream 是类似追加式日志的数据结构，用于记录和处理事件。
+[计] 流
+n. 水流, 小河, 流出, 趋势, 人潮
+vt. 流出, 流动, 展开
+vi. 流, 涌, 飘扬
+[计] 流"
+"https://github.com/redis/redis/blob/unstable/README.md","pub","entry","pub","false","n. 酒馆, 客栈"
+"https://github.com/redis/redis/blob/unstable/README.md","sub","entry","sub","true","[计] 子程式, 用户, 代替, 减法器
+n. 补充人员, 部下, 潜水艇, 胶层, 订户, 傻子
+a. 附属的, 次级的
+vt. 替代, 转包
+vi. 替代
+[计] 子程式, 用户, 代替, 减法器"
+"https://github.com/redis/redis/blob/unstable/README.md","probabilistic","entry","probabilistic","true","[计] 概率性的
+[计] 概率性的"
+"https://github.com/redis/redis/blob/unstable/README.md","stream","entry","stream","true","流／事件日志结构
+泛指按顺序处理的数据；Redis Stream 是类似追加式日志的数据结构，用于记录和处理事件。
+[计] 流
+n. 水流, 小河, 流出, 趋势, 人潮
+vt. 流出, 流动, 展开
+vi. 流, 涌, 飘扬
+[计] 流"
+"https://github.com/redis/redis/blob/unstable/README.md","genai","missing","","false",""
+"https://github.com/redis/redis/blob/unstable/README.md","integrates","entry","integrates","false","v. 使一体化( integrate的第三人称单数 ); 使整合; 使完整; 使结合成为整体"
+"https://github.com/redis/redis/blob/unstable/README.md","langgraph","missing","","false",""
+"https://github.com/redis/redis/blob/unstable/README.md","short-term","entry","short-term","false","a. 短期的"
+"https://github.com/redis/redis/blob/unstable/README.md","memory","entry","memory","true","[计] 存储器, 内存, 查看内存实用程序
+n. 记忆, 记忆力, 回忆, 纪念, 存储
+n. 内存
+[计] 存储器, 内存, 查看内存实用程序"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","this","entry","this","false","pron. 这, 本
+a. 这, 本
+adv. 这么"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","chapter","entry","chapter","true","[计] 章; 段
+n. 章, 篇, 重要章节
+[计] 章; 段"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","introduces","entry","introduces","false","介绍"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","javascript","entry","JavaScript","true","JavaScript 语言
+网页中广泛使用的脚本语言，也可在服务器环境运行。
+n. Java描述语言（一种程序语言）"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","and","entry","and","true","[计] 与
+conj. 和, 与
+[计] 与"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","discusses","entry","discusses","false","vt. 讨论；论述, 辩论"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","some","entry","some","false","pron. 一些, 一部分, 若干
+adv. 大约
+a. 一些的, 少许的, 某一的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","its","entry","its","false","pron. 它的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","fundamental","entry","fundamental","false","n. 基本原理, 原则, 基波
+a. 基本的, 重要的, 原音的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","concepts","entry","concepts","false","n. 概念, 观念；思想（concept复数形式）"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","what","entry","what","false","pron. 什么
+interj. 怎么, 多么
+a. 什么的
+adv. 到什么程度"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","you","entry","you","false","pron. 你, 你们"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","should","entry","should","false","aux. 应该, 将要"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","already","entry","already","false","adv. 已经, 早已"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","know","entry","know","false","v. 知道, 了解, 认识, 确信"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","guide","entry","guide","true","[计] 辅助线
+n. 引导者, 导游, 指南, 路标
+vt. 指导, 支配, 管理, 带领, 操纵
+vi. 任向导
+[计] 辅助线"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","assumes","entry","assumes","false","v. 取得（权力）( assume的第三人称单数 ); 假设; 假定; 呈现"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","have","entry","have","false","vt. 有, 怀有, 拿, 进行
+aux. 已经"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","the","entry","the","false","art. 那"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","following","entry","following","false","n. 下列各项, 部下, 追随者
+a. 下列的, 其次的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","basic","entry","basic","false","n. 基本原理, 要素, 基本规律
+a. 基本的, 碱性的
+(计算机)BASIC语言"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","background","entry","background","true","[计] 背景, 后台
+n. 背景, 背景资料
+[计] 背景, 后台"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","general","entry","general","true","[计] 常规
+n. 一般, 将军, 大体
+a. 全面的, 大体的, 总的, 一般的, 普遍的
+n. 常规
+[计] 常规"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","understanding","entry","understanding","false","n. 理解, 谅解
+[法] 协商, 协议, 谅解"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","internet","entry","internet","true","[计] 因特网, 国际互连网, 网际网络, 互连网络, 广域网
+[计] 因特网, 国际互连网, 网际网络, 互连网络, 广域网"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","world","entry","world","false","n. 世界, 地球, 宇宙, 万物, 世人, 人间, 领域, 世事, 世故, 社会生活, 大量
+[法] 世界, 地球, 世人"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","wide","entry","wide","false","a. 宽的, 广阔的, 普遍的, 宽阔的, 广泛的, 一般的
+adv. 广阔地, 遍及各处地, 广泛地
+n. 大千世界"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","web","entry","web","false","n. 网, 蛛丝, 蹼, 织物, 圈套, 卷筒纸
+vi. 结网, 形成网
+vt. 织蜘蛛网于, 使落入圈套"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","www","entry","WWW","true","[计] 全球信息网, WWW浏览器
+[计] 全球信息网, WWW浏览器"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","good","entry","good","false","n. 善行, 好处, 利益
+a. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","working","entry","working","false","n. 工作, 运转, 劳动
+a. 工作的, 劳动的, 经营的, 抽搐的, 运转的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","knowledge","entry","knowledge","false","n. 知识, 学问, 认识, 知道"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","hypertext","entry","hypertext","true","[计] 超文本系统
+[计] 超文本系统"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","markup","entry","markup","false","n. 涨价, 利润, 标高价"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","language","entry","language","true","[计] 语言
+n. 语言, 文字, 措辞
+[计] 语言"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","html","entry","HTML","true","超文本标记语言
+描述网页内容结构与语义的标记语言。
+[计] 超文本标记语言
+[计] 超文本标记语言"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","programming","entry","programming","true","[计] 程序设计; 程序编制
+n. 节目的计划, 编制程序
+[计] 程序设计; 程序编制"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","experience","entry","experience","false","n. 经历, 经验, 体验
+vt. 经历, 经验, 体验"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","are","entry","are","false","be的现在时复数或第二人称单数"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","new","entry","new","false","a. 新的, 陌生的, 最近的, 不熟悉的
+[法] 新发现的, 新的, 重新开始的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","try","entry","try","false","n. 尝试, 试验, 审理, 审判
+vt. 试, 尝试, 试验, 考验, 审问, 提炼
+vi. 尝试, 试图"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","one","entry","one","false","n. 一(个)
+pron. 一, 任何人
+num. 一, 一个
+a. 一致的, 完整的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","tutorials","entry","tutorial","true","[计] 教程
+n. 个别指导, 论文, 学习指南, 指导手册
+a. 个别指导的, 家庭教师的, 辅导的
+[计] 教程"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","linked","entry","link","true","[计] 连接, 链路
+n. 环, 连结物, 链接, 火把
+vt. 连结, 联合, 挽住
+vi. 连接起来
+[计] 连接, 链路"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","main","entry","main","true","[计] 主群组
+n. 主要部分, 干线, 体力, 力量, 主群组
+a. 主要的, 重要的, 全力的
+[计] 主群组"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","page","entry","page","true","内存页
+虚拟内存管理和映射所使用的固定大小单位。
+[计] 页; 页面
+n. 页, 记录, 事件, 专栏, 男侍
+vt. 标明...的页数, 翻...的书页, 分页排版, 呼叫, 侍候
+vi. 翻书页, 侍侯
+[计] 页; 页面"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","about","entry","about","false","prep. 在...周围, 大约, 有关, 关于
+adv. 大约, 四处, 在附近, 周围"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","where","entry","where","false","adv. 在哪里
+pron. 哪里
+n. 地点"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","find","entry","find","true","[计] 查找; DOS外部命令:在指定的文件或从键盘输入的文本行中
+vt. 发现, 感到, 找到, 认为, 得到
+vi. 裁决
+n. 发现
+[计] 查找; DOS外部命令:在指定的文件或从键盘输入的文本行中
+寻找指定的字符串, 将符合条件的行或行数输出到标准输出设备上"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","information","entry","information","true","[计] 信息
+n. 消息, 知识, 通知, 情报, 信息, 问讯处, 起诉
+[计] 信息"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","documentation","entry","documentation","true","[计] 文件编制, 文档
+n. (总称)文件
+[计] 文件编制, 文档"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","mdn","entry","mdn","false","abbr. median 中部，中央的，中线"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","includes","entry","include","true","[计] DOS内部命令:在CONFIG.SYS文件的一个配置块中包含另一配置块的内容
+vt. 包括, 把...算入, 包住
+[计] DOS内部命令:在CONFIG.SYS文件的一个配置块中包含另一配置块的内容"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","dynamic","entry","dynamic","true","[计] 动态的
+a. 动态的, 有活力的, 有力的, 动力的, 不断变化的
+n. 动力, 动态
+[计] 动态的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","scripting","entry","script","true","[计] 手写体, 小型程序
+n. 手迹, 手稿, 正本, 手写体
+vt. 改编为演出本
+[计] 手写体, 小型程序"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","with","entry","with","false","prep. 和...在一起, 以, 由于"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","provides","entry","provides","false","v. 提供, 供给, 供应( provide的第三人称单数 ); 规定; 提供[(+for)]; 装备"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","structured","entry","structured","true","[计] 结构的
+a. 有结构的
+[计] 结构的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","guides","entry","guide","true","[计] 辅助线
+n. 引导者, 导游, 指南, 路标
+vt. 指导, 支配, 管理, 带领, 操纵
+vi. 任向导
+[计] 辅助线"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","for","entry","for","true","[计] DOS批处理命令:对一组参数重复执行指定的命令
+prep. 为, 因为, 至于
+conj. 因为
+[计] DOS批处理命令:对一组参数重复执行指定的命令"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","beginners","entry","beginners","false","n. 初学者；生手；首创者（beginner的复数）"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","overview","entry","overview","true","[计] 概述
+n. 概述, 概观, 总的看法
+[计] 概述"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","objects","entry","object","true","对象
+通常指某个类的实例，持有状态并提供行为。
+[计] 对象
+n. 物体, 目标, 目的, 对象, 宾语, 客体
+vi. 反对, 抱反感
+vt. 提出...来反对
+[计] 对象"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","reference","entry","reference","true","引用／参考
+可指访问对象的引用、Git 引用或参考资料；C++ 引用是对象的别名，需结合语境判断。
+[计] 引用
+n. 参考, 索引, 参照
+vt. 给...加上参考资料
+vt. 引用
+vi. 引用
+[计] 引用"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","detailed","entry","detail","true","[计] 详细数据
+n. 细节, 详情
+vt. 详述, 选派
+vi. 画详图
+[计] 详细数据"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","material","entry","material","false","n. 材料, 物资, 素材, 布料, 资料
+a. 物质的, 肉体的, 重要的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","cross-platform","entry","cross-platform","false","n. 跨平台"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","object-oriented","entry","object-oriented","true","[计] 面向对象的
+[计] 面向对象的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","used","entry","used","false","a. 使用过的, 二手的, 习惯的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","make","entry","make","false","vt. 制造, 安排, 创造, 构成, 使得, 产生, 造成, 整理, 布置, 引起, 到达, 进行
+vi. 开始, 前进, 增大, 被制造, 被处理
+n. 制造, 构造, 性情"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","webpages","missing","","false",""
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","interactive","entry","interactive","true","[计] 交互, 人机对话的
+a. 相互作用的, 相互影响的
+[计] 交互, 人机对话的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","having","entry","having","false","n. 财产, 所有物"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","complex","entry","complex","false","n. 综合体, 情结, 络合物
+a. 复杂的, 组合的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","animations","entry","animation","true","[计] 动画
+n. 活泼, 生气, 激励, 卡通制作
+[计] 动画"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","clickable","entry","clickable","false","a. 可以点击的；可以打开的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","buttons","entry","button","true","[计] 按钮
+n. 钮扣, 按钮
+vi. 扣住
+vt. 钉钮扣于, 扣紧
+[计] 按钮"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","popup","entry","popup","false","[电] 跃上型"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","menus","entry","menu","true","[计] 菜单
+n. 菜单, (功能)选择单
+[计] 菜单"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","etc","entry","etc","false","及其他, 等等"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","there","entry","there","false","adv. 在那里"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","also","entry","also","false","adv. 也, 并且, 同样地"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","more","entry","more","true","[计] DOS外部命令:显示满屏后自动暂停, 并显示:""--More--"", 按任意键继续
+n. 更多
+a. 多的, 程度较大的, 更大的
+adv. 多, 更多, 进一步
+[计] DOS外部命令:显示满屏后自动暂停, 并显示:""--More--"", 按任意键继续"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","advanced","entry","advanced","false","a. 在前的, 高级的, 先进的, 年老的
+[法] 预付的, 预支的, 垫付的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","server","entry","server","true","[计] 服务器, 服务器启动程序, 服务台程序
+n. 服伺者, 上菜用具, 发球员
+n. 服务器
+[计] 服务器, 服务器启动程序, 服务台程序"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","side","entry","side","false","n. 旁边, 侧, 方面, 胁, 侧边, 血统
+a. 旁的, 侧的, 次要的
+vt. 同意, 支持
+vi. 支持, 赞助"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","versions","entry","version","true","[计] 版本
+n. 一种描述, 版本, 译文
+[计] 版本"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","such","entry","such","false","a. 如此的, 这样的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","node","entry","node","true","节点
+Kubernetes 中运行工作负载的工作机器。
+[计] 节点; 结点
+n. 节, 结节, 瘤
+[计] 节点; 结点"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","which","entry","which","false","pron. 哪一个, 那一个"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","allow","entry","allow","true","[计] 允许命令
+vt. 允许, 同意给予, 承认
+vi. 容许, 猜想
+[计] 允许命令"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","add","entry","add","true","[计] 加法
+vt. 增加, 添加, 附带说明, 计算...总和
+vi. 做加法, 积累而成, 增添
+[计] 加法"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","functionality","entry","functionality","true","[计] 功能性, 泛函性
+[计] 功能性, 泛函性
+[化] 官能度"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","website","entry","website","false","n. 网站（全球资讯网的主机站）"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","than","entry","than","false","conj. 比, 除...外
+prep. 比"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","downloading","entry","download","true","[计] 卸载, 下栽
+[计] 卸载, 下栽"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","files","entry","file","true","[计] 文件
+n. 档案, 公文箱, 文件夹, 文件, 卷宗, 锉刀
+vi. 列队行进, 用锉刀做
+vt. 归档, 申请, 锉, 琢磨
+[计] 文件"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","realtime","entry","realtime","false","a. 实时的；适时的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","collaboration","entry","collaboration","false","n. 合作, 勾结
+[法] 通敌卖国者, 奸细"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","between","entry","between","false","prep. 在...之间"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","multiple","entry","multiple","false","n. 倍数, 并联
+a. 多样的, 许多的, 多功能的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","computers","entry","computer","true","[计] 计算机
+n. 电脑, 电子计算机
+[计] 计算机"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","inside","entry","inside","false","n. 内部, 内脏, 内幕
+a. 内部的, 秘密的, 户内的
+adv. 在里面
+prep. 在...之内"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","host","entry","host","true","宿主／主机
+在编程语言语境中可指提供运行环境与附加能力的宿主；网络语境中也常指主机。
+[计] 主机, 宿主机
+n. 主人, 旅馆老板, 节目主持人
+vt. 当主人招待, 作...节目主持人
+[计] 主机, 宿主机"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","environment","entry","environment","true","[计] 环境
+n. 环境, 外界, 围绕
+[计] 环境"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","example","entry","example","false","n. 例子, 样本, 实例
+[化] 实例"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","browser","entry","browser","true","[计] 浏览程序
+n. 吃嫩叶的动物, 浏览书本的人
+[计] 浏览程序"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","can","entry","can","true","[计] 作废字符
+vt. 装罐
+n. 罐头, 容器
+aux. 能, 可以
+[计] 作废字符"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","connected","entry","connected","true","[计] 连接的
+a. 连接的, 连贯的, 有联系的, 关联的, 连结的, 有关系的
+[计] 连接的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","provide","entry","provide","false","vt. 提供, 供应, 规定, 预备
+vi. 作准备, 抚养, 规定"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","programmatic","entry","programmatic","false","a. 标题音乐的, 计划性的, 纲领性的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","control","entry","control","true","[计] 控制; 控制器
+n. 控制, 管理, 克制, 控制器, 操纵装置
+vt. 控制, 操纵, 抑制
+[计] 控制; 控制器"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","over","entry","over","false","adv. 结束, 越过, 从头到尾
+prep. 在...之上, 遍于...之上, 越过
+a. 上面的
+vt. 越过"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","them","entry","them","false","pron. 他们, 她们, 它们"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","contains","entry","contains","false","v. 包含；容纳；包含某字符串（contain的单三形式）"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","standard","entry","standard","true","[计] 标准
+n. 标准, 规格, 旗, 军旗, 本位
+a. 标准的, 合规格的
+[计] 标准"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","library","entry","library","true","[计] 库
+n. 图书馆, 藏书, 库
+[计] 库"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","array","entry","array","true","数组
+按索引访问的一组元素，通常连续存储。
+[计] 数组; 阵列
+n. 排列, 衣服, 大批, 军队
+vt. 布署, 打扮, 排列
+[计] 数组; 阵列"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","map","entry","map","true","映射；JavaScript Map
+映射保存键值关联；JavaScript 的 Map 对象按键存储值，不是地理地图。
+[计] 实用程序, 映射, 制造自动化协议
+n. 地图, 天体图, 映像
+vt. 映射, 绘制...地图, 计划
+[计] 实用程序, 映射, 制造自动化协议"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","math","entry","math","false","n. 数学"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","core","entry","CORE","true","[计] 内核, 核心网
+n. 核心, 果心, 要点
+vt. 挖...的核
+[计] 内核, 核心网"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","set","entry","set","true","[计] 设置; DOS内部命令:改变或显示分配给环境变量的值
+n. 日落, 同伙, 组合, 集合, 装置
+vt. 放, 安置, 放置, 设定, 使凝结, 点燃, 确定, 点缀, 使就位, 树立, 分配, 调整
+vi. 日落, 凝固, 定型, 搁住, 结果, 适合
+a. 决心的, 规定的, 故意的, 持久的, 固定的, 老套的, 准备好的
+[计] 设置; DOS内部命令:改变或显示分配给环境变量的值"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","elements","entry","element","true","[计] 部分; 成分; 单元; 码元; 元件; 元素; 单元
+n. 元件, 元素, 要素
+[计] 部分; 成分; 单元; 码元; 元件; 元素; 单元"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","operators","entry","operator","true","[计] 运算符
+n. 操作员, 行家, 经纪人, 算子, 运算符
+[计] 运算符"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","structures","entry","structures","false","n. 结构；构筑物；业务方式（structure的复数）"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","statements","entry","statement","true","[计] 程序语句; 语句
+n. 陈述, 指令, 声明
+[计] 程序语句; 语句"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","extended","entry","extend","true","[计] 扩展
+v. 扩充, 延伸, 伸展, 扩大
+[计] 扩展"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","variety","entry","variety","false","n. 多样, 种类, 变种, 杂耍
+[化] 变种"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","purposes","entry","purposes","false","n. 目的；意志（purpose的复数形式）"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","supplementing","entry","supplementing","false","[医]补"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","additional","entry","additional","false","a. 附加的, 另外的, 额外的
+[机] 加添的, 附加的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","extends","entry","extend","true","[计] 扩展
+v. 扩充, 延伸, 伸展, 扩大
+[计] 扩展"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","supplying","entry","supplying","false","n. 供应；补给"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","object","entry","object","true","对象
+通常指某个类的实例，持有状态并提供行为。
+[计] 对象
+n. 物体, 目标, 目的, 对象, 宾语, 客体
+vi. 反对, 抱反感
+vt. 提出...来反对
+[计] 对象"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","dom","entry","DOM","true","文档对象模型
+把文档表示为可由程序访问和修改的对象树。
+n. 师（对罗马天主教等修士的尊称）"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","client-side","entry","client-side","true","客户端的
+在客户端运行的逻辑，网页场景中通常指在浏览器中执行的部分。
+客户端"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","extensions","entry","extension","true","[计] 扩展名, 扩充名
+n. 延长, 扩充, 范围, 扩展名
+a. 伸缩的
+[计] 扩展名, 扩充名"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","application","entry","application","true","[计] 应用, 应用程序
+n. 应用, 申请, 志愿书, 应用程序
+[计] 应用, 应用程序"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","place","entry","place","false","n. 地方, 地点, 位置, 住所, 座位, 地位, 处境, 特权, 空间, 余地, 职务, 位
+vt. 放置, 寄予, 认出, 评定, 任命
+vi. 名次列前"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","form","entry","form","true","[计] 表单
+n. 形状, 形体, 类型, 方式, 表格, 形式
+v. 形成, 排列, (使)组成
+n. 表单
+[计] 表单"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","respond","entry","respond","false","vt. 以...回答
+vi. 回答, 响应, 回报, 有反应, 承担责任"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","user","entry","user","true","[计] 用户
+n. 使用者
+[计] 用户"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","events","entry","event","true","[计] 事件
+n. 事件, 结果, 事情的进程, 竞赛项目
+[计] 事件"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","mouse","entry","mouse","true","[计] 鼠标
+n. 老鼠, 胆小羞怯的人, 鼠标
+vi. 捕鼠, 窥探
+vt. 探出
+[计] 鼠标"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","clicks","entry","click","true","[计] 单击
+n. 咔哒声, 啪嗒声
+vi. 作咔哒声
+vt. 使发咔哒声
+[计] 单击"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","input","entry","input","true","[计] 输入
+n. 输入, 输入电路
+vt. 输入
+[计] 输入"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","navigation","entry","navigation","false","n. 航行, 航海, 导航
+[经] 航空, 航海, 航船"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","relevant","entry","relevant","false","a. 有关联的, 有关系的, 适当的, 相应的
+[法] 有关的, 相关的"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","running","entry","run","true","[计] 运行
+n. 跑, 赛跑, 奔跑, 奔跑的路程, 趋向, 流出, 运转时间, 连续
+vi. 跑, 奔跑, 跑步, 赛跑, 竞赛, 行驶, 运转, 进行, 蔓延
+vt. 使跑, 参赛, 追究, 驾驶, 开动, 管理, 经营, 使流出, 运行
+a. 熔化的, 融化的, 浇铸的
+run的过去式和过去分词
+[计] 运行"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","server-side","entry","server-side","true","服务端的
+在服务器端执行或处理的程序逻辑，而不是在用户浏览器中执行。"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","communicate","entry","communicate","false","vt. 显露, 传达, 感染
+vi. 通讯"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","database","entry","database","true","数据库
+组织和持久保存数据的集合，由数据库系统管理访问。
+[计] 数据库
+n. 数据库
+[计] 数据库"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","continuity","entry","continuity","false","n. 连续性
+[化] 连续性"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","from","entry","from","false","prep. 从, 来自, 根据"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","invocation","entry","invocation","true","调用
+执行一个方法或函数的过程；普通英语中也有祈祷等其他含义。
+n. 祈祷, 符咒"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","another","entry","another","false","a. 另外的, 再一的, 不同的
+pron. 又一个, 另一个, 类似的另一个"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","perform","entry","perform","false","vt. 进行, 履行, 完成, 执行, 表演
+vi. 行动, 工作, 执行, 演出"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","file","entry","file","true","[计] 文件
+n. 档案, 公文箱, 文件夹, 文件, 卷宗, 锉刀
+vi. 列队行进, 用锉刀做
+vt. 归档, 申请, 锉, 琢磨
+[计] 文件"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","manipulations","entry","manipulations","false","n. （熟练的）操作( manipulation的复数形式 ); 操纵; 控制; （对账目等的）伪造"
+"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction","means","entry","means","false","n. 方法, 手段, 工具, 财产, 收入
+[经] 方法, 手段, 工具; 意谓"
+"https://github.com/fastapi/fastapi/blob/master/README.md","fastapi","entry","FastAPI","true","FastAPI Web 框架
+用于用 Python 构建 Web API 的框架，利用类型提示描述请求和响应等数据。"
+"https://github.com/fastapi/fastapi/blob/master/README.md","framework","entry","framework","true","框架
+为应用提供组织方式和通用功能，并让开发者填入具体业务代码的软件基础。
+n. 结构, 骨架, 参照标准, 准则, 观点
+[医] 构架组织"
+"https://github.com/fastapi/fastapi/blob/master/README.md","high","entry","high","false","n. 高度, 高处
+a. 高的, 高级的, 主要的, 高尚的, 高原的, 高音的, 昂贵的, 傲慢的
+adv. 高度地, 奢侈地"
+"https://github.com/fastapi/fastapi/blob/master/README.md","performance","entry","performance","false","n. 施行, 工作情况, 成绩, 行为, 表现, 演出
+[电] 绩效, 性能"
+"https://github.com/fastapi/fastapi/blob/master/README.md","easy","entry","easy","false","a. 容易的, 缓缓的, 舒适的, 从容的, 宽容的, 流畅的, 随便的, 自在的, 疲软的
+adv. 容易地, 慢慢地"
+"https://github.com/fastapi/fastapi/blob/master/README.md","learn","entry","learn","false","vt. 学习；认识到；得知"
+"https://github.com/fastapi/fastapi/blob/master/README.md","fast","entry","fast","false","a. 快速的, 紧的
+adv. 很快地, 紧紧地, 彻底地
+n. 绝食, 斋戒
+vi. 绝食, 斋戒"
+"https://github.com/fastapi/fastapi/blob/master/README.md","code","entry","code","true","[计] 代码
+n. 代码, 密码, 法规, 法典
+vt. 把...编码
+[计] 代码"
+"https://github.com/fastapi/fastapi/blob/master/README.md","ready","entry","ready","false","n. 预备好的状态, 现款
+a. 准备好的, 备用的, 可以使用的
+adv. 预先, 迅速
+vt. 使准备好"
+"https://github.com/fastapi/fastapi/blob/master/README.md","for","entry","for","true","[计] DOS批处理命令:对一组参数重复执行指定的命令
+prep. 为, 因为, 至于
+conj. 因为
+[计] DOS批处理命令:对一组参数重复执行指定的命令"
+"https://github.com/fastapi/fastapi/blob/master/README.md","production","entry","production","false","n. 制造, 生产, 产物
+[医] 产生, 生成"
+"https://github.com/fastapi/fastapi/blob/master/README.md","documentation","entry","documentation","true","[计] 文件编制, 文档
+n. (总称)文件
+[计] 文件编制, 文档"
+"https://github.com/fastapi/fastapi/blob/master/README.md","source","entry","source","true","[计] 来源, 源程序
+n. 来源, 水源, 根源, 原始资料, 源
+[计] 来源, 源程序"
+"https://github.com/fastapi/fastapi/blob/master/README.md","modern","entry","modern","false","n. 现代人, 有思想的人
+a. 现代的, 时髦的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","high-performance","entry","high-performance","false","高效能, 高性能的, 高指标"
+"https://github.com/fastapi/fastapi/blob/master/README.md","web","entry","web","false","n. 网, 蛛丝, 蹼, 织物, 圈套, 卷筒纸
+vi. 结网, 形成网
+vt. 织蜘蛛网于, 使落入圈套"
+"https://github.com/fastapi/fastapi/blob/master/README.md","building","entry","build","true","构建
+把源代码及相关资源处理成可运行或可发布产物的过程。
+v. 建立, 建筑
+n. 构造, 体格"
+"https://github.com/fastapi/fastapi/blob/master/README.md","apis","entry","API","true","应用程序编程接口
+软件向其他代码提供的功能、数据格式和调用约定。
+[计] 应用程序接口, 自动优先中断
+[计] 应用程序接口, 自动优先中断
+[经] 美国石油协会"
+"https://github.com/fastapi/fastapi/blob/master/README.md","with","entry","with","false","prep. 和...在一起, 以, 由于"
+"https://github.com/fastapi/fastapi/blob/master/README.md","python","entry","python","false","n. 大蟒, 巨蟒"
+"https://github.com/fastapi/fastapi/blob/master/README.md","based","entry","base","true","[计] 基准
+n. 底部, 垒, 基础, 基地
+vt. 以...作基础
+a. 卑鄙的, 低劣的
+[计] 基准"
+"https://github.com/fastapi/fastapi/blob/master/README.md","standard","entry","standard","true","[计] 标准
+n. 标准, 规格, 旗, 军旗, 本位
+a. 标准的, 合规格的
+[计] 标准"
+"https://github.com/fastapi/fastapi/blob/master/README.md","type","entry","type","true","[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容
+n. 类型, 样式, 典型, 榜样, 标志, 符号, 型, 式
+vi. 打字
+vt. 作为代表, 测定类型, 用打字机打
+[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容"
+"https://github.com/fastapi/fastapi/blob/master/README.md","hints","entry","hints","false","n. 暗示, 提示（hint的复数形式）"
+"https://github.com/fastapi/fastapi/blob/master/README.md","the","entry","the","false","art. 那"
+"https://github.com/fastapi/fastapi/blob/master/README.md","key","entry","key","true","[计] 键, 密钥
+n. 钥匙, 键, 解答, 关键, 要害, 基调, 线索, 答案, 暗礁
+vt. 调音, 锁上, 提供线索
+vi. 使用钥匙
+[计] 键, 密钥"
+"https://github.com/fastapi/fastapi/blob/master/README.md","features","entry","feature","true","[计] 特性
+n. 面孔的一部分(如眼、口等), 特征, 容貌, 特色, 特写
+vt. 是...的特色, 特写, 放映
+vi. 起重要作用
+[计] 特性"
+"https://github.com/fastapi/fastapi/blob/master/README.md","are","entry","are","false","be的现在时复数或第二人称单数"
+"https://github.com/fastapi/fastapi/blob/master/README.md","very","entry","very","false","a. 真正的, 恰好的, 十足的, 特有的
+adv. 非常, 完全"
+"https://github.com/fastapi/fastapi/blob/master/README.md","par","entry","par","true","[计] 重新传输的肯定回答
+n. 标准, 票面价值, 平均数量, 同等水平
+a. 票面的, 平常的, 标准的, 平价的
+[计] 重新传输的肯定回答"
+"https://github.com/fastapi/fastapi/blob/master/README.md","nodejs","entry","Node.js","true","Node.js 运行环境
+在浏览器外执行 JavaScript 的运行环境，常用于服务器端开发。"
+"https://github.com/fastapi/fastapi/blob/master/README.md","and","entry","and","true","[计] 与
+conj. 和, 与
+[计] 与"
+"https://github.com/fastapi/fastapi/blob/master/README.md","thanks","entry","thanks","false","n. 感谢, 谢意, 谢忱
+interj. 谢谢, 谢谢你"
+"https://github.com/fastapi/fastapi/blob/master/README.md","starlette","missing","","false",""
+"https://github.com/fastapi/fastapi/blob/master/README.md","pydantic","missing","","false",""
+"https://github.com/fastapi/fastapi/blob/master/README.md","one","entry","one","false","n. 一(个)
+pron. 一, 任何人
+num. 一, 一个
+a. 一致的, 完整的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","fastest","entry","fastest","false","a. 最快速的（far 的最高级）"
+"https://github.com/fastapi/fastapi/blob/master/README.md","frameworks","entry","framework","true","框架
+为应用提供组织方式和通用功能，并让开发者填入具体业务代码的软件基础。
+n. 结构, 骨架, 参照标准, 准则, 观点
+[医] 构架组织"
+"https://github.com/fastapi/fastapi/blob/master/README.md","available","entry","available","false","a. 可利用的, 可获得的, 有效的
+[医] 有效的, 可得的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","increase","entry","increase","false","n. 增加, 增进, 利益
+vt. 增加, 加大
+vi. 增加, 繁殖"
+"https://github.com/fastapi/fastapi/blob/master/README.md","speed","entry","speed","true","[计] 中央处理机速度设置程序
+n. 速率, 速度, 迅速
+vi. 加速, 超速, 快进
+vt. 快速传送, 促进, 使加速
+[计] 中央处理机速度设置程序"
+"https://github.com/fastapi/fastapi/blob/master/README.md","develop","entry","develop","false","vt. 发展, 使发达, 进步, 洗印, 显影
+vi. 发展, 生长"
+"https://github.com/fastapi/fastapi/blob/master/README.md","about","entry","about","false","prep. 在...周围, 大约, 有关, 关于
+adv. 大约, 四处, 在附近, 周围"
+"https://github.com/fastapi/fastapi/blob/master/README.md","fewer","entry","fewer","false","a. 较少的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","bugs","entry","bug","true","程序缺陷
+导致程序行为与预期不符的问题。
+[计] 缺点, 错误
+n. 错误, 虫, 病菌, 缺陷, 窃听器, 癖好, 防盗报警器, 双座小汽车, 要人
+vt. 装防盗报警器, 装窃听器, 激怒
+vi. 捉虫, 暴突
+[计] 缺点, 错误"
+"https://github.com/fastapi/fastapi/blob/master/README.md","reduce","entry","reduce","true","[计] 缩小
+vt. 减少, 分解, 降低, 使衰退, 把...分解, 把...归纳
+vi. 减少, 减肥, 缩小
+[计] 缩小"
+"https://github.com/fastapi/fastapi/blob/master/README.md","human","entry","human","false","n. 人, 人类
+a. 人类的, 似人类的, 人性的, 有同情心的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","developer","entry","developer","true","[计] 显影器
+n. 开发者
+[计] 显影器"
+"https://github.com/fastapi/fastapi/blob/master/README.md","induced","entry","induced","false","a. 感应的；诱发型"
+"https://github.com/fastapi/fastapi/blob/master/README.md","errors","entry","error","true","[计] 错误
+n. 错误, 过失, 失误, 误差
+[计] 错误"
+"https://github.com/fastapi/fastapi/blob/master/README.md","intuitive","entry","intuitive","false","a. 直觉的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","great","entry","great","false","a. 大的, 非常的, 主要的, 重大的, 崇高的, 伟大的
+adv. 顺利地, 得意地
+n. 全部, 大人物, 大师"
+"https://github.com/fastapi/fastapi/blob/master/README.md","editor","entry","editor","true","[计] 编辑器
+n. 编者, 编辑, 主笔, 编辑器, 编辑装置
+[计] 编辑器"
+"https://github.com/fastapi/fastapi/blob/master/README.md","support","entry","support","true","[计] 后援; 支持
+n. 支持, 支撑, 援助, 供养, 支撑物
+vt. 支援, 支撑, 帮助, 支持, 忍受, 供养, 证实
+[计] 后援; 支持"
+"https://github.com/fastapi/fastapi/blob/master/README.md","completion","entry","completion","false","n. 完成
+[经] 完井, 结束, 完工"
+"https://github.com/fastapi/fastapi/blob/master/README.md","everywhere","entry","everywhere","false","adv. 各处, 到处"
+"https://github.com/fastapi/fastapi/blob/master/README.md","less","entry","less","true","[计] 最低成本估算与调度法
+n. 较少, 较小
+a. 少的, 小的
+adv. 较少, 较小, 较差
+[计] 最低成本估算与调度法"
+"https://github.com/fastapi/fastapi/blob/master/README.md","time","entry","time","true","[计] DOS内部命令:用于显示或设定系统的时间
+n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间
+vt. 测定...的时间, 记录...的时间, 计时, 定时
+a. 时间的, 记时的, 定时的, 定期的, 分期的
+[计] DOS内部命令:用于显示或设定系统的时间"
+"https://github.com/fastapi/fastapi/blob/master/README.md","debugging","entry","debug","true","调试
+定位并分析程序问题的过程。
+[计] 调试; DOS外部命令:其功能是对命令文件或执行文件进行调试或测试
+vt. 除错, 改正有毛病部分, 除去窃听器, 调试
+[计] 调试; DOS外部命令:其功能是对命令文件或执行文件进行调试或测试
+也可用于编写小的命令文件"
+"https://github.com/fastapi/fastapi/blob/master/README.md","designed","entry","designed","false","a. 故意的, 有计划的, 特意的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","use","entry","use","false","n. 使用, 习惯, 使用价值, 用法, 使用权
+vt. 使用, 利用, 运用, 耗费
+vi. 惯常"
+"https://github.com/fastapi/fastapi/blob/master/README.md","reading","entry","read","true","[计] 读取
+v. 读, 阅读, 理解
+a. 有学问的
+n. 读取, 阅读
+[计] 读取"
+"https://github.com/fastapi/fastapi/blob/master/README.md","docs","entry","DOC","true","[计] 通信部, 数字输出控制, 文档
+[计] 通信部, 数字输出控制, 文档
+[医] 脱氧皮质酮"
+"https://github.com/fastapi/fastapi/blob/master/README.md","short","entry","short","false","a. 短的, 近的, 矮的, 短期的, 简短的, 少量的
+adv. 简短地, 突然
+n. 扼要, 短片, 缺乏
+vt. 故意少给, 使短路"
+"https://github.com/fastapi/fastapi/blob/master/README.md","minimize","entry","minimize","true","[计] 最小化
+vt. 将...减到最少
+vt. 最小化
+vi. 最小化
+[计] 最小化"
+"https://github.com/fastapi/fastapi/blob/master/README.md","duplication","entry","duplication","false","n. 副本, 复制
+[医] 重迭, 双折, 复制"
+"https://github.com/fastapi/fastapi/blob/master/README.md","multiple","entry","multiple","false","n. 倍数, 并联
+a. 多样的, 许多的, 多功能的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","from","entry","from","false","prep. 从, 来自, 根据"
+"https://github.com/fastapi/fastapi/blob/master/README.md","each","entry","each","false","a. 每个, 每一
+adv. 每个
+pron. 每个, 个人, 各自"
+"https://github.com/fastapi/fastapi/blob/master/README.md","parameter","entry","parameter","true","形参
+在方法声明中命名的输入位置。
+[计] 参量; 参数
+n. 参变数, 参变量, 参数, 参量
+[计] 参量; 参数"
+"https://github.com/fastapi/fastapi/blob/master/README.md","declaration","entry","declaration","true","[计] 说明
+n. 宣告, 说明, 宣布
+[计] 说明"
+"https://github.com/fastapi/fastapi/blob/master/README.md","robust","entry","robust","true","[计] 健壮性
+a. 健康的, 强健的, 要用力气的, 坚定的, 粗野的
+[计] 健壮性"
+"https://github.com/fastapi/fastapi/blob/master/README.md","get","entry","get","true","[计] 取得指令, 获取文件
+vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上
+vi. 到达, 成为, 变得
+n. (网球等)救球, 生殖, 幼兽
+[计] 取得指令, 获取文件"
+"https://github.com/fastapi/fastapi/blob/master/README.md","production-ready","identifier","","false",""
+"https://github.com/fastapi/fastapi/blob/master/README.md","automatic","entry","automatic","false","n. 自动手枪, 自动机械
+a. 自动的, 机械的, 必然的, 无意识的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","interactive","entry","interactive","true","[计] 交互, 人机对话的
+a. 相互作用的, 相互影响的
+[计] 交互, 人机对话的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","standards-based","identifier","","false",""
+"https://github.com/fastapi/fastapi/blob/master/README.md","fully","entry","fully","false","adv. 十分地, 完全地, 充分地"
+"https://github.com/fastapi/fastapi/blob/master/README.md","compatible","entry","compatible","true","[计] 相容的; 兼容的
+a. 能共处的, 可并立的, 适合的
+[计] 相容的; 兼容的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","open","entry","open","true","[计] 打开指令; 打开语句
+n. 公开, 户外, 空旷
+a. 开着的, 开放的, 开阔的, 营业着的, 公开的, 悬而未决的
+vt. 打开, 公开, 开放
+vi. 展开, 开始, 展现
+[计] 打开指令; 打开语句"
+"https://github.com/fastapi/fastapi/blob/master/README.md","standards","entry","standard","true","[计] 标准
+n. 标准, 规格, 旗, 军旗, 本位
+a. 标准的, 合规格的
+[计] 标准"
+"https://github.com/fastapi/fastapi/blob/master/README.md","openapi","entry","OpenAPI","true","OpenAPI 接口描述规范
+以标准格式描述 HTTP API 的路径、参数、响应等信息。"
+"https://github.com/fastapi/fastapi/blob/master/README.md","previously","entry","previously","true","[计] 先前地
+adv. 先, 先前, 以前, 前, (非正式)过早, 过急, 在前, 在...以前, 在先
+[计] 先前地"
+"https://github.com/fastapi/fastapi/blob/master/README.md","known","entry","known","false","a. 已知的, 有名的
+know的过去分词"
+"https://github.com/fastapi/fastapi/blob/master/README.md","swagger","entry","swagger","false","n. 大摇大摆, 吹牛, 妄自尊大, 威吓
+vi. 虚张声势吓人, 大摇大摆, 吹牛
+vt. 吓唬, 恫吓
+a. 漂亮的, 时髦的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","json","entry","JSON","true","JSON 数据交换格式
+使用对象、数组、字符串、数字等结构表示数据的文本格式。
+abbr. JavaScript对象符号（JavaScript Serialized Object Notation）"
+"https://github.com/fastapi/fastapi/blob/master/README.md","schema","entry","schema","true","模式／结构约定
+可指数据结构的描述；PostgreSQL 中也特指表等对象的命名空间，JSON Schema 则用于描述 JSON 数据。
+[计] 模式
+n. 概要, 图解, 略图
+[计] 模式"
+"https://github.com/fastapi/fastapi/blob/master/README.md","estimation","entry","estimation","false","n. 判断, 估计, 尊重
+[化] 估计; 估定; 测定; 估值"
+"https://github.com/fastapi/fastapi/blob/master/README.md","tests","entry","tests","false","n. 测验（test的复数）"
+"https://github.com/fastapi/fastapi/blob/master/README.md","conducted","entry","conducted","false","vt. 实施; 为人; 指挥（军队, 乐队等）; [物]传导（热, 电等）
+vt.& vi. 引导, 带领
+vi. 指挥乐队
+v. 引导（ conduct的过去式和过去分词 ）; 带领; 控制; 传导"
+"https://github.com/fastapi/fastapi/blob/master/README.md","internal","entry","internal","false","a. 内在的, 国内的
+[医] 内的, 内部的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","development","entry","development","false","n. 发展
+[化] 展开"
+"https://github.com/fastapi/fastapi/blob/master/README.md","team","entry","team","false","n. 队, 组
+vt. 把马(牛)套在同一辆车上, 把...编成一组
+vi. 驾驶卡车, 协作"
+"https://github.com/fastapi/fastapi/blob/master/README.md","applications","entry","application","true","[计] 应用, 应用程序
+n. 应用, 申请, 志愿书, 应用程序
+[计] 应用, 应用程序"
+"https://github.com/fastapi/fastapi/blob/master/README.md","sponsors","entry","sponsors","false","n. 保人( sponsor的名词复数 ); （广播电视节目、音乐会或运动会的）赞助者; （培训或教育的）资助者; （法案等的）倡议者
+v. 赞助( sponsor的第三人称单数 ); 资助（某人的培训或教育）; 为慈善活动捐资; 倡议"
+"https://github.com/fastapi/fastapi/blob/master/README.md","keystone","entry","keystone","false","n. 拱顶石, 楔石, 重点"
+"https://github.com/fastapi/fastapi/blob/master/README.md","sponsor","entry","sponsor","false","n. 保证人, 赞助者, 发起者, 倡议者, 教父
+vt. 发起, 赞助, 倡议"
+"https://github.com/fastapi/fastapi/blob/master/README.md","other","entry","other","false","a. 其他的, 另外的, 从前的
+pron. 其他的, 他人, 另外一个"
+"https://github.com/fastapi/fastapi/blob/master/README.md","opinions","entry","opinions","false","n. 意见；舆论；评价（opinion的复数）"
+"https://github.com/fastapi/fastapi/blob/master/README.md","i'm","entry","I'm","false","abbr. 我是（缩写）"
+"https://github.com/fastapi/fastapi/blob/master/README.md","using","entry","using","true","[计] 使用
+[计] 使用"
+"https://github.com/fastapi/fastapi/blob/master/README.md","ton","entry","ton","false","n. 吨
+[经] 吨"
+"https://github.com/fastapi/fastapi/blob/master/README.md","these","entry","these","false","pron. 这些"
+"https://github.com/fastapi/fastapi/blob/master/README.md","days","entry","days","false","n. 一生, 时期
+adv. 每天, 在白天"
+"https://github.com/fastapi/fastapi/blob/master/README.md","actually","entry","actually","false","adv. 事实上, 竟然, 如今, 现在"
+"https://github.com/fastapi/fastapi/blob/master/README.md","planning","entry","planning","true","[计] 计划, 规划
+n. 计划的制订, 策划, 设计, 规划
+[计] 计划, 规划"
+"https://github.com/fastapi/fastapi/blob/master/README.md","all","entry","all","false","a. 所有的, 全部的, 一切的
+adv. 全部, 全然
+pron. 全部
+n. 全部"
+"https://github.com/fastapi/fastapi/blob/master/README.md","team's","missing","","false",""
+"https://github.com/fastapi/fastapi/blob/master/README.md","services","entry","service","true","服务
+Kubernetes 中向一组后端端点提供稳定访问方式的资源。
+[计] 服务, 业务
+n. 服务, 贡献, 雇佣, 公职, 服役, 功劳, 仪式, 送达, 行政部门
+vt. 保养, 维修
+a. 武装部队的, 服务性的, 仆人的, 耐用的
+[计] 服务, 业务"
+"https://github.com/fastapi/fastapi/blob/master/README.md","microsoft","entry","Microsoft","false","n. (美国)微软公司
+[电] 微软公司"
+"https://github.com/fastapi/fastapi/blob/master/README.md","some","entry","some","false","pron. 一些, 一部分, 若干
+adv. 大约
+a. 一些的, 少许的, 某一的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","them","entry","them","false","pron. 他们, 她们, 它们"
+"https://github.com/fastapi/fastapi/blob/master/README.md","getting","entry","get","true","[计] 取得指令, 获取文件
+vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上
+vi. 到达, 成为, 变得
+n. (网球等)救球, 生殖, 幼兽
+[计] 取得指令, 获取文件"
+"https://github.com/fastapi/fastapi/blob/master/README.md","integrated","entry","integrated","false","a. 综合的, 完整的, 互相协调的
+[法] 成为整体的, 综合的, 统筹的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","into","entry","into","false","prep. 进入...之内, 朝..., 深入...之中, 成为...状况"
+"https://github.com/fastapi/fastapi/blob/master/README.md","core","entry","CORE","true","[计] 内核, 核心网
+n. 核心, 果心, 要点
+vt. 挖...的核
+[计] 内核, 核心网"
+"https://github.com/fastapi/fastapi/blob/master/README.md","windows","entry","window","true","[计] 窗口
+n. 窗户, 窗子, 窗口
+vt. 给...开窗
+[计] 窗口"
+"https://github.com/fastapi/fastapi/blob/master/README.md","product","entry","product","false","n. 产品, 结果, 乘积
+[化] 生产物"
+"https://github.com/fastapi/fastapi/blob/master/README.md","office","entry","office","false","n. 办公室, 部, 公职, 职责
+[化] 办公室"
+"https://github.com/fastapi/fastapi/blob/master/README.md","products","entry","products","false","n. 产品；商品（product的复数）"
+"https://github.com/fastapi/fastapi/blob/master/README.md","kabir","entry","kabir","false","n. (Kabir)人名；(印、阿拉伯、阿富、孟)卡比尔；(1440-1518)迦比尔〈印〉神秘主义者、诗人。"
+"https://github.com/fastapi/fastapi/blob/master/README.md","khan","entry","khan","false","n. 可汗, 商队宿店"
+"https://github.com/fastapi/fastapi/blob/master/README.md","piero","entry","piero","false","n. 皮耶罗（男子名）"
+"https://github.com/fastapi/fastapi/blob/master/README.md","molino","entry","molino","false","[地名] [秘鲁、菲律宾、美国、墨西哥、智利] 莫利诺"
+"https://github.com/fastapi/fastapi/blob/master/README.md","yaroslav","entry","Yaroslav","false","雅罗斯拉夫牛(乳用牛名称)"
+"https://github.com/fastapi/fastapi/blob/master/README.md","dudin","missing","","false",""
+"https://github.com/fastapi/fastapi/blob/master/README.md","sai","entry","sai","false","abbr. 社会责任国际组织（Social Accountability International）；单指针自动同步指示器（single autosyn indicator）"
+"https://github.com/fastapi/fastapi/blob/master/README.md","sumanth","missing","","false",""
+"https://github.com/fastapi/fastapi/blob/master/README.md","miryala","missing","","false",""
+"https://github.com/fastapi/fastapi/blob/master/README.md","uber","entry","uber","false","[医] 乳房"
+"https://github.com/fastapi/fastapi/blob/master/README.md","kevin","entry","kevin","false","n. 凯文（男子名）"
+"https://github.com/fastapi/fastapi/blob/master/README.md","glisson","entry","glisson","false","[人名] 格利森"
+"https://github.com/fastapi/fastapi/blob/master/README.md","marc","entry","marc","true","[计] 机器可读目录; 机读目录
+n. 榨渣
+[计] 机器可读目录; 机读目录"
+"https://github.com/fastapi/fastapi/blob/master/README.md","vilanova","entry","vilanova","false","[地名] [西班牙] 比拉诺瓦"
+"https://github.com/fastapi/fastapi/blob/master/README.md","forest","entry","forest","false","n. 森林, 林区
+vt. 植树于"
+"https://github.com/fastapi/fastapi/blob/master/README.md","monsen","entry","monsen","false","[人名] 蒙森"
+"https://github.com/fastapi/fastapi/blob/master/README.md","netflix","entry","netflix","false","n. 全球十大视频网站中唯一收费站点"
+"https://github.com/fastapi/fastapi/blob/master/README.md","deon","entry","deon","false","[人名] 德翁"
+"https://github.com/fastapi/fastapi/blob/master/README.md","pillsbury","entry","pillsbury","false","皮尔斯伯里（人名）"
+"https://github.com/fastapi/fastapi/blob/master/README.md","cisco","entry","cisco","false","n. 加拿大白鲑"
+"https://github.com/fastapi/fastapi/blob/master/README.md","mini","entry","mini","false","n. 同类中的极小者, 微型汽车, 超短裙
+a. 微型的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","documentary","entry","documentary","false","n. 记录片
+a. 文件的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","there's","entry","there's","false","(=there is, =there has)那儿有"
+"https://github.com/fastapi/fastapi/blob/master/README.md","released","entry","release","true","发布版本
+供用户使用的正式版本或发布记录。
+[计] 版本, 发布
+n. 释放, 发泄, 豁免, 发行, 释放证书
+vt. 释放, 解除, 放松, 豁免, 免除, 发布, 放弃, 让与
+n. 发布
+[计] 版本, 发布"
+"https://github.com/fastapi/fastapi/blob/master/README.md","end","entry","end","true","[计] 端; 结束
+n. 结束, 终点, 目标, 末端, 梢, 死亡, 残余
+v. 结束, 终结, 终止
+[计] 端; 结束"
+"https://github.com/fastapi/fastapi/blob/master/README.md","you","entry","you","false","pron. 你, 你们"
+"https://github.com/fastapi/fastapi/blob/master/README.md","can","entry","can","true","[计] 作废字符
+vt. 装罐
+n. 罐头, 容器
+aux. 能, 可以
+[计] 作废字符"
+"https://github.com/fastapi/fastapi/blob/master/README.md","watch","entry","watch","false","n. 观察, 手表, 看守, 守护, 监视, 值班人
+vt. 看, 注视, 照顾, 看守, 守护, 监视
+vi. 观看, 注视, 守侯"
+"https://github.com/fastapi/fastapi/blob/master/README.md","online","entry","online","true","[计] 联机
+[计] 联机"
+"https://github.com/fastapi/fastapi/blob/master/README.md","typer","entry","typer","true","[计] 打字机, 印刷机
+n. 打字者, 打字员
+[计] 打字机, 印刷机"
+"https://github.com/fastapi/fastapi/blob/master/README.md","clis","missing","","false",""
+"https://github.com/fastapi/fastapi/blob/master/README.md","cli","entry","cli","false","abbr. 命令行界面（Command Line Interface for batch scripting）；生活指数（Cost of Living Index）"
+"https://github.com/fastapi/fastapi/blob/master/README.md","app","entry","APP","true","[计] 应用, 应用程序; 相联并行处理器
+[计] 应用, 应用程序; 相联并行处理器"
+"https://github.com/fastapi/fastapi/blob/master/README.md","used","entry","used","false","a. 使用过的, 二手的, 习惯的"
+"https://github.com/fastapi/fastapi/blob/master/README.md","terminal","entry","terminal","true","[计] 终端; 终端设备
+n. 终端机, 终点, 末端, 极限, 终点站
+a. 终点的, 定期的, 致死的, 结尾的, 末端的, 晚期的
+[计] 终端; 终端设备"
+"https://github.com/fastapi/fastapi/blob/master/README.md","instead","entry","instead","false","adv. 作为替代, 反而"
+"https://github.com/fastapi/fastapi/blob/master/README.md","api","entry","API","true","应用程序编程接口
+软件向其他代码提供的功能、数据格式和调用约定。
+[计] 应用程序接口, 自动优先中断
+[计] 应用程序接口, 自动优先中断
+[经] 美国石油协会"
+"https://github.com/fastapi/fastapi/blob/master/README.md","check","entry","check","true","[计] 复选
+n. 检查, 支票, 阻止物, 寄物牌, 象棋中将军
+vt. 检查, 阻止, 核对, 寄存, 托运
+vi. 逐项相符, 开支票
+[计] 复选"
+"https://github.com/fastapi/fastapi/blob/master/README.md","out","entry","out","false","a. 外面的, 熄灭的, 结束的
+adv. 在外, 熄灭, 出现
+prep. 出自, 离去, 向"
+"https://github.com/fastapi/fastapi/blob/master/README.md","fastapi's","missing","","false",""
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","what","entry","what","false","pron. 什么
+interj. 怎么, 多么
+a. 什么的
+adv. 到什么程度"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","ownership","entry","ownership","true","所有权
+Rust 用它约束值由谁负责管理，并在编译期检查相关规则。
+n. 所有权, 物主身份
+[经] 所有权, 所有制"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","set","entry","set","true","[计] 设置; DOS内部命令:改变或显示分配给环境变量的值
+n. 日落, 同伙, 组合, 集合, 装置
+vt. 放, 安置, 放置, 设定, 使凝结, 点燃, 确定, 点缀, 使就位, 树立, 分配, 调整
+vi. 日落, 凝固, 定型, 搁住, 结果, 适合
+a. 决心的, 规定的, 故意的, 持久的, 固定的, 老套的, 准备好的
+[计] 设置; DOS内部命令:改变或显示分配给环境变量的值"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","rules","entry","rule","true","[计] 规则, 水线
+n. 规则, 统治, 控制, 支配, 规律, 标准, 章程, 破折号, 铅线
+vt. 规定, 统治, 管理, 控制, 支配, 裁决
+vi. 统治, 管辖, 裁定
+[计] 规则, 水线"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","that","entry","that","false","a. 那, 那个
+conj. 以致, 因为
+pron. 那
+adv. 那么, 那样"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","govern","entry","govern","false","v. 统治, 支配, 管理"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","how","entry","how","false","adv. 如何, 怎样, 多少, 多么
+n. 方式"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","rust","entry","Rust","true","Rust 编程语言
+通过所有权等机制管理内存的系统编程语言，不是普通英语的“铁锈”。
+n. 锈, 生锈, 衰退
+vi. 生锈, 衰退
+vt. 使生锈, 腐蚀"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","program","entry","program","true","[计] 程序
+n. 节目, 节目单, 程序, 纲要, 大纲, 计划
+vt. 规划, 拟...计划
+vi. 安排节目, 编程序
+[计] 程序"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","manages","entry","manages","false","v. 管理；负责；控制；设法对付（manage的三单形式）"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","memory","entry","memory","true","[计] 存储器, 内存, 查看内存实用程序
+n. 记忆, 记忆力, 回忆, 纪念, 存储
+n. 内存
+[计] 存储器, 内存, 查看内存实用程序"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","all","entry","all","false","a. 所有的, 全部的, 一切的
+adv. 全部, 全然
+pron. 全部
+n. 全部"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","programs","entry","program","true","[计] 程序
+n. 节目, 节目单, 程序, 纲要, 大纲, 计划
+vt. 规划, 拟...计划
+vi. 安排节目, 编程序
+[计] 程序"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","have","entry","have","false","vt. 有, 怀有, 拿, 进行
+aux. 已经"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","manage","entry","manage","false","vi. 处理
+vt. 管理, 控制, 维持, 达成, 经营, 运用"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","the","entry","the","false","art. 那"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","way","entry","way","false","n. 路, 路线, 路途, 方法, 道路, 情形, 规模, 习惯, 行业, 方面
+adv. 远远地, 非常"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","they","entry","they","false","pron. 他们, 它们"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","use","entry","use","false","n. 使用, 习惯, 使用价值, 用法, 使用权
+vt. 使用, 利用, 运用, 耗费
+vi. 惯常"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","computer","entry","computer","true","[计] 计算机
+n. 电脑, 电子计算机
+[计] 计算机"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","while","entry","while","false","n. 一会儿, (一段)时间
+conj. 当...的时候, 虽然
+vt. 消磨"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","running","entry","run","true","[计] 运行
+n. 跑, 赛跑, 奔跑, 奔跑的路程, 趋向, 流出, 运转时间, 连续
+vi. 跑, 奔跑, 跑步, 赛跑, 竞赛, 行驶, 运转, 进行, 蔓延
+vt. 使跑, 参赛, 追究, 驾驶, 开动, 管理, 经营, 使流出, 运行
+a. 熔化的, 融化的, 浇铸的
+run的过去式和过去分词
+[计] 运行"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","some","entry","some","false","pron. 一些, 一部分, 若干
+adv. 大约
+a. 一些的, 少许的, 某一的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","languages","entry","language","true","[计] 语言
+n. 语言, 文字, 措辞
+[计] 语言"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","garbage","entry","garbage","true","[计] 无用信息
+n. 垃圾, 废物
+[计] 无用信息"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","collection","entry","collection","false","n. 收集, 采集, (一批)收藏品, 募捐
+[医] 收集; 收集品, 标本"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","regularly","entry","regularly","false","adv. 有规则地, 一丝不苟地, 正式地"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","looks","entry","looks","false","n. 美貌"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","for","entry","for","true","[计] DOS批处理命令:对一组参数重复执行指定的命令
+prep. 为, 因为, 至于
+conj. 因为
+[计] DOS批处理命令:对一组参数重复执行指定的命令"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","no-longer-used","identifier","","false",""
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","runs","entry","run","true","[计] 运行
+n. 跑, 赛跑, 奔跑, 奔跑的路程, 趋向, 流出, 运转时间, 连续
+vi. 跑, 奔跑, 跑步, 赛跑, 竞赛, 行驶, 运转, 进行, 蔓延
+vt. 使跑, 参赛, 追究, 驾驶, 开动, 管理, 经营, 使流出, 运行
+a. 熔化的, 融化的, 浇铸的
+run的过去式和过去分词
+[计] 运行"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","other","entry","other","false","a. 其他的, 另外的, 从前的
+pron. 其他的, 他人, 另外一个"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","programmer","entry","programmer","true","[计] 程序设计员; 程序员
+n. 程序员
+[计] 程序设计员; 程序员"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","must","entry","must","false","n. 必须, 未发酵葡萄汁, 绝对必要的事物
+aux. 必须"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","explicitly","entry","explicitly","false","adv. 明确地；明白地"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","allocate","entry","allocate","true","[计] 分配
+vt. 分派, 分配
+[计] 分配"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","and","entry","and","true","[计] 与
+conj. 和, 与
+[计] 与"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","free","entry","free","false","a. 自由的, 享受政治权力的, 允许的, 免费的, 丰富的
+vt. 释放, 解放, 使自由
+adv. 自由地, 免费"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","uses","entry","uses","false","abbr. 美国就业局（United States Employment Service）"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","third","entry","third","false","num. 第三, 三分之一
+[机] 第三; 第三的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","approach","entry","approach","false","n. 接近, 入门
+vt. 接近, 近似, 找...商量
+vi. 靠近"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","managed","entry","managed","false","a. 与中央化计划及管制有关的；托管的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","through","entry","through","false","adv. 穿越, 从头至尾, 到底, 因为
+prep. 经过, 穿过
+a. 对穿的, 直达的, 完结的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","system","entry","system","true","[计] 系统; 体制; 体系
+n. 系统, 体系, 制度, 方式, 秩序, 分类原则
+[计] 系统; 体制; 体系"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","with","entry","with","false","prep. 和...在一起, 以, 由于"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","compiler","entry","compiler","true","编译器
+把源代码转换为目标代码或其他表示的工具。
+[计] 编译程序
+n. 编辑者
+[计] 编译程序"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","checks","entry","check","true","[计] 复选
+n. 检查, 支票, 阻止物, 寄物牌, 象棋中将军
+vt. 检查, 阻止, 核对, 寄存, 托运
+vi. 逐项相符, 开支票
+[计] 复选"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","any","entry","any","false","a. 任何的
+pron. 任何"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","are","entry","are","false","be的现在时复数或第二人称单数"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","violated","entry","violated","false","v. 亵渎( violate的过去式和过去分词 ); 违反; 侵犯; 强奸"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","won","entry","won","false","win的过去式和过去分词"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","compile","entry","compile","true","编译
+把源代码转换为目标代码或其他形式的过程。
+[计] 编译
+vt. 编译, 编辑, 编纂, 收集
+[计] 编译"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","none","entry","none","false","adv. 一点也不, 毫不
+pron. 没有人, 无一物, 并无一个
+a. 没有的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","features","entry","feature","true","[计] 特性
+n. 面孔的一部分(如眼、口等), 特征, 容貌, 特色, 特写
+vt. 是...的特色, 特写, 放映
+vi. 起重要作用
+[计] 特性"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","will","entry","will","false","n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱
+vt. 用意志的力量驱使, 决意, 愿意, 立遗嘱
+vi. 下决心, 愿意
+aux. 将, 愿意, 必须"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","slow","entry","slow","false","a. 慢的, 缓慢的, 迟缓的, 迟钝的, 冷漠的, 落后的
+adv. 慢地, 迟缓地
+v. (使)慢下来"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","down","entry","down","true","[计] 向下, 退下命令
+a. 向下的
+adv. 下, 下去, 降下
+prep. 往下, 沿着
+n. 丘陵, 软毛, 开阔的高地
+[计] 向下, 退下命令"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","your","entry","your","false","pron. 你的, 你们的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","because","entry","because","false","conj. 因为"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","new","entry","new","false","a. 新的, 陌生的, 最近的, 不熟悉的
+[法] 新发现的, 新的, 重新开始的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","concept","entry","concept","false","n. 观念, 概念
+[医] 概念"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","many","entry","many","false","n. 多数, 多数人
+a. 许多的
+pron. 许多"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","programmers","entry","programmer","true","[计] 程序设计员; 程序员
+n. 程序员
+[计] 程序设计员; 程序员"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","does","entry","does","false","v. 做；工作；有用（do的第三人称单数形式）"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","take","entry","take","false","vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费
+vi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产
+n. 拿, 取, 收成, 奏效"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","time","entry","time","true","[计] DOS内部命令:用于显示或设定系统的时间
+n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间
+vt. 测定...的时间, 记录...的时间, 计时, 定时
+a. 时间的, 记时的, 定时的, 定期的, 分期的
+[计] DOS内部命令:用于显示或设定系统的时间"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","get","entry","get","true","[计] 取得指令, 获取文件
+vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上
+vi. 到达, 成为, 变得
+n. (网球等)救球, 生殖, 幼兽
+[计] 取得指令, 获取文件"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","used","entry","used","false","a. 使用过的, 二手的, 习惯的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","good","entry","good","false","n. 善行, 好处, 利益
+a. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","news","entry","news","false","n. 新闻, 消息, 报导
+[法] 新闻, 消息, 新闻报导"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","more","entry","more","true","[计] DOS外部命令:显示满屏后自动暂停, 并显示:""--More--"", 按任意键继续
+n. 更多
+a. 多的, 程度较大的, 更大的
+adv. 多, 更多, 进一步
+[计] DOS外部命令:显示满屏后自动暂停, 并显示:""--More--"", 按任意键继续"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","experienced","entry","experienced","false","a. 富有经验的, 老练的, 熟练的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","you","entry","you","false","pron. 你, 你们"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","become","entry","become","false","vi. 变成, 变得
+vt. 适合"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","easier","entry","easier","false","a. 更简单；较早的；容易些（easy的比较级形式）"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","find","entry","find","true","[计] 查找; DOS外部命令:在指定的文件或从键盘输入的文本行中
+vt. 发现, 感到, 找到, 认为, 得到
+vi. 裁决
+n. 发现
+[计] 查找; DOS外部命令:在指定的文件或从键盘输入的文本行中
+寻找指定的字符串, 将符合条件的行或行数输出到标准输出设备上"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","naturally","entry","naturally","false","adv. 自然地, 以自然力, 天生地"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","develop","entry","develop","false","vt. 发展, 使发达, 进步, 洗印, 显影
+vi. 发展, 生长"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","code","entry","code","true","[计] 代码
+n. 代码, 密码, 法规, 法典
+vt. 把...编码
+[计] 代码"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","safe","entry","safe","false","n. 保险箱, 冷藏室
+a. 安全的, 可靠的, 平安的, 稳健的, 有把握的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","efficient","entry","efficient","false","a. 有效率的, 能干的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","keep","entry","keep","false","n. 生计, 维持, 保持
+vt. 保持, 保存, 遵守, 看守, 整理, 维持, 履行, 经营, 拘留, 记帐
+vi. 保持, 继续不断"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","when","entry","when","false","conj. 当...的时候
+adv. 何时, 什么时候
+pron. 什么时侯
+n. 时间"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","understand","entry","understand","false","vt. 理解, 了解, 领会, 听说, 懂
+vi. 懂得, 认为"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","solid","entry","solid","true","[计] 原色
+n. 固体
+a. 坚硬的, 稳固的, 固体的, 实心的, 纯质的, 立体的, 立方的
+[计] 原色"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","foundation","entry","foundation","false","n. 基础, 根据, 建立
+[化] 地基"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","understanding","entry","understanding","false","n. 理解, 谅解
+[法] 协商, 协议, 谅解"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","make","entry","make","false","vt. 制造, 安排, 创造, 构成, 使得, 产生, 造成, 整理, 布置, 引起, 到达, 进行
+vi. 开始, 前进, 增大, 被制造, 被处理
+n. 制造, 构造, 性情"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","unique","entry","unique","false","a. 独一无二的, 独特的, 稀罕的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","this","entry","this","false","pron. 这, 本
+a. 这, 本
+adv. 这么"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","chapter","entry","chapter","true","[计] 章; 段
+n. 章, 篇, 重要章节
+[计] 章; 段"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","learn","entry","learn","false","vt. 学习；认识到；得知"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","working","entry","working","false","n. 工作, 运转, 劳动
+a. 工作的, 劳动的, 经营的, 抽搐的, 运转的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","examples","entry","examples","false","n. 例子；列证（example的复数形式）"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","focus","entry","focus","true","[计] 焦点
+n. 焦点, 焦距
+vi. 聚焦, 注视
+vt. 使聚焦, 调焦, 集中
+[计] 焦点"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","very","entry","very","false","a. 真正的, 恰好的, 十足的, 特有的
+adv. 非常, 完全"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","common","entry","common","true","[计] 公用块
+a. 通常的, 共同的, 通俗的, 公共的
+[计] 公用块"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","data","entry","data","true","[计] 数据; DOS内部命令:用于显示或设定系统的日期
+pl. 资料, 数据
+[计] 数据; DOS内部命令:用于显示或设定系统的日期"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","structure","entry","structure","false","n. 结构, 构造, 建筑物
+vt. 构成, 组织"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","strings","entry","string","true","字符串
+由字符组成的文本数据。
+[计] 字符串, 串
+n. 线, 细绳, 一串, 字符串
+vt. 串起, 成串, 收紧, 缚, 扎
+vi. 成一串
+[计] 字符串, 串"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","stack","entry","stack","true","栈
+后进先出的数据结构；也可指函数调用使用的调用栈。
+[计] 堆积, 堆栈
+n. 堆叠, 堆, 大量, 书库, 枪架, 烟囱, 堆积, 存贮栈
+vt. 堆积, 堆满, 暗中对...做手脚
+vi. 堆起
+[计] 堆积, 堆栈"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","heap","entry","heap","true","堆
+可指满足堆序性质的树形结构，也可指动态分配内存的区域。
+[计] 堆
+n. 堆, 许多, 累积
+vt. 堆积, 装满
+[计] 堆"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","programming","entry","programming","true","[计] 程序设计; 程序编制
+n. 节目的计划, 编制程序
+[计] 程序设计; 程序编制"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","don","entry","don","false","n. 西班牙贵族(或绅士), 先生, 阁下
+vt. 穿上"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","require","entry","require","false","vt. 需要, 命令, 要求
+[法] 需要, 要求, 命令"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","think","entry","think","false","vt. 想, 考虑, 想起, 想像, 打算, 认为
+vi. 思考, 料想
+n. 想法
+a. 思想的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","about","entry","about","false","prep. 在...周围, 大约, 有关, 关于
+adv. 大约, 四处, 在附近, 周围"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","often","entry","often","false","adv. 时常, 常常"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","but","entry","but","false","prep. 除了
+conj. 但是
+adv. 仅仅"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","systems","entry","system","true","[计] 系统; 体制; 体系
+n. 系统, 体系, 制度, 方式, 秩序, 分类原则
+[计] 系统; 体制; 体系"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","language","entry","language","true","[计] 语言
+n. 语言, 文字, 措辞
+[计] 语言"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","like","entry","like","false","a. 相似的, 同样的
+vt. 喜欢, 愿意, 想
+vi. 喜欢, 希望
+n. 爱好, 同样的人(或物)
+prep. 象, 如同
+adv. 可能"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","whether","entry","whether","false","conj. 是否, 不论
+pron. 两个中的哪一个"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","value","entry","value","true","[计] 计算结果
+n. 价值, 价格, 购买力, 评价, 估价, 计算结果
+vt. 评价, 估价, 重视
+[计] 计算结果"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","affects","entry","affects","false","v. 影响；假装；喜欢（affect的三单形式）"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","behaves","entry","behaves","false","v. （行为或举止）表现( behave的第三人称单数 ); 工作; （使）守规矩"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","why","entry","why","false","adv. 为什么
+n. 原因, 理由"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","certain","entry","certain","false","a. 确定的, 某一个的, 必然的
+[法] 确凿的, 无疑的, 可靠的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","decisions","entry","decision","true","[计] 判定
+n. 决定, 决心, 决断
+[计] 判定"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","parts","entry","parts","false","n. 零件, 部件"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","described","entry","described","false","v. 描述, 描写（describe的过去式）"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","relation","entry","relation","true","[计] 关系
+n. 关系, 联系, 叙述, 故事, 家属, 亲戚
+[计] 关系"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","later","entry","later","false","adv. 以后, 随后"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","here","entry","here","false","adv. 在这里, 此时, 这里
+n. 这里"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","brief","entry","brief","false","n. 摘要, 简报
+a. 简短的, 短暂的
+vt. 对...作简报, 摘要, 节录"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","explanation","entry","explanation","false","n. 解释, 说明, 辩解, 表明
+[经] 解释, 注释, 说明"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","preparation","entry","preparation","false","n. 准备, 预备, 预习
+[化] 制剂"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","both","entry","both","false","a. 两者的
+adv. 两者都
+pron. 两者"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","available","entry","available","false","a. 可利用的, 可获得的, 有效的
+[医] 有效的, 可得的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","runtime","entry","runtime","true","运行时
+程序实际执行的阶段，或支持执行的环境。
+n. 执行时间, 运行时间"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","structured","entry","structured","true","[计] 结构的
+a. 有结构的
+[计] 结构的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","different","entry","different","false","a. 不同的
+[机] 差动, 微分的, 差速器"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","ways","entry","ways","false","n. 方法（way的复数）；滑路"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","stores","entry","store","true","[计] 存储器操作; 存储
+n. 商店, 贮藏, 仓库, 备用品, 存储器
+vt. 储存, 贮藏, 供给
+vi. 贮藏
+a. 贮藏的, 现成的
+[计] 存储器操作; 存储"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","values","entry","value","true","[计] 计算结果
+n. 价值, 价格, 购买力, 评价, 估价, 计算结果
+vt. 评价, 估价, 重视
+[计] 计算结果"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","order","entry","order","true","[计] 顺序, 阶数
+n. 次序, 规则, 命令
+vi. 命令, 定货
+vt. 整理, 命令, 定购
+n. 顺序, 阶数
+[计] 顺序, 阶数"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","gets","entry","get","true","[计] 取得指令, 获取文件
+vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上
+vi. 到达, 成为, 变得
+n. (网球等)救球, 生殖, 幼兽
+[计] 取得指令, 获取文件"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","them","entry","them","false","pron. 他们, 她们, 它们"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","removes","entry","remove","true","[计] 删除
+vt. 移动, 调动, 除去, 迁移, 开除, 移交
+vi. 迁移, 移动, 搬家
+n. 班级, 升级, 移动, 搬家, 间距
+[计] 删除"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","opposite","entry","opposite","false","a. 相对的, 相反的, 对面的
+prep. 对面
+n. 对立面"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","referred","entry","referred","false","v. 归类, 谈及, 送交；参考, 查阅（refer的过去式）"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","first","entry","first","false","adv. 首先, 第一, 优先
+a. 第一的
+num. 第一
+n. 开始, 第一"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","out","entry","out","false","a. 外面的, 熄灭的, 结束的
+adv. 在外, 熄灭, 出现
+prep. 出自, 离去, 向"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","lifo","entry","LIFO","true","[计] 后进先出
+[计] 后进先出"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","plates","entry","plates","false","n. 板材；平板；盘子（plate的复数）"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","add","entry","add","true","[计] 加法
+vt. 增加, 添加, 附带说明, 计算...总和
+vi. 做加法, 积累而成, 增添
+[计] 加法"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","put","entry","put","true","[计] 发送文件
+vt. 放, 摆, 安置, 移动, 发射, 投掷, 写上, 表达, 使从事, 使受到, 驱使, 赋予
+vi. 出发, 航行, 发芽
+n. 掷, 股票出售权, 笨蛋
+a. 固定不动的
+[计] 发送文件"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","top","entry","top","true","[计] TOP协议
+n. 顶部, 顶端, 极点, 上面, 上部, 顶篷, 最高地位, 首位, 陀螺
+a. 最高的, 顶上的, 头等的
+vt. 盖, 加以顶, 高达, 超越
+vi. 结束, 达到顶点, 高出
+[计] TOP协议"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","pile","entry","pile","false","n. 堆, 大堆, 大厦, 建筑群, 电池, 大量, 桥桩, 软毛, 痔疮
+vi. 堆起, 堆积, 积累, 挤, 猛烈攻击
+vt. 堆于, 累积, 堆叠, 打桩于, 用桩支撑"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","need","entry","need","false","n. 需要, 必须, 缺乏
+vt. 需要, 必需
+vi. 贫困, 有必要
+aux. 需要"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","plate","entry","plate","false","n. 碟, 盘子, 盆中物, 金属板, 图版, 金银餐具, 印版, 金属牌(照)
+vt. 镀金, 电镀, 用金属板固定, 给...装钢板, 为...制印版"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","one","entry","one","false","n. 一(个)
+pron. 一, 任何人
+num. 一, 一个
+a. 一致的, 完整的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","off","entry","off","true","[计] 关闭, 清屏命令
+a. 关着的, 不再生效的, 处于...境况的, 休假的, 空闲的
+adv. 走开, ...掉, ...下, 休息, 出发, 隔断
+prep. 离开, 脱落, 不在从事......, 在...之外
+vi. 离开, 滚开
+vt. 杀死
+n. 关闭状态
+[计] 关闭, 清屏命令"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","adding","entry","adding","true","[计] 加法的
+[计] 加法的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","removing","entry","remove","true","[计] 删除
+vt. 移动, 调动, 除去, 迁移, 开除, 移交
+vi. 迁移, 移动, 搬家
+n. 班级, 升级, 移动, 搬家, 间距
+[计] 删除"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","from","entry","from","false","prep. 从, 来自, 根据"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","middle","entry","middle","false","n. 中央, 中间, 腰部
+a. 中央的, 中庸的, 中间的"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","bottom","entry","bottom","false","n. 底部
+a. 底部的
+vt. 给...装底, 查明真相
+vi. 到达底部, 建立基础"
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","wouldn","missing","","false",""
+"https://github.com/rust-lang/book/blob/main/src/ch04-01-what-is-ownership.md","work","entry","work","false","n. 工作, 劳动, 职业, 行为, 功, 作品, 成果, 产品, 工程
+vi. 工作, 劳动, 做, 运转, 起作用, 被加工
+vt. 使工作, 使转动, 开动, 使用, 经营, 使逐渐变得, 造成"
+"https://github.com/fmtlib/fmt/blob/master/README.md","fmt","entry","fmt","false","[医][=fasiculus mammillothalamicus]（拉）乳头丘脑束"
+"https://github.com/fmtlib/fmt/blob/master/README.md","open-source","entry","open-source","false","（软件）开放源代码的, 提供源程序的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","formatting","entry","formatting","true","[计] 格式化
+[计] 格式化"
+"https://github.com/fmtlib/fmt/blob/master/README.md","library","entry","library","true","[计] 库
+n. 图书馆, 藏书, 库
+[计] 库"
+"https://github.com/fmtlib/fmt/blob/master/README.md","providing","entry","providing","false","conj. 以...为条件, 假如"
+"https://github.com/fmtlib/fmt/blob/master/README.md","fast","entry","fast","false","a. 快速的, 紧的
+adv. 很快地, 紧紧地, 彻底地
+n. 绝食, 斋戒
+vi. 绝食, 斋戒"
+"https://github.com/fmtlib/fmt/blob/master/README.md","and","entry","and","true","[计] 与
+conj. 和, 与
+[计] 与"
+"https://github.com/fmtlib/fmt/blob/master/README.md","safe","entry","safe","false","n. 保险箱, 冷藏室
+a. 安全的, 可靠的, 平安的, 稳健的, 有把握的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","alternative","entry","alternative","true","[计] 选择对象
+n. 两者择一, 供替代的选择
+a. 两者择一的, 供选择的
+[计] 选择对象"
+"https://github.com/fmtlib/fmt/blob/master/README.md","stdio","entry","stdio","false","abbr. 标准输入输出（standard input/ouput）"
+"https://github.com/fmtlib/fmt/blob/master/README.md","iostreams","missing","","false",""
+"https://github.com/fmtlib/fmt/blob/master/README.md","documentation","entry","documentation","true","[计] 文件编制, 文档
+n. (总称)文件
+[计] 文件编制, 文档"
+"https://github.com/fmtlib/fmt/blob/master/README.md","cheat","entry","cheat","false","n. 欺骗, 作弊, 骗子
+v. 欺骗, 逃脱, 骗取"
+"https://github.com/fmtlib/fmt/blob/master/README.md","sheets","entry","sheet","true","[计] 工作表
+n. 床单, 张, 纸张, 印刷品, 裹尸布, 薄片
+vt. 盖上被单, 遍布
+vi. 大片落下
+a. 片状的, 成薄片的
+[计] 工作表"
+"https://github.com/fmtlib/fmt/blob/master/README.md","ask","entry","ask","false","vi. 问, 要求
+vt. 问, 要求, 邀请, 需要"
+"https://github.com/fmtlib/fmt/blob/master/README.md","questions","entry","question","true","[计] 询问
+n. 问题, 询问
+v. 询问, 审问, 怀疑
+[计] 询问"
+"https://github.com/fmtlib/fmt/blob/master/README.md","stackoverflow","missing","","false",""
+"https://github.com/fmtlib/fmt/blob/master/README.md","with","entry","with","false","prep. 和...在一起, 以, 由于"
+"https://github.com/fmtlib/fmt/blob/master/README.md","the","entry","the","false","art. 那"
+"https://github.com/fmtlib/fmt/blob/master/README.md","tag","entry","tag","true","标签
+给某个提交设置便于识别的名称，常用于版本标记。
+[计] 标记
+n. 标签, 附属物, 碎片, 结束语, 口头禅, 附加语, 浑名, 标记, 标记符
+vt. 附以签条, 尾随, 添饰, 起浑名, 连接
+vi. 紧紧跟随
+[计] 标记"
+"https://github.com/fmtlib/fmt/blob/master/README.md","try","entry","try","false","n. 尝试, 试验, 审理, 审判
+vt. 试, 尝试, 试验, 考验, 审问, 提炼
+vi. 尝试, 试图"
+"https://github.com/fmtlib/fmt/blob/master/README.md","compiler","entry","compiler","true","编译器
+把源代码转换为目标代码或其他表示的工具。
+[计] 编译程序
+n. 编辑者
+[计] 编译程序"
+"https://github.com/fmtlib/fmt/blob/master/README.md","explorer","entry","explorer","false","n. 探险家, 探测者, 勘探器
+[医] 探察器"
+"https://github.com/fmtlib/fmt/blob/master/README.md","features","entry","feature","true","[计] 特性
+n. 面孔的一部分(如眼、口等), 特征, 容貌, 特色, 特写
+vt. 是...的特色, 特写, 放映
+vi. 起重要作用
+[计] 特性"
+"https://github.com/fmtlib/fmt/blob/master/README.md","simple","entry","simple","false","a. 简单的, 普通的, 朴素的, 单纯的, 绝对的, 初级的, 原始的, 迟钝的
+n. 出身低微者, 傻子"
+"https://github.com/fmtlib/fmt/blob/master/README.md","format","entry","format","true","[计] 格式; DOS外部命令:对磁盘进行格式化
+n. 开本, 版式, 形式, 格式
+vt. 格式化
+[计] 格式; DOS外部命令:对磁盘进行格式化"
+"https://github.com/fmtlib/fmt/blob/master/README.md","api","entry","API","true","应用程序编程接口
+软件向其他代码提供的功能、数据格式和调用约定。
+[计] 应用程序接口, 自动优先中断
+[计] 应用程序接口, 自动优先中断
+[经] 美国石油协会"
+"https://github.com/fmtlib/fmt/blob/master/README.md","positional","entry","positional","false","a. 位置的, 地位的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","arguments","entry","argument","true","实参
+调用方法时实际传入的表达式或值。
+[计] 参数
+n. 争论, 论证, 论据, 自变量
+[计] 参数"
+"https://github.com/fmtlib/fmt/blob/master/README.md","for","entry","for","true","[计] DOS批处理命令:对一组参数重复执行指定的命令
+prep. 为, 因为, 至于
+conj. 因为
+[计] DOS批处理命令:对一组参数重复执行指定的命令"
+"https://github.com/fmtlib/fmt/blob/master/README.md","localization","entry","localization","false","n. 局限, 地方化
+[化] 定位化"
+"https://github.com/fmtlib/fmt/blob/master/README.md","implementation","entry","implementation","true","[计] 实施; 实现
+n. 安装启用, 实行, 履行
+[计] 实施; 实现"
+"https://github.com/fmtlib/fmt/blob/master/README.md","std","entry","STD","true","[计] 标准
+[计] 标准"
+"https://github.com/fmtlib/fmt/blob/master/README.md","print","entry","print","true","[计] DOS外部命令:在打印机上打印文件, 可一边打印文件一边执行其他工作
+n. 打印, 版, 印刷物, 痕迹, 印刷业, 印刷字体, 图片, 印花布, 印章
+v. 打印, 印刷, 铭记, 留印记于, 用印刷体写
+[计] DOS外部命令:在打印机上打印文件, 可一边打印文件一边执行其他工作"
+"https://github.com/fmtlib/fmt/blob/master/README.md","string","entry","string","true","字符串
+由字符组成的文本数据。
+[计] 字符串, 串
+n. 线, 细绳, 一串, 字符串
+vt. 串起, 成串, 收紧, 缚, 扎
+vi. 成一串
+[计] 字符串, 串"
+"https://github.com/fmtlib/fmt/blob/master/README.md","syntax","entry","syntax","true","[计] 句法, 语法
+n. 句法, 语法, 句子构造
+[计] 句法, 语法"
+"https://github.com/fmtlib/fmt/blob/master/README.md","similar","entry","similar","false","a. 相似的, 类似的
+n. 相似的东西"
+"https://github.com/fmtlib/fmt/blob/master/README.md","python","entry","python","false","n. 大蟒, 巨蟒"
+"https://github.com/fmtlib/fmt/blob/master/README.md","ieee","entry","IEEE","true","[计] 标准总线接口, 电气电子工程师学会
+[计] 标准总线接口, 电气电子工程师学会"
+"https://github.com/fmtlib/fmt/blob/master/README.md","floating-point","entry","floating-point","false","浮点"
+"https://github.com/fmtlib/fmt/blob/master/README.md","formatter","entry","formatter","true","[计] 划盘程序; 格式化程序; 格式器
+[计] 划盘程序; 格式化程序; 格式器"
+"https://github.com/fmtlib/fmt/blob/master/README.md","correct","entry","correct","false","a. 正确的, 合适的
+vt. 改正, 订正"
+"https://github.com/fmtlib/fmt/blob/master/README.md","rounding","entry","rounding","true","[计] 舍入
+[计] 舍入
+[化] 倒圆"
+"https://github.com/fmtlib/fmt/blob/master/README.md","shortness","entry","shortness","false","n. 短小, 简略, 不足
+[化] 脆性; 蓝脆性; 冷脆性"
+"https://github.com/fmtlib/fmt/blob/master/README.md","round-trip","entry","round-trip","false","a. 往返旅程的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","guarantees","entry","guarantees","false","n. 担保( guarantee的名词复数 ); 担保品; 保修单; 抵押品"
+"https://github.com/fmtlib/fmt/blob/master/README.md","using","entry","using","true","[计] 使用
+[计] 使用"
+"https://github.com/fmtlib/fmt/blob/master/README.md","dragonbox","missing","","false",""
+"https://github.com/fmtlib/fmt/blob/master/README.md","algorithm","entry","algorithm","true","算法
+为解决问题定义的一组明确步骤。
+[计] 算法
+n. 算法
+[计] 算法"
+"https://github.com/fmtlib/fmt/blob/master/README.md","portable","entry","portable","true","[计] 可移植的
+a. 可携带的, 可搬运的, 可移动的
+[计] 可移植的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","unicode","entry","Unicode","true","[计] Unicode字符编码
+[计] Unicode字符编码"
+"https://github.com/fmtlib/fmt/blob/master/README.md","support","entry","support","true","[计] 后援; 支持
+n. 支持, 支撑, 援助, 供养, 支撑物
+vt. 支援, 支撑, 帮助, 支持, 忍受, 供养, 证实
+[计] 后援; 支持"
+"https://github.com/fmtlib/fmt/blob/master/README.md","printf","entry","printf","true","[计] 打印函数
+[计] 打印函数"
+"https://github.com/fmtlib/fmt/blob/master/README.md","including","entry","include","true","[计] DOS内部命令:在CONFIG.SYS文件的一个配置块中包含另一配置块的内容
+vt. 包括, 把...算入, 包住
+[计] DOS内部命令:在CONFIG.SYS文件的一个配置块中包含另一配置块的内容"
+"https://github.com/fmtlib/fmt/blob/master/README.md","posix","entry","POSIX","true","[计] 可移植性操作系统接口
+[计] 可移植性操作系统接口"
+"https://github.com/fmtlib/fmt/blob/master/README.md","extension","entry","extension","true","[计] 扩展名, 扩充名
+n. 延长, 扩充, 范围, 扩展名
+a. 伸缩的
+[计] 扩展名, 扩充名"
+"https://github.com/fmtlib/fmt/blob/master/README.md","extensibility","entry","extensibility","true","[计] 可扩充性
+n. 可延长性, 展开性
+[计] 可扩充性"
+"https://github.com/fmtlib/fmt/blob/master/README.md","user-defined","entry","user-defined","true","[计] 自定义
+n. 自定义
+[计] 自定义"
+"https://github.com/fmtlib/fmt/blob/master/README.md","types","entry","type","true","[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容
+n. 类型, 样式, 典型, 榜样, 标志, 符号, 型, 式
+vi. 打字
+vt. 作为代表, 测定类型, 用打字机打
+[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容"
+"https://github.com/fmtlib/fmt/blob/master/README.md","high","entry","high","false","n. 高度, 高处
+a. 高的, 高级的, 主要的, 高尚的, 高原的, 高音的, 昂贵的, 傲慢的
+adv. 高度地, 奢侈地"
+"https://github.com/fmtlib/fmt/blob/master/README.md","performance","entry","performance","false","n. 施行, 工作情况, 成绩, 行为, 表现, 演出
+[电] 绩效, 性能"
+"https://github.com/fmtlib/fmt/blob/master/README.md","faster","entry","faster","true","[计] 加快
+[计] 加快"
+"https://github.com/fmtlib/fmt/blob/master/README.md","than","entry","than","false","conj. 比, 除...外
+prep. 比"
+"https://github.com/fmtlib/fmt/blob/master/README.md","common","entry","common","true","[计] 公用块
+a. 通常的, 共同的, 通俗的, 公共的
+[计] 公用块"
+"https://github.com/fmtlib/fmt/blob/master/README.md","standard","entry","standard","true","[计] 标准
+n. 标准, 规格, 旗, 军旗, 本位
+a. 标准的, 合规格的
+[计] 标准"
+"https://github.com/fmtlib/fmt/blob/master/README.md","implementations","entry","implementation","true","[计] 实施; 实现
+n. 安装启用, 实行, 履行
+[计] 实施; 实现"
+"https://github.com/fmtlib/fmt/blob/master/README.md","see","entry","see","false","vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意
+vi. 看, 观看, 注意, 知道, 考虑
+n. 主教的职位"
+"https://github.com/fmtlib/fmt/blob/master/README.md","speed","entry","speed","true","[计] 中央处理机速度设置程序
+n. 速率, 速度, 迅速
+vi. 加速, 超速, 快进
+vt. 快速传送, 促进, 使加速
+[计] 中央处理机速度设置程序"
+"https://github.com/fmtlib/fmt/blob/master/README.md","tests","entry","tests","false","n. 测验（test的复数）"
+"https://github.com/fmtlib/fmt/blob/master/README.md","converting","entry","convert","true","[计] 转换
+n. 皈依者, 改变宗教信仰者
+vt. 使改变信仰, 转换, 兑换, 倒置
+vi. 皈依
+[计] 转换"
+"https://github.com/fmtlib/fmt/blob/master/README.md","hundred","entry","hundred","false","n. 百, 百个东西
+num. 百, 百个
+a. 一百的, 许多的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","million","entry","million","false","n. 百万, 无数
+num. 百万"
+"https://github.com/fmtlib/fmt/blob/master/README.md","integers","entry","integer","true","[计] 整数, 整型
+n. 完整的事物, 整体, 整数
+[计] 整数, 整型"
+"https://github.com/fmtlib/fmt/blob/master/README.md","strings","entry","string","true","字符串
+由字符组成的文本数据。
+[计] 字符串, 串
+n. 线, 细绳, 一串, 字符串
+vt. 串起, 成串, 收紧, 缚, 扎
+vi. 成一串
+[计] 字符串, 串"
+"https://github.com/fmtlib/fmt/blob/master/README.md","per","entry","per","false","prep. 每一, 通过, 经, 按照
+[经] 每, 按照"
+"https://github.com/fmtlib/fmt/blob/master/README.md","second","entry","second","false","n. 秒, 瞬间, 第二名, 支持者, 助手
+a. 第二的, 其次的, 次要的, 附加的, 辅助的
+num. 第二
+vt. 当...助手, 支持"
+"https://github.com/fmtlib/fmt/blob/master/README.md","small","entry","small","false","a. 小的, 少的, 小型的, 低微的, 小气的, 细微的
+adv. 些微地
+n. 狭小部分"
+"https://github.com/fmtlib/fmt/blob/master/README.md","code","entry","code","true","[计] 代码
+n. 代码, 密码, 法规, 法典
+vt. 把...编码
+[计] 代码"
+"https://github.com/fmtlib/fmt/blob/master/README.md","size","entry","size","false","n. 大小, 尺寸, 规模, 尺码, 能力, 浆料
+vt. 上浆, 依大小排列
+vi. 可比拟
+a. 一定大小的, 一定尺寸的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","both","entry","both","false","a. 两者的
+adv. 两者都
+pron. 两者"
+"https://github.com/fmtlib/fmt/blob/master/README.md","terms","entry","term","true","[计] 检索词; 项
+n. 术语, 专有名词, 期限, 学期, 任期, 条件, 价钱, 关系, 地位, 项, 界石
+vt. 称, 呼
+[计] 检索词; 项"
+"https://github.com/fmtlib/fmt/blob/master/README.md","source","entry","source","true","[计] 来源, 源程序
+n. 来源, 水源, 根源, 原始资料, 源
+[计] 来源, 源程序"
+"https://github.com/fmtlib/fmt/blob/master/README.md","minimum","entry","minimum","true","[计] 最小值
+a. 最小的, 最低的
+n. 最小值
+[计] 最小值"
+"https://github.com/fmtlib/fmt/blob/master/README.md","configuration","entry","configuration","true","[计] 配置
+n. 结构, 表面配置, 外形, 配置
+[计] 配置"
+"https://github.com/fmtlib/fmt/blob/master/README.md","consisting","entry","consisting","false","v. 由…组成( consist的现在分词 ); 包括; 存在于; 表现为（常与 in 连用）"
+"https://github.com/fmtlib/fmt/blob/master/README.md","just","entry","just","false","a. 正直的, 合理的, 正确的, 应得的
+adv. 刚刚, 正好, 仅仅"
+"https://github.com/fmtlib/fmt/blob/master/README.md","three","entry","three","false","num. 三, 三个"
+"https://github.com/fmtlib/fmt/blob/master/README.md","files","entry","file","true","[计] 文件
+n. 档案, 公文箱, 文件夹, 文件, 卷宗, 锉刀
+vi. 列队行进, 用锉刀做
+vt. 归档, 申请, 锉, 琢磨
+[计] 文件"
+"https://github.com/fmtlib/fmt/blob/master/README.md","core","entry","CORE","true","[计] 内核, 核心网
+n. 核心, 果心, 要点
+vt. 挖...的核
+[计] 内核, 核心网"
+"https://github.com/fmtlib/fmt/blob/master/README.md","format-inl","identifier","","false",""
+"https://github.com/fmtlib/fmt/blob/master/README.md","compiled","entry","compile","true","编译
+把源代码转换为目标代码或其他形式的过程。
+[计] 编译
+vt. 编译, 编辑, 编纂, 收集
+[计] 编译"
+"https://github.com/fmtlib/fmt/blob/master/README.md","compile","entry","compile","true","编译
+把源代码转换为目标代码或其他形式的过程。
+[计] 编译
+vt. 编译, 编辑, 编纂, 收集
+[计] 编译"
+"https://github.com/fmtlib/fmt/blob/master/README.md","time","entry","time","true","[计] DOS内部命令:用于显示或设定系统的时间
+n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间
+vt. 测定...的时间, 记录...的时间, 计时, 定时
+a. 时间的, 记时的, 定时的, 定期的, 分期的
+[计] DOS内部命令:用于显示或设定系统的时间"
+"https://github.com/fmtlib/fmt/blob/master/README.md","bloat","entry","bloat","false","vt. 使膨胀, 腌制, 使自大
+vi. 膨胀, 肿起
+n. 肿胀病人"
+"https://github.com/fmtlib/fmt/blob/master/README.md","reliability","entry","reliability","true","[计] 可靠性
+n. 信度, 可靠性
+[计] 可靠性"
+"https://github.com/fmtlib/fmt/blob/master/README.md","has","entry","has","false","have的第三人称单数现在式"
+"https://github.com/fmtlib/fmt/blob/master/README.md","extensive","entry","extensive","false","a. 广的, 广泛的, 多方面的
+[经] 广大的, 扩大的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","set","entry","set","true","[计] 设置; DOS内部命令:改变或显示分配给环境变量的值
+n. 日落, 同伙, 组合, 集合, 装置
+vt. 放, 安置, 放置, 设定, 使凝结, 点燃, 确定, 点缀, 使就位, 树立, 分配, 调整
+vi. 日落, 凝固, 定型, 搁住, 结果, 适合
+a. 决心的, 规定的, 故意的, 持久的, 固定的, 老套的, 准备好的
+[计] 设置; DOS内部命令:改变或显示分配给环境变量的值"
+"https://github.com/fmtlib/fmt/blob/master/README.md","continuously","entry","continuously","false","adv. 不断地, 连续地
+[电] 连续地"
+"https://github.com/fmtlib/fmt/blob/master/README.md","fuzzed","entry","fuzzed","false","v. 绒毛, 轻柔的物质( fuzz的过去式和过去分词 ); 竖起来的短细的毛发"
+"https://github.com/fmtlib/fmt/blob/master/README.md","safety","entry","safety","false","n. 安全, 保险, 平安, 保安设备
+vt. 保护, 防护"
+"https://github.com/fmtlib/fmt/blob/master/README.md","fully","entry","fully","false","adv. 十分地, 完全地, 充分地"
+"https://github.com/fmtlib/fmt/blob/master/README.md","type-safe","identifier","","false",""
+"https://github.com/fmtlib/fmt/blob/master/README.md","errors","entry","error","true","[计] 错误
+n. 错误, 过失, 失误, 误差
+[计] 错误"
+"https://github.com/fmtlib/fmt/blob/master/README.md","can","entry","can","true","[计] 作废字符
+vt. 装罐
+n. 罐头, 容器
+aux. 能, 可以
+[计] 作废字符"
+"https://github.com/fmtlib/fmt/blob/master/README.md","reported","entry","report","true","[计] 报告
+n. 报告, 报道, 传说, 案情报告, 爆炸声, 成绩单
+vt. 报告, 汇报, 转述, 报道, 揭发, 使报到
+vi. 报告, 写报道, 报到
+[计] 报告"
+"https://github.com/fmtlib/fmt/blob/master/README.md","automatic","entry","automatic","false","n. 自动手枪, 自动机械
+a. 自动的, 机械的, 必然的, 无意识的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","memory","entry","memory","true","[计] 存储器, 内存, 查看内存实用程序
+n. 记忆, 记忆力, 回忆, 纪念, 存储
+n. 内存
+[计] 存储器, 内存, 查看内存实用程序"
+"https://github.com/fmtlib/fmt/blob/master/README.md","management","entry","management","false","n. 经营, 支配, 管理
+[化] 管理处"
+"https://github.com/fmtlib/fmt/blob/master/README.md","prevents","entry","prevents","false","v. 预防；阻止（prevent的第三人称单数）"
+"https://github.com/fmtlib/fmt/blob/master/README.md","buffer","entry","buffer","true","[计] 缓冲区, 缓冲器
+n. 缓冲器, 缓冲区
+vt. 缓冲
+[计] 缓冲区, 缓冲器"
+"https://github.com/fmtlib/fmt/blob/master/README.md","overflow","entry","overflow","true","[计] 上溢; 溢出
+n. 溢值, 超值, 泛滥
+v. (使)泛滥, (使)溢出, (使)充溢
+[计] 上溢; 溢出"
+"https://github.com/fmtlib/fmt/blob/master/README.md","ease","entry","ease","false","n. 安乐, 安逸, 悠闲
+vt. 使安乐, 使安心, 减轻, 放松
+vi. 减轻, 放松, 灵活地移动"
+"https://github.com/fmtlib/fmt/blob/master/README.md","use","entry","use","false","n. 使用, 习惯, 使用价值, 用法, 使用权
+vt. 使用, 利用, 运用, 耗费
+vi. 惯常"
+"https://github.com/fmtlib/fmt/blob/master/README.md","self-contained","entry","self-contained","false","a. 沉默寡言的, 自足的, 完备的
+[化] 自备的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","base","entry","base","true","[计] 基准
+n. 底部, 垒, 基础, 基地
+vt. 以...作基础
+a. 卑鄙的, 低劣的
+[计] 基准"
+"https://github.com/fmtlib/fmt/blob/master/README.md","external","entry","external","false","n. 外部, 外面
+a. 外部的, 客观的, 表面的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","dependencies","entry","dependency","true","依赖
+项目需要使用的其他库、模块或工具。
+n. 属国, 保护地, 从属物
+[医] 从属, 从属部"
+"https://github.com/fmtlib/fmt/blob/master/README.md","permissive","entry","permissive","false","a. 许可的, 获准的, 宽容的, 放任的, 放纵的, 允许选择的, 自由的
+[法] 表示许可的, 随意的, 纵容的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","mit","entry","mit","true","[计] 麻省理工学院, 模块化智能终端
+n. 手, 连指手套, 棒球手套, 拳击手套, 马萨诸塞理工学院, 麻省理工学院
+vt. 与...握手, 用手铐铐住, 逮捕
+[计] 麻省理工学院, 模块化智能终端"
+"https://github.com/fmtlib/fmt/blob/master/README.md","license","entry","license","false","n. 执照, 许可证, 特许
+vt. 许可, 特许"
+"https://github.com/fmtlib/fmt/blob/master/README.md","portability","entry","portability","true","[计] 可移植性
+n. 可携带, 轻便
+[计] 可移植性"
+"https://github.com/fmtlib/fmt/blob/master/README.md","consistent","entry","consistent","false","a. 一致的, 坚持的, 并立的, 坚固的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","output","entry","output","true","[计] 输出
+n. 输出, 产品, 产量
+[计] 输出"
+"https://github.com/fmtlib/fmt/blob/master/README.md","across","entry","across","false","prep. 越过, 穿过, 与...相交叉, 在...的对面
+adv. 交叉, 到另一边, 在对面, 成十字"
+"https://github.com/fmtlib/fmt/blob/master/README.md","platforms","entry","platform","true","[计] 平台
+n. 站台, 月台, 讲台, 论坛, 平台
+[计] 平台"
+"https://github.com/fmtlib/fmt/blob/master/README.md","older","entry","older","false","a. 年长的；较旧的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","compilers","entry","compiler","true","编译器
+把源代码转换为目标代码或其他表示的工具。
+[计] 编译程序
+n. 编辑者
+[计] 编译程序"
+"https://github.com/fmtlib/fmt/blob/master/README.md","clean","entry","clean","false","a. 干净的, 清白的, 简洁的
+adv. 清洁地, 完全地
+vt. 清理, 使干净, 出空
+vi. 被搞干净
+n. 打扫"
+"https://github.com/fmtlib/fmt/blob/master/README.md","warning-free","identifier","","false",""
+"https://github.com/fmtlib/fmt/blob/master/README.md","codebase","missing","","false",""
+"https://github.com/fmtlib/fmt/blob/master/README.md","even","entry","even","true","[计] 偶数, 偶校验
+a. 平坦的, 相等的, 连贯的, 均等的, 公平的, 偶数的, 平均的, 平衡的, 恰好的
+vt. 使平坦, 使相等
+vi. 变平, 成为相等
+adv. 甚至, 实际上, 完全, 十分
+n. 偶数, 偶校验
+[计] 偶数, 偶校验"
+"https://github.com/fmtlib/fmt/blob/master/README.md","warning","entry","warning","false","n. 警告, 预告, 预兆, 通知
+[法] 警告, 警戒, 预告; 警告的, 注意的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","levels","entry","level","true","[计] 级别
+n. 水平, 水准, 平地
+a. 同高的, 平坦的, 齐平的, 水平的
+vt. 弄平, 夷平, 使同等, 瞄准, 对准
+vi. 变平, 拉平
+[计] 级别"
+"https://github.com/fmtlib/fmt/blob/master/README.md","such","entry","such","false","a. 如此的, 这样的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","wall","entry","wall","true","[计] 背景墙
+n. 墙, 墙壁, 垣, 内壁, 分界物, 屏障
+a. 墙的
+vt. 给...建墙, 禁闭, 用墙围住
+[计] 背景墙"
+"https://github.com/fmtlib/fmt/blob/master/README.md","wextra","missing","","false",""
+"https://github.com/fmtlib/fmt/blob/master/README.md","pedantic","entry","pedantic","false","a. 卖弄学问的, 学究式的, 假装学者的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","locale","entry","locale","true","[计] 场所
+n. 现场, 场所
+[计] 场所"
+"https://github.com/fmtlib/fmt/blob/master/README.md","independence","entry","independence","false","n. 独立, 自立, 自主
+[医] 自主性, 独立性"
+"https://github.com/fmtlib/fmt/blob/master/README.md","default","entry","default","true","[计] 默认; 默认值; 缺省值
+n. 违约, 不履行责任, 缺席, 默认值
+v. 疏怠职责, 缺席, 拖欠, 默认
+[计] 默认; 默认值; 缺省值"
+"https://github.com/fmtlib/fmt/blob/master/README.md","optional","entry","optional","false","a. 可选择的, 随意的
+[化] 选购的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","header-only","identifier","","false",""
+"https://github.com/fmtlib/fmt/blob/master/README.md","enabled","entry","enabled","true","[计] 激活的
+a. 激活的, 使可行的
+[计] 激活的"
+"https://github.com/fmtlib/fmt/blob/master/README.md","macro","entry","macro","true","[计] 宏
+pref. 宏
+a. 巨大的, 大量的
+[计] 宏"
+"https://github.com/fmtlib/fmt/blob/master/README.md","more","entry","more","true","[计] DOS外部命令:显示满屏后自动暂停, 并显示:""--More--"", 按任意键继续
+n. 更多
+a. 多的, 程度较大的, 更大的
+adv. 多, 更多, 进一步
+[计] DOS外部命令:显示满屏后自动暂停, 并显示:""--More--"", 按任意键继续"
+"https://github.com/fmtlib/fmt/blob/master/README.md","details","entry","detail","true","[计] 详细数据
+n. 细节, 详情
+vt. 详述, 选派
+vi. 画详图
+[计] 详细数据"
+"https://github.com/fmtlib/fmt/blob/master/README.md","examples","entry","examples","false","n. 例子；列证（example的复数形式）"
+"https://github.com/fmtlib/fmt/blob/master/README.md","stdout","entry","stdout","false","标准输出"
+"https://github.com/fmtlib/fmt/blob/master/README.md","run","entry","run","true","[计] 运行
+n. 跑, 赛跑, 奔跑, 奔跑的路程, 趋向, 流出, 运转时间, 连续
+vi. 跑, 奔跑, 跑步, 赛跑, 竞赛, 行驶, 运转, 进行, 蔓延
+vt. 使跑, 参赛, 追究, 驾驶, 开动, 管理, 经营, 使流出, 运行
+a. 熔化的, 融化的, 浇铸的
+run的过去式和过去分词
+[计] 运行"
+"https://github.com/fmtlib/fmt/blob/master/README.md","dates","entry","dates","false","n. 日期；枣子, 大枣；约会（date的复数形式）"
+"https://github.com/fmtlib/fmt/blob/master/README.md","times","entry","time","true","[计] DOS内部命令:用于显示或设定系统的时间
+n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间
+vt. 测定...的时间, 记录...的时间, 计时, 定时
+a. 时间的, 记时的, 定时的, 定期的, 分期的
+[计] DOS内部命令:用于显示或设定系统的时间"
+"https://github.com/fmtlib/fmt/blob/master/README.md","date","entry","date","false","n. 日期, 约会, 枣椰树
+vt. 约会, 定日期
+vi. 注明日期, 过时"
+"https://github.com/fmtlib/fmt/blob/master/README.md","container","entry","container","true","容器
+将应用与依赖打包、在隔离的运行环境中执行的单位。
+n. 容器, 集装箱
+[化] 集装箱; 贮存箱; 容器(任何一种)"
+"https://github.com/fmtlib/fmt/blob/master/README.md","check","entry","check","true","[计] 复选
+n. 检查, 支票, 阻止物, 寄物牌, 象棋中将军
+vt. 检查, 阻止, 核对, 寄存, 托运
+vi. 逐项相符, 开支票
+[计] 复选"
+"https://github.com/fmtlib/fmt/blob/master/README.md","this","entry","this","false","pron. 这, 本
+a. 这, 本
+adv. 这么"
+"https://github.com/fmtlib/fmt/blob/master/README.md","gives","entry","gives","false","n. 付出；弯曲；内幕消息（give的复数）"
+"https://github.com/fmtlib/fmt/blob/master/README.md","compile-time","entry","compile-time","false","n. [计算机]编译时间"
+"https://github.com/fmtlib/fmt/blob/master/README.md","error","entry","error","true","[计] 错误
+n. 错误, 过失, 失误, 误差
+[计] 错误"
+"https://github.com/fmtlib/fmt/blob/master/README.md","because","entry","because","false","conj. 因为"
+"https://github.com/sqlite/sqlite/blob/master/README.md","sqlite","missing","","false",""
+"https://github.com/sqlite/sqlite/blob/master/README.md","source","entry","source","true","[计] 来源, 源程序
+n. 来源, 水源, 根源, 原始资料, 源
+[计] 来源, 源程序"
+"https://github.com/sqlite/sqlite/blob/master/README.md","repository","entry","repository","true","仓库
+保存项目文件和版本历史的地方。
+n. 贮藏所, 贮物器, 仓库, 博物馆, 店铺, 陈列室, 资源丰富地区, 墓地, 亲信, 知己
+[经] 仓库, 栈房, 贮藏所"
+"https://github.com/sqlite/sqlite/blob/master/README.md","this","entry","this","false","pron. 这, 本
+a. 这, 本
+adv. 这么"
+"https://github.com/sqlite/sqlite/blob/master/README.md","contains","entry","contains","false","v. 包含；容纳；包含某字符串（contain的单三形式）"
+"https://github.com/sqlite/sqlite/blob/master/README.md","the","entry","the","false","art. 那"
+"https://github.com/sqlite/sqlite/blob/master/README.md","complete","entry","complete","false","a. 完全的, 十足的, 完成的
+vt. 完成, 完工, 使圆满"
+"https://github.com/sqlite/sqlite/blob/master/README.md","code","entry","code","true","[计] 代码
+n. 代码, 密码, 法规, 法典
+vt. 把...编码
+[计] 代码"
+"https://github.com/sqlite/sqlite/blob/master/README.md","for","entry","for","true","[计] DOS批处理命令:对一组参数重复执行指定的命令
+prep. 为, 因为, 至于
+conj. 因为
+[计] DOS批处理命令:对一组参数重复执行指定的命令"
+"https://github.com/sqlite/sqlite/blob/master/README.md","database","entry","database","true","数据库
+组织和持久保存数据的集合，由数据库系统管理访问。
+[计] 数据库
+n. 数据库
+[计] 数据库"
+"https://github.com/sqlite/sqlite/blob/master/README.md","engine","entry","engine","false","n. 引擎, 发动机, 机车
+vt. 安装发动机于"
+"https://github.com/sqlite/sqlite/blob/master/README.md","going","entry","going","false","n. 去, 离去, 工作情况, 地面状况, 行为
+a. 进行中的, 流行的, 成功的, 现存的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","back","entry","back","false","a. 后面的
+vt. 使后退, 支持
+vi. 倒退, 背靠
+adv. 向后地
+n. 背部, 后面"
+"https://github.com/sqlite/sqlite/blob/master/README.md","tree","entry","tree","true","树
+由节点和边组成的层次结构。
+[计] 树; DOS外部命令:显示指定磁盘驱动器的目录结构
+n. 树, 木料, 树状物
+vt. 把...赶上树
+[计] 树; DOS外部命令:显示指定磁盘驱动器的目录结构"
+"https://github.com/sqlite/sqlite/blob/master/README.md","includes","entry","include","true","[计] DOS内部命令:在CONFIG.SYS文件的一个配置块中包含另一配置块的内容
+vt. 包括, 把...算入, 包住
+[计] DOS内部命令:在CONFIG.SYS文件的一个配置块中包含另一配置块的内容"
+"https://github.com/sqlite/sqlite/blob/master/README.md","many","entry","many","false","n. 多数, 多数人
+a. 许多的
+pron. 许多"
+"https://github.com/sqlite/sqlite/blob/master/README.md","tests","entry","tests","false","n. 测验（test的复数）"
+"https://github.com/sqlite/sqlite/blob/master/README.md","and","entry","and","true","[计] 与
+conj. 和, 与
+[计] 与"
+"https://github.com/sqlite/sqlite/blob/master/README.md","some","entry","some","false","pron. 一些, 一部分, 若干
+adv. 大约
+a. 一些的, 少许的, 某一的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","documentation","entry","documentation","true","[计] 文件编制, 文档
+n. (总称)文件
+[计] 文件编制, 文档"
+"https://github.com/sqlite/sqlite/blob/master/README.md","though","entry","though","false","adv. 然而, 可是
+conj. 虽然, 纵然"
+"https://github.com/sqlite/sqlite/blob/master/README.md","additional","entry","additional","false","a. 附加的, 另外的, 额外的
+[机] 加添的, 附加的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","most","entry","most","false","n. 最多, 最大
+a. 大多数的, 几乎全部的, 最多的
+adv. 最, 最多, 极其"
+"https://github.com/sqlite/sqlite/blob/master/README.md","are","entry","are","false","be的现在时复数或第二人称单数"
+"https://github.com/sqlite/sqlite/blob/master/README.md","managed","entry","managed","false","a. 与中央化计划及管制有关的；托管的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","separately","entry","separately","true","[计] 分离地
+adv. [表]分开, 不相连, 分隔, 分离, 不同, 单独, 独立, 各自, 各别, 脱离肉体, 灵魂
+[计] 分离地"
+"https://github.com/sqlite/sqlite/blob/master/README.md","see","entry","see","false","vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意
+vi. 看, 观看, 注意, 知道, 考虑
+n. 主教的职位"
+"https://github.com/sqlite/sqlite/blob/master/README.md","on-line","entry","on-line","true","[计] 联机, 在线
+a. 在线的, 即时的, 联机的
+[计] 联机, 在线"
+"https://github.com/sqlite/sqlite/blob/master/README.md","more","entry","more","true","[计] DOS外部命令:显示满屏后自动暂停, 并显示:""--More--"", 按任意键继续
+n. 更多
+a. 多的, 程度较大的, 更大的
+adv. 多, 更多, 进一步
+[计] DOS外部命令:显示满屏后自动暂停, 并显示:""--More--"", 按任意键继续"
+"https://github.com/sqlite/sqlite/blob/master/README.md","information","entry","information","true","[计] 信息
+n. 消息, 知识, 通知, 情报, 信息, 问讯处, 起诉
+[计] 信息"
+"https://github.com/sqlite/sqlite/blob/master/README.md","about","entry","about","false","prep. 在...周围, 大约, 有关, 关于
+adv. 大约, 四处, 在附近, 周围"
+"https://github.com/sqlite/sqlite/blob/master/README.md","what","entry","what","false","pron. 什么
+interj. 怎么, 多么
+a. 什么的
+adv. 到什么程度"
+"https://github.com/sqlite/sqlite/blob/master/README.md","how","entry","how","false","adv. 如何, 怎样, 多少, 多么
+n. 方式"
+"https://github.com/sqlite/sqlite/blob/master/README.md","works","entry","works","false","n. 工程, 工厂, 工事, 活动部件, 机件, 著作, 作品, 善行, 德行
+[机] 工厂, 工场"
+"https://github.com/sqlite/sqlite/blob/master/README.md","from","entry","from","false","prep. 从, 来自, 根据"
+"https://github.com/sqlite/sqlite/blob/master/README.md","user's","missing","","false",""
+"https://github.com/sqlite/sqlite/blob/master/README.md","perspective","entry","perspective","true","[计] 透视
+n. 远景, 透视感, (观察问题的)视角, 透视法, 看法, 透视图
+a. 透视的, 透视法的
+[计] 透视"
+"https://github.com/sqlite/sqlite/blob/master/README.md","readme","entry","readme","true","项目说明文件
+通常介绍项目用途、安装和使用方法。
+[计] 自述文件
+n. 自述文件
+[计] 自述文件"
+"https://github.com/sqlite/sqlite/blob/master/README.md","file","entry","file","true","[计] 文件
+n. 档案, 公文箱, 文件夹, 文件, 卷宗, 锉刀
+vi. 列队行进, 用锉刀做
+vt. 归档, 申请, 锉, 琢磨
+[计] 文件"
+"https://github.com/sqlite/sqlite/blob/master/README.md","that","entry","that","false","a. 那, 那个
+conj. 以致, 因为
+pron. 那
+adv. 那么, 那样"
+"https://github.com/sqlite/sqlite/blob/master/README.md","goes","entry","goes","false","v. 前进；行走（go的第三人称单数形式）"
+"https://github.com/sqlite/sqlite/blob/master/README.md","into","entry","into","false","prep. 进入...之内, 朝..., 深入...之中, 成为...状况"
+"https://github.com/sqlite/sqlite/blob/master/README.md","building","entry","build","true","构建
+把源代码及相关资源处理成可运行或可发布产物的过程。
+v. 建立, 建筑
+n. 构造, 体格"
+"https://github.com/sqlite/sqlite/blob/master/README.md","not","entry","not","true","[计] 非
+adv. 不, 非, 未
+[计] 非"
+"https://github.com/sqlite/sqlite/blob/master/README.md","used","entry","used","false","a. 使用过的, 二手的, 习惯的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","version","entry","version","true","[计] 版本
+n. 一种描述, 版本, 译文
+[计] 版本"
+"https://github.com/sqlite/sqlite/blob/master/README.md","control","entry","control","true","[计] 控制; 控制器
+n. 控制, 管理, 克制, 控制器, 操纵装置
+vt. 控制, 操纵, 抑制
+[计] 控制; 控制器"
+"https://github.com/sqlite/sqlite/blob/master/README.md","sources","entry","source","true","[计] 来源, 源程序
+n. 来源, 水源, 根源, 原始资料, 源
+[计] 来源, 源程序"
+"https://github.com/sqlite/sqlite/blob/master/README.md","using","entry","using","true","[计] 使用
+[计] 使用"
+"https://github.com/sqlite/sqlite/blob/master/README.md","fossil","entry","fossil","false","n. 化石, 古物
+a. 化石的, 陈腐的, 守旧的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","distributed","entry","distributed","true","[计] 分散对齐, 分布式处理
+a. 分布式的
+[计] 分散对齐, 分布式处理"
+"https://github.com/sqlite/sqlite/blob/master/README.md","system","entry","system","true","[计] 系统; 体制; 体系
+n. 系统, 体系, 制度, 方式, 秩序, 分类原则
+[计] 系统; 体制; 体系"
+"https://github.com/sqlite/sqlite/blob/master/README.md","was","entry","be","true","[计] 后端, 总线允许
+v. 是, 表示, 在
+[计] 后端, 总线允许"
+"https://github.com/sqlite/sqlite/blob/master/README.md","specifically","entry","specifically","false","adv. 特定地, 明确地, 按特性"
+"https://github.com/sqlite/sqlite/blob/master/README.md","designed","entry","designed","false","a. 故意的, 有计划的, 特意的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","written","entry","write","true","[计] 书写器
+vt. 书写, 著述, 写, 写满, 写信给
+vi. 写, 写字, 写信, 写作, 作曲
+[计] 书写器"
+"https://github.com/sqlite/sqlite/blob/master/README.md","support","entry","support","true","[计] 后援; 支持
+n. 支持, 支撑, 援助, 供养, 支撑物
+vt. 支援, 支撑, 帮助, 支持, 忍受, 供养, 证实
+[计] 后援; 支持"
+"https://github.com/sqlite/sqlite/blob/master/README.md","development","entry","development","false","n. 发展
+[化] 展开"
+"https://github.com/sqlite/sqlite/blob/master/README.md","urtext","entry","Urtext","false","<德>n.原始文本(如乐谱等)"
+"https://github.com/sqlite/sqlite/blob/master/README.md","you","entry","you","false","pron. 你, 你们"
+"https://github.com/sqlite/sqlite/blob/master/README.md","reading","entry","read","true","[计] 读取
+v. 读, 阅读, 理解
+a. 有学问的
+n. 读取, 阅读
+[计] 读取"
+"https://github.com/sqlite/sqlite/blob/master/README.md","github","missing","","false",""
+"https://github.com/sqlite/sqlite/blob/master/README.md","other","entry","other","false","a. 其他的, 另外的, 从前的
+pron. 其他的, 他人, 另外一个"
+"https://github.com/sqlite/sqlite/blob/master/README.md","git","entry","Git","true","Git 版本控制系统
+记录文件版本、支持分支与合并的分布式版本控制工具。
+n. [俚]饭桶"
+"https://github.com/sqlite/sqlite/blob/master/README.md","service","entry","service","true","服务
+Kubernetes 中向一组后端端点提供稳定访问方式的资源。
+[计] 服务, 业务
+n. 服务, 贡献, 雇佣, 公职, 服役, 功劳, 仪式, 送达, 行政部门
+vt. 保养, 维修
+a. 武装部队的, 服务性的, 仆人的, 耐用的
+[计] 服务, 业务"
+"https://github.com/sqlite/sqlite/blob/master/README.md","then","entry","then","false","adv. 然后, 当时
+conj. 然后, 当时
+n. 那时"
+"https://github.com/sqlite/sqlite/blob/master/README.md","looking","entry","looking","false","a. 有…相貌的；有…样子的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","mirror","entry","mirror","false","n. 镜子, 写真, 典范
+vt. 反映, 映出"
+"https://github.com/sqlite/sqlite/blob/master/README.md","names","entry","name","true","[计] 名称, 文件名, 姓名
+n. 名字, 名称, 姓名, 名义, 名誉, 文件名
+vt. 命名, 称呼, 任命, 提名, 列举
+a. 姓名的, 据以取名的
+[计] 名称, 文件名, 姓名"
+"https://github.com/sqlite/sqlite/blob/master/README.md","check-ins","entry","check-ins","false","n. 报到处, （旅馆、机场等）登记处( check-in的复数形式 )"
+"https://github.com/sqlite/sqlite/blob/master/README.md","artifacts","entry","artifact","true","构建产物
+工作流生成并保存的文件，如安装包或测试报告。
+n. 人工制品
+[医] 人为现象, 人工产物"
+"https://github.com/sqlite/sqlite/blob/master/README.md","different","entry","different","false","a. 不同的
+[机] 差动, 微分的, 差速器"
+"https://github.com/sqlite/sqlite/blob/master/README.md","official","entry","official","false","n. 官员, 公务员, 职员
+a. 公务的, 官方的, 正式的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","those","entry","those","false","pron. 那些"
+"https://github.com/sqlite/sqlite/blob/master/README.md","objects","entry","object","true","对象
+通常指某个类的实例，持有状态并提供行为。
+[计] 对象
+n. 物体, 目标, 目的, 对象, 宾语, 客体
+vi. 反对, 抱反感
+vt. 提出...来反对
+[计] 对象"
+"https://github.com/sqlite/sqlite/blob/master/README.md","found","entry","find","true","[计] 查找; DOS外部命令:在指定的文件或从键盘输入的文本行中
+vt. 发现, 感到, 找到, 认为, 得到
+vi. 裁决
+n. 发现
+[计] 查找; DOS外部命令:在指定的文件或从键盘输入的文本行中
+寻找指定的字符串, 将符合条件的行或行数输出到标准输出设备上"
+"https://github.com/sqlite/sqlite/blob/master/README.md","footer","entry","footer","true","[计] 页脚
+n. 墩基, 墙基, 足球比赛
+[计] 页脚"
+"https://github.com/sqlite/sqlite/blob/master/README.md","check-in","entry","check-in","false","n. 报到, 抵达, 签到"
+"https://github.com/sqlite/sqlite/blob/master/README.md","comment","entry","comment","true","[计] 备注
+n. 注解, 批评, 评论, 备注
+vi. 评论, 注解
+[计] 备注"
+"https://github.com/sqlite/sqlite/blob/master/README.md","authorized","entry","authorized","false","a. 经认可的, 经授权的
+[法] 委任的, 核准的, 许可的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","mirrors","entry","mirrors","false","n. 反光镜；写实；[罕]模范；镜子（mirror的复数）"
+"https://github.com/sqlite/sqlite/blob/master/README.md","name","entry","name","true","[计] 名称, 文件名, 姓名
+n. 名字, 名称, 姓名, 名义, 名誉, 文件名
+vt. 命名, 称呼, 任命, 提名, 列举
+a. 姓名的, 据以取名的
+[计] 名称, 文件名, 姓名"
+"https://github.com/sqlite/sqlite/blob/master/README.md","can","entry","can","true","[计] 作废字符
+vt. 装罐
+n. 罐头, 容器
+aux. 能, 可以
+[计] 作废字符"
+"https://github.com/sqlite/sqlite/blob/master/README.md","also","entry","also","false","adv. 也, 并且, 同样地"
+"https://github.com/sqlite/sqlite/blob/master/README.md","seen","entry","seen","false","see的过去分词"
+"https://github.com/sqlite/sqlite/blob/master/README.md","manifest","entry","manifest","false","n. 载货单, 运货单, 旅客名单
+a. 显然的, 明白的
+vi. 显示, 出现
+vt. 表明, 表现, 证明"
+"https://github.com/sqlite/sqlite/blob/master/README.md","uuid","missing","","false",""
+"https://github.com/sqlite/sqlite/blob/master/README.md","root","entry","root","false","n. 根, 根本, 根源, 基础, 底部
+vt. 使扎根, 使固定, 根除, 肃清, 搜出, 用鼻拱
+vi. 生根, 固定, 源于, 用鼻拱土, 寻找, 捧场, 支持"
+"https://github.com/sqlite/sqlite/blob/master/README.md","always","entry","always","false","adv. 总是, 始终"
+"https://github.com/sqlite/sqlite/blob/master/README.md","use","entry","use","false","n. 使用, 习惯, 使用价值, 用法, 使用权
+vt. 使用, 利用, 运用, 耗费
+vi. 惯常"
+"https://github.com/sqlite/sqlite/blob/master/README.md","git-name","identifier","","false",""
+"https://github.com/sqlite/sqlite/blob/master/README.md","when","entry","when","false","conj. 当...的时候
+adv. 何时, 什么时候
+pron. 什么时侯
+n. 时间"
+"https://github.com/sqlite/sqlite/blob/master/README.md","communicating","entry","communicating","true","[计] 通信的
+[计] 通信的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","pulled","entry","pull","true","拉取并整合
+从远程获取改动，并整合到当前分支。
+vt. 拉, 拖, 拔, 牵, 撕开, 吸引
+vi. 拉, 拖, 拔, 有吸引力
+n. 拉, 拖, 拔, 拉力, 牵引力, 划船, 吸引"
+"https://github.com/sqlite/sqlite/blob/master/README.md","your","entry","your","false","pron. 你的, 你们的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","secondary","entry","secondary","false","a. 中级的, 中等的, 次要的, 第二的, 从属的, 辅助的
+[化] 仲(指CH-3...CH(CH-3)-型支链烃基或指二元胺及R-2CHOH型的醇); 第二"
+"https://github.com/sqlite/sqlite/blob/master/README.md","want","entry","want","false","n. 需要的东西, 缺乏, 贫困, 需要
+vt. 要, 希望, 应该, 缺少
+vi. 生活困苦, 需要, 缺少"
+"https://github.com/sqlite/sqlite/blob/master/README.md","verify","entry","verify","true","[计] 校验, 检验; DOS内部命令:设定写入磁盘时是否验证写入的正确性
+vt. 证明, 查证, 证实, 检验, 校验
+[计] 校验, 检验; DOS内部命令:设定写入磁盘时是否验证写入的正确性"
+"https://github.com/sqlite/sqlite/blob/master/README.md","its","entry","its","false","pron. 它的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","integrity","entry","integrity","true","[计] 完整性
+n. 正直, 廉正, 完整
+[计] 完整性"
+"https://github.com/sqlite/sqlite/blob/master/README.md","there","entry","there","false","adv. 在那里"
+"https://github.com/sqlite/sqlite/blob/master/README.md","hints","entry","hints","false","n. 暗示, 提示（hint的复数形式）"
+"https://github.com/sqlite/sqlite/blob/master/README.md","verifying","entry","verifying","true","[计] 检验, 验证
+[计] 检验, 验证"
+"https://github.com/sqlite/sqlite/blob/master/README.md","authenticity","entry","authenticity","false","n. 可靠性, 真实性
+[经] 确实性, 真实性"
+"https://github.com/sqlite/sqlite/blob/master/README.md","section","entry","section","true","[计] 扇区
+n. 区段, 部分, 区域, 节, 截面, 处, 科, 区, 扇区
+vt. 把...分段, 把...切片
+vi. 被切成片
+[计] 扇区"
+"https://github.com/sqlite/sqlite/blob/master/README.md","below","entry","below","false","prep. 在下面
+adv. 在下面"
+"https://github.com/sqlite/sqlite/blob/master/README.md","contacting","entry","contacting","false","[建] 接触"
+"https://github.com/sqlite/sqlite/blob/master/README.md","developers","entry","developer","true","[计] 显影器
+n. 开发者
+[计] 显影器"
+"https://github.com/sqlite/sqlite/blob/master/README.md","preferred","entry","preferred","true","[计] 首选的
+a. 首选的
+[计] 首选的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","way","entry","way","false","n. 路, 路线, 路途, 方法, 道路, 情形, 规模, 习惯, 行业, 方面
+adv. 远远地, 非常"
+"https://github.com/sqlite/sqlite/blob/master/README.md","ask","entry","ask","false","vi. 问, 要求
+vt. 问, 要求, 邀请, 需要"
+"https://github.com/sqlite/sqlite/blob/master/README.md","questions","entry","question","true","[计] 询问
+n. 问题, 询问
+v. 询问, 审问, 怀疑
+[计] 询问"
+"https://github.com/sqlite/sqlite/blob/master/README.md","make","entry","make","false","vt. 制造, 安排, 创造, 构成, 使得, 产生, 造成, 整理, 布置, 引起, 到达, 进行
+vi. 开始, 前进, 增大, 被制造, 被处理
+n. 制造, 构造, 性情"
+"https://github.com/sqlite/sqlite/blob/master/README.md","comments","entry","comment","true","[计] 备注
+n. 注解, 批评, 评论, 备注
+vi. 评论, 注解
+[计] 备注"
+"https://github.com/sqlite/sqlite/blob/master/README.md","visit","entry","visit","false","n. 拜访, 访问, 游览, 视察
+vt. 拜访, 访问, 参观, 视察, 降临
+vi. 访问, 参观, 闲谈"
+"https://github.com/sqlite/sqlite/blob/master/README.md","forum","entry","forum","false","n. 论坛, 公开讨论的广场, 法庭, 讨论会
+[法] 讨论会, 专题讨论, 公共论坛"
+"https://github.com/sqlite/sqlite/blob/master/README.md","directory","entry","directory","true","[计] 目录
+n. 目录, 工商名录, 指南
+[计] 目录"
+"https://github.com/sqlite/sqlite/blob/master/README.md","either","entry","either","false","a. (两者之中)任一的, (两者之中)各一的
+pron. (两者之中)任一
+conj. 或, 要么"
+"https://github.com/sqlite/sqlite/blob/master/README.md","hash","entry","hash","true","哈希／字段映射
+算法中指将输入映射为哈希值；Redis Hash 是字段和值的集合，这两种语境需区分。
+n. 剁碎的食物, 杂乱无章的的一大堆, 杂烩, 复述
+vt. 切碎, 搞糟"
+"https://github.com/sqlite/sqlite/blob/master/README.md","every","entry","every","false","a. 每一, 所有的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","entire","entry","entire","false","n. 整个, 全部
+a. 全体的, 完全的, 全部的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","just","entry","just","false","a. 正直的, 合理的, 正确的, 应得的
+adv. 刚刚, 正好, 仅仅"
+"https://github.com/sqlite/sqlite/blob/master/README.md","itself","entry","itself","false","pron. 它本身, 它自己"
+"https://github.com/sqlite/sqlite/blob/master/README.md","possibly","entry","possibly","false","adv. 可能, 也许"
+"https://github.com/sqlite/sqlite/blob/master/README.md","with","entry","with","false","prep. 和...在一起, 以, 由于"
+"https://github.com/sqlite/sqlite/blob/master/README.md","last","entry","last","false","a. 最后的, 末尾的, 最近的
+vi. 持续, 支持, 维持
+vt. 使维持, 够...用
+adv. 最后, 后来
+n. 最后, 末尾, 鞋楦头"
+"https://github.com/sqlite/sqlite/blob/master/README.md","line","entry","line","true","[计] 线路
+n. 列, 线, 绳, 电线, 线路, 路线, 航线, 作业线, 界线, 战线, 外形, 排, 家系
+vt. 排成一行, 顺...排列, 划线于, 加衬里, 使有线条, 使起皱纹
+vi. 排队
+[计] 线路"
+"https://github.com/sqlite/sqlite/blob/master/README.md","omitted","entry","omitted","false","a. 省略了的；省去的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","begins","entry","begin","true","[计] 开始
+v. 开始
+[计] 开始"
+"https://github.com/sqlite/sqlite/blob/master/README.md","remove","entry","remove","true","[计] 删除
+vt. 移动, 调动, 除去, 迁移, 开除, 移交
+vi. 迁移, 移动, 搬家
+n. 班级, 升级, 移动, 搬家, 间距
+[计] 删除"
+"https://github.com/sqlite/sqlite/blob/master/README.md","should","entry","should","false","aux. 应该, 将要"
+"https://github.com/sqlite/sqlite/blob/master/README.md","contain","entry","contain","false","vt. 包含, 容纳, 控制
+vi. 自制"
+"https://github.com/sqlite/sqlite/blob/master/README.md","all","entry","all","false","a. 所有的, 全部的, 一切的
+adv. 全部, 全然
+pron. 全部
+n. 全部"
+"https://github.com/sqlite/sqlite/blob/master/README.md","above","entry","above","false","prep. 在上方, 超出
+adv. 在上面
+a. 上述的, 上面的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","comparisons","entry","comparisons","false","n. 比较( comparison的复数形式 ); [修辞学]比喻; [语法学]（形容词或副词的）比较等级; 类似"
+"https://github.com/sqlite/sqlite/blob/master/README.md","correct","entry","correct","false","a. 正确的, 合适的
+vt. 改正, 订正"
+"https://github.com/sqlite/sqlite/blob/master/README.md","confident","entry","confident","false","a. 有信心的, 有把握的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","authentic","entry","authentic","false","a. 可靠的, 可信的, 真正的
+[法] 被认证的, 确认的, 可信的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","unadulterated","entry","unadulterated","false","a. 无搀杂的, 道地的, 纯粹的, 完全的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","details","entry","detail","true","[计] 详细数据
+n. 细节, 详情
+vt. 详述, 选派
+vi. 画详图
+[计] 详细数据"
+"https://github.com/sqlite/sqlite/blob/master/README.md","format","entry","format","true","[计] 格式; DOS外部命令:对磁盘进行格式化
+n. 开本, 版式, 形式, 格式
+vt. 格式化
+[计] 格式; DOS外部命令:对磁盘进行格式化"
+"https://github.com/sqlite/sqlite/blob/master/README.md","files","entry","file","true","[计] 文件
+n. 档案, 公文箱, 文件夹, 文件, 卷宗, 锉刀
+vi. 列队行进, 用锉刀做
+vt. 归档, 申请, 锉, 琢磨
+[计] 文件"
+"https://github.com/sqlite/sqlite/blob/master/README.md","available","entry","available","false","a. 可利用的, 可获得的, 有效的
+[医] 有效的, 可得的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","website","entry","website","false","n. 网站（全球资讯网的主机站）"
+"https://github.com/sqlite/sqlite/blob/master/README.md","process","entry","process","true","进程
+拥有执行状态和系统资源的程序运行实例。
+[计] 进程
+n. 程序, 进行, 过程
+vt. 加工, 使...接受处理, 对...处置, 对...起诉
+a. 经加工的, 有特殊光效的
+[计] 进程"
+"https://github.com/sqlite/sqlite/blob/master/README.md","checking","entry","checking","true","[计] 检查的
+[计] 检查的
+[化] 校核; 检验; 浅裂纹"
+"https://github.com/sqlite/sqlite/blob/master/README.md","automated","entry","automate","true","[计] 自动化
+vt.vi. (使)自动化
+[计] 自动化"
+"https://github.com/sqlite/sqlite/blob/master/README.md","makefile","entry","makefile","true","[计] 文件编写, 文卷编写
+[计] 文件编写, 文卷编写"
+"https://github.com/sqlite/sqlite/blob/master/README.md","verify-source","identifier","","false",""
+"https://github.com/sqlite/sqlite/blob/master/README.md","good","entry","good","false","n. 善行, 好处, 利益
+a. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","detecting","entry","detecting","true","[计] 检测, 探测
+[计] 检测, 探测"
+"https://github.com/sqlite/sqlite/blob/master/README.md","accidental","entry","accidental","false","a. 意外的, 偶然的, 非主要的, 附属的
+n. 临时记号, 次要方面"
+"https://github.com/sqlite/sqlite/blob/master/README.md","changes","entry","changes","false","n. 变化, 改变（change的复数）"
+"https://github.com/sqlite/sqlite/blob/master/README.md","but","entry","but","false","prep. 除了
+conj. 但是
+adv. 仅仅"
+"https://github.com/sqlite/sqlite/blob/master/README.md","malicious","entry","malicious","false","a. 怀恶意的, 恶毒的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","could","entry","can","true","[计] 作废字符
+vt. 装罐
+n. 罐头, 容器
+aux. 能, 可以
+[计] 作废字符"
+"https://github.com/sqlite/sqlite/blob/master/README.md","hidden","entry","hidden","true","[计] 隐藏的
+a. 隐藏的
+hide的过去分词
+[计] 隐藏的"
+"https://github.com/sqlite/sqlite/blob/master/README.md","modifying","entry","modify","true","[计] 修改
+vt. 修正, 变更, 修饰, 缓和, 减轻
+vi. 被修改
+[计] 修改"
+"https://github.com/sqlite/sqlite/blob/master/README.md","makefiles","missing","","false",""
+"https://github.com/sqlite/sqlite/blob/master/README.md","contacts","entry","contacts","false","n. 联系人；联络方式；触体（contact的复数形式）"
